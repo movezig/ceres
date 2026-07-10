@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Ceres — Smart-Money Flow</title>
+<link rel="stylesheet" href="./style.css" />
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='0.9em' font-size='90'>⬡</text></svg>" />
+</head>
+<body>
+<header>
+  <div class="brand"><span class="hex">⬡</span> CERES <span class="tag">smart-money flow intelligence</span></div>
+  <nav>
+    <a href="#overview" data-view="overview">Overview</a>
+    <a href="#trades" data-view="trades">Trades</a>
+    <a href="#tickers" data-view="tickers">Tickers</a>
+    <a href="#traders" data-view="traders">Traders</a>
+    <a href="#sectors" data-view="sectors">Sectors</a>
+  </nav>
+  <div class="header-right">
+    <select id="windowSel" title="Lookback window">
+      <option value="7d">7 days</option>
+      <option value="30d" selected>30 days</option>
+      <option value="90d">90 days</option>
+      <option value="365d">1 year</option>
+    </select>
+    <button id="pollBtn" title="Trigger a collector run now">⟳ Poll now</button>
+    <span id="alertBell" title="Alerts since your last visit">🔔<b id="bellCount"></b></span>
+  </div>
+</header>
+<div class="poc-banner">⬡ Live POC — real SEC + congressional disclosures, re-polled hourly · last refresh 2026-07-10 16:47 UTC · <a href="https://github.com/movezig/ceres">self-host for desktop alerts</a></div>
+
+<main id="view"></main>
+
+<footer>
+  <span id="statusBar">loading…</span>
+  <span class="foot-right">
+    <button id="purgeDemoBtn" class="ghost" title="Remove demo seed data">purge demo data</button>
+    · data: SEC EDGAR + public congressional datasets · disclosures lag reality (2d–45d) · not investment advice
+  </span>
+</footer>
+
+<script src="./static-api.js"></script>
+<script src="./app.js"></script>
+</body>
+</html>

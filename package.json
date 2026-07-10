@@ -1,0 +1,14 @@
+{
+  "name": "ceres",
+  "version": "1.0.0",
+  "description": "Ceres — smart-money copy-trade intelligence dashboard. Polls SEC EDGAR (Form 4 insiders, SC 13D activists, 13F superinvestors) and congressional disclosure datasets hourly, aggregates flows by ticker, and serves a live dashboard with gauges, alerts, heatmap and drill-down tables.",
+  "type": "module",
+  "engines": { "node": ">=18.0.0" },
+  "scripts": {
+    "start": "node server.js",
+    "seed": "node src/seed.js",
+    "poll": "node src/poll-once.js",
+    "build:site": "node src/build-site.js"
+  },
+  "dependencies": {}
+}
