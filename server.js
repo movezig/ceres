@@ -2,8 +2,9 @@
 import http from "node:http";
 import fs from "node:fs";
 import path from "node:path";
+import crypto from "node:crypto";
 import { fileURLToPath } from "node:url";
-import { CONFIG } from "./src/config.js";
+import { CONFIG, sourceConfigured } from "./src/config.js";
 import { store } from "./src/store.js";
 import { pollAll } from "./src/collectors.js";
 import { daysAgoISO } from "./src/util.js";
@@ -17,11 +18,35 @@ const MIME = { ".html": "text/html", ".js": "text/javascript", ".css": "text/css
 
 /* ------------------------------ helpers ------------------------------ */
 
+// Applied to every response. CSP allows only same-origin resources ('unsafe-inline'
+// is required by the SPA's inline handlers/styles; all rendered data is HTML-escaped).
+const SEC_HEADERS = {
+  "X-Content-Type-Options": "nosniff",
+  "X-Frame-Options": "DENY",
+  "Referrer-Policy": "no-referrer",
+  "Content-Security-Policy": "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; connect-src 'self'; frame-ancestors 'none'; base-uri 'none'; form-action 'none'"
+};
+
 const json = (res, obj, code = 200) => {
   const body = JSON.stringify(obj);
-  res.writeHead(code, { "Content-Type": "application/json", "Cache-Control": "no-store" });
+  res.writeHead(code, { "Content-Type": "application/json", "Cache-Control": "no-store", ...SEC_HEADERS });
   res.end(body);
 };
+
+/* Auth for mutating endpoints: Bearer token checked against a stored SHA-256 hash
+   (constant-time). No plaintext secret ever lives on disk or in config. Requests
+   from the loopback interface are trusted unless CERES_REQUIRE_AUTH=1 — the socket
+   address is used, never spoofable proxy headers. */
+const isLoopback = (req) => ["127.0.0.1", "::1", "::ffff:127.0.0.1"].includes(req.socket.remoteAddress);
+
+function authorized(req) {
+  if (!CONFIG.requireAuth && isLoopback(req)) return true;
+  if (!/^[0-9a-f]{64}$/.test(CONFIG.adminTokenHash)) return false; // no valid hash configured → remote mutations always denied
+  const m = (req.headers.authorization || "").match(/^Bearer\s+(\S+)$/i);
+  if (!m) return false;
+  const presented = crypto.createHash("sha256").update(m[1]).digest();
+  return crypto.timingSafeEqual(presented, Buffer.from(CONFIG.adminTokenHash, "hex"));
+}
 
 function windowCutoff(q) {
   const w = q.get("window") || "30d";
@@ -66,7 +91,56 @@ const routes = {
         alerts24h: store.alerts.filter((a) => a.source === src && a.ts >= new Date(Date.now() - 864e5).toISOString()).length
       };
     }
-    return { tiers, totalTrades: store.trades.length, totalAlerts: store.alerts.length, now: new Date().toISOString() };
+    const day24 = new Date(Date.now() - 864e5).toISOString();
+    const signalTiers = {};
+    for (const [key, meta] of Object.entries(CONFIG.signalSources)) {
+      const rows = store.signals.filter((s) => s.source === key);
+      signalTiers[key] = {
+        label: meta.label, configured: sourceConfigured(key),
+        last24h: rows.filter((s) => s.ts >= day24).length,
+        lastPoll: store.state.lastPoll[key] || null
+      };
+    }
+    return { tiers, signalTiers, totalTrades: store.trades.length, totalSignals: store.signals.length, totalAlerts: store.alerts.length, now: new Date().toISOString() };
+  },
+
+  "/api/signals": (q) => {
+    const cutoff = windowCutoff(q);
+    const ticker = q.get("ticker")?.toUpperCase();
+    const src = q.get("source"), kind = q.get("kind");
+    const limit = Math.min(Number(q.get("limit") || 200), 2000);
+    return store.signals.filter((s) =>
+      s.date >= cutoff &&
+      (!ticker || s.ticker === ticker) &&
+      (!src || s.source === src) &&
+      (!kind || s.kind === kind)
+    ).slice(0, limit);
+  },
+
+  // Per-ticker rollup of the signal feeds for the crowd-attention panel. Values are
+  // per-source (units differ: watchers vs mentions vs posts), never summed across sources.
+  "/api/attention": (q) => {
+    const cutoff = windowCutoff(q);
+    const by = {};
+    for (const s of store.signals) {
+      if (!s.ticker || s.date < cutoff) continue;
+      const a = (by[s.ticker] ||= { ticker: s.ticker, sources: {}, sentiment: null, shortPct: null, pump: false, lastTs: "", _sent: "", _sv: "" });
+      if (s.ts > a.lastTs) a.lastTs = s.ts;
+      if (s.kind === "attention") {
+        const cur = a.sources[s.source];
+        if (!cur || s.ts > cur.ts) a.sources[s.source] = { value: s.value, rank: s.meta?.rank ?? null, ts: s.ts };
+      } else if (s.kind === "sentiment" && s.ts > a._sent) { a.sentiment = s.value; a._sent = s.ts; }
+      else if (s.kind === "short_vol" && s.ts > a._sv) { a.shortPct = s.value; a._sv = s.ts; }
+      else if (s.kind === "pump_mention") a.pump = true;
+    }
+    const smartCutoff = daysAgoISO(CONFIG.alerts.confluenceWindowDays);
+    return Object.values(by).map(({ _sent, _sv, ...a }) => ({
+      ...a,
+      sourcesActive: Object.keys(a.sources).length,
+      smartBuyers: new Set(store.trades
+        .filter((t) => t.ticker === a.ticker && t.filedDate >= smartCutoff && ["buy", "new_stake", "add"].includes(t.type))
+        .map((t) => t.trader)).size
+    })).sort((x, y) => (y.sourcesActive - x.sourcesActive) || (y.lastTs < x.lastTs ? -1 : 1));
   },
 
   "/api/alerts": (q) => {
@@ -140,6 +214,8 @@ const routes = {
 
   "/api/meta": () => ({
     managers: CONFIG.managers, sources: CONFIG.sources, alerts: CONFIG.alerts,
+    signalSources: Object.fromEntries(Object.entries(CONFIG.signalSources)
+      .map(([k, v]) => [k, { label: v.label, configured: sourceConfigured(k) }])),
     pollIntervalMs: CONFIG.pollIntervalMs, port: CONFIG.port
   })
 };
@@ -152,10 +228,12 @@ const server = http.createServer(async (req, res) => {
 
   try {
     if (u.pathname === "/api/poll" && req.method === "POST") {
+      if (!authorized(req)) return json(res, { error: "unauthorized" }, 401);
       pollAll({ force: true }).catch((e) => console.error(e));
       return json(res, { started: true });
     }
     if (u.pathname === "/api/purge-demo" && req.method === "POST") {
+      if (!authorized(req)) return json(res, { error: "unauthorized" }, 401);
       store.purgeDemo();
       return json(res, { ok: true, remaining: store.trades.length });
     }
@@ -166,10 +244,10 @@ const server = http.createServer(async (req, res) => {
     const file = path.join(PUB, path.normalize(p).replace(/^(\.\.[/\\])+/, ""));
     if (!file.startsWith(PUB) || !fs.existsSync(file) || !fs.statSync(file).isFile()) {
       // SPA fallback
-      res.writeHead(200, { "Content-Type": "text/html" });
+      res.writeHead(200, { "Content-Type": "text/html", ...SEC_HEADERS });
       return res.end(fs.readFileSync(path.join(PUB, "index.html")));
     }
-    res.writeHead(200, { "Content-Type": MIME[path.extname(file)] || "application/octet-stream" });
+    res.writeHead(200, { "Content-Type": MIME[path.extname(file)] || "application/octet-stream", ...SEC_HEADERS });
     res.end(fs.readFileSync(file));
   } catch (e) {
     console.error("[server]", e);

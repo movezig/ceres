@@ -70,13 +70,59 @@ for (let i = 0; i < 120; i++) {
   });
 }
 
+// Demo trades for the two new disclosure tiers
+for (let i = 0; i < 30; i++) {
+  const [ticker, company] = pick(TICKERS);
+  const [trader, role] = pick(INSIDERS);
+  const shares = Math.round(rnd(2000, 120000));
+  const price = rnd(8, 900);
+  const d = rnd(0, 45);
+  add({
+    id: hashId("demo-144", i), source: "form144", ticker, company, trader, traderRole: role,
+    type: "sell", shares, price: +price.toFixed(2), estUsd: Math.round(shares * price),
+    usdMin: null, usdMax: null, tradeDate: iso(d), filedDate: iso(d), url: "https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent&type=144"
+  });
+}
+for (let i = 0; i < 10; i++) {
+  const [ticker, company] = pick(TICKERS);
+  const d = rnd(0, 60);
+  add({
+    id: hashId("demo-13g", i), source: "sc13g", ticker, company, trader: pick(FUNDS), traderRole: "13G filer",
+    type: "new_stake", shares: null, price: null, estUsd: Math.round(rnd(5e7, 1.5e9)), usdMin: null, usdMax: null,
+    tradeDate: iso(d), filedDate: iso(d), url: "https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent&type=SC+13G"
+  });
+}
+
+// Demo signals — crowd attention / sentiment / short volume for a handful of tickers
+let ns = 0;
+function addSig(row) { row.demo = true; if (store.addSignal(row)) ns++; }
+const HOT = ["NVDA", "PLTR", "TSLA", "MU", "GEV", "TEM"];
+HOT.forEach((t, i) => {
+  const date = iso(0), ts = new Date().toISOString();
+  addSig({ id: hashId("demo-st", t), ts, date, source: "stocktwits", ticker: t, kind: "attention",
+    value: Math.round(rnd(40000, 900000)), meta: { rank: i + 1 } });
+  addSig({ id: hashId("demo-ape", t), ts, date, source: "apewisdom", ticker: t, kind: "attention",
+    value: Math.round(rnd(80, 900)), meta: { rank: i + 1, prev24h: Math.round(rnd(20, 120)) } });
+  addSig({ id: hashId("demo-sent", t), ts, date, source: "stocktwits", ticker: t, kind: "sentiment",
+    value: Math.round(rnd(25, 92)), meta: { bull: 20, bear: 8 } });
+  addSig({ id: hashId("demo-sho", t), ts, date, source: "regsho", ticker: t, kind: "short_vol",
+    value: +rnd(35, 72).toFixed(1), meta: { shortVol: 1e6, totalVol: 2e6 } });
+});
+addSig({ id: hashId("demo-pump"), ts: new Date().toISOString(), date: iso(0), source: "telegram", ticker: "TEM",
+  kind: "pump_mention", value: 1, meta: { channel: "demo-channel", snippet: "🚀🚀 TEM to the moon, load up before the news 🚀🚀" } });
+
 // A few demo alerts
 const alerts = [
   ["insider_cluster", "critical", "form4", "GEV", "3 insiders", "CLUSTER BUY: 3 insiders bought GEV within 14d"],
   ["insider_big_buy", "high", "form4", "MU", "Jane T Morrow", "Jane T Morrow (CEO) bought ~$1.2M of MU"],
   ["activist_13d", "high", "sc13d", "DIS", "Elliott Investment Management", "New 13D filed on Walt Disney (DIS) — activist stake >5%"],
   ["fund_conviction", "medium", "fund13f", "GOOGL", "Berkshire Hathaway (Buffett)", "Berkshire: major add in Alphabet (~$16.6B)"],
-  ["congress_big_buy", "medium", "congress", "AB", "Nancy Pelosi", "Nancy Pelosi disclosed AB buy, $1.0M–$5.0M (filed Jan 26, traded Jan 16)"]
+  ["congress_big_buy", "medium", "congress", "AB", "Nancy Pelosi", "Nancy Pelosi disclosed AB buy, $1.0M–$5.0M (filed Jan 26, traded Jan 16)"],
+  ["form144_big_sale", "medium", "form144", "AVGO", "Chen Wei", "Chen Wei (COO) filed notice to sell ~$4.1M of AVGO around " + iso(2)],
+  ["activist_conversion", "critical", "sc13d", "STX", "Starboard Value", "13G→13D on STX: a previously passive >5% holder is turning activist"],
+  ["social_confluence", "high", "apewisdom", "GEV", "Jane T Morrow, Daniel K Osei", "GEV: crowd attention rising on Reddit (Apewisdom) AFTER 3 smart-money buyers (Jane T Morrow, Daniel K Osei, Priya Raman) within 14d"],
+  ["pump_watch", "high", "telegram", "TEM", "t.me/demo-channel", "⚠ TEM pushed in Telegram channel “demo-channel” — treat TEM flow as pump risk, not a buy signal"],
+  ["short_squeeze_setup", "medium", "regsho", "MU", "Jane T Morrow", "MU: 64.2% of " + iso(1) + " volume was short-sold while 2 smart-money buyers bought within 14d"]
 ];
 alerts.forEach(([rule, severity, source, ticker, trader, message], i) => {
   // anchor each demo alert to a real seeded trade so alert → trade click-through works
@@ -86,4 +132,4 @@ alerts.forEach(([rule, severity, source, ticker, trader, message], i) => {
 });
 
 store.saveState();
-console.log(`[seed] inserted ${n} demo trades + ${alerts.length} demo alerts. Purge later via UI footer or POST /api/purge-demo.`);
+console.log(`[seed] inserted ${n} demo trades + ${ns} demo signals + ${alerts.length} demo alerts. Purge later via UI footer or POST /api/purge-demo.`);

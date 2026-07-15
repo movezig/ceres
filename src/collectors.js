@@ -1,28 +1,17 @@
-// Ceres data collectors: Form 4 (insiders), SC 13D (activists), 13F (funds), Congress.
+// Ceres data collectors — disclosures: Form 4 + Form 144 (insiders), SC 13D/13G
+// (activist/passive stakes), 13F (funds), Congress (community dataset + House Clerk
+// official cross-check); market structure: FINRA Reg SHO short volume.
+// Social/attention collectors live in social.js; pollAll orchestrates everything.
 import { CONFIG } from "./config.js";
 import { store } from "./store.js";
 import {
-  politeFetch, hashId, xmlText, xmlBlocks, decodeEntities,
-  parseAmountRange, toISO, daysAgoISO, titleCase
+  politeFetch, hashId, xmlText, xmlBlocks, decodeEntities, zipExtract,
+  parseAmountRange, toISO, daysAgoISO, titleCase, loadTickerMap, knownTickerSet, listedTicker
 } from "./util.js";
-
-let tickerMap = null; // CIK -> { ticker, title }
-
-async function loadTickerMap() {
-  if (tickerMap) return tickerMap;
-  try {
-    const j = await politeFetch(CONFIG.edgar.tickersUrl, { json: true });
-    tickerMap = {};
-    for (const k of Object.keys(j)) {
-      const { cik_str, ticker, title } = j[k];
-      if (!tickerMap[cik_str]) tickerMap[cik_str] = { ticker, title };
-    }
-  } catch (e) {
-    console.error("[ceres] ticker map load failed:", e.message);
-    tickerMap = {};
-  }
-  return tickerMap;
-}
+import {
+  collectStocktwits, collectApewisdom, collectReddit,
+  collectTelegram, collectX, collectBluesky
+} from "./social.js";
 
 /* ------------------------------ Atom helpers ------------------------------ */
 
@@ -52,6 +41,7 @@ async function filingFileList(cik, accNoDash) {
 /* ------------------------------ Form 4 ------------------------------ */
 
 export async function collectForm4() {
+  const known = await knownTickerSet();
   const atom = await politeFetch(CONFIG.edgar.form4Atom);
   const entries = parseAtomEntries(atom)
     .filter((e) => e.accession && !store.seenAcc.has("f4:" + e.accession))
@@ -65,7 +55,7 @@ export async function collectForm4() {
       const xmlFile = files.find((f) => /\.xml$/i.test(f) && !/index/i.test(f));
       if (!xmlFile) continue;
       const xml = await politeFetch(`${CONFIG.edgar.archiveDir(e.cik, e.accNoDash)}/${xmlFile}`);
-      added += ingestForm4Xml(xml, e);
+      added += ingestForm4Xml(xml, e, known);
     } catch (err) {
       console.error("[form4]", e.accession, err.message);
     }
@@ -74,8 +64,9 @@ export async function collectForm4() {
   return added;
 }
 
-function ingestForm4Xml(xml, entry) {
-  const ticker = (xmlText(xml, "issuerTradingSymbol") || "").toUpperCase().replace(/[^A-Z.\-]/g, "");
+function ingestForm4Xml(xml, entry, known) {
+  // publicly-traded gate: private issuers file Form 4s with symbol "NONE"/"N/A" — skip them
+  const ticker = listedTicker(xmlText(xml, "issuerTradingSymbol"), known);
   const company = xmlText(xml, "issuerName");
   const owner = titleCase(xmlText(xml, "rptOwnerName"));
   const officerTitle = xmlText(xml, "officerTitle");
@@ -138,32 +129,120 @@ function runInsiderAlerts(row) {
   }
 }
 
-/* ------------------------------ SC 13D ------------------------------ */
+/* ------------------------------ Form 144 (proposed insider sales) ------------------------------ */
+// Filed when an insider *intends* to sell restricted stock — a leading indicator,
+// unlike the after-the-fact Form 4. Same getcurrent Atom + primary_doc.xml pattern.
 
-export async function collect13D() {
+export async function collect144() {
   const map = await loadTickerMap();
-  const atom = await politeFetch(CONFIG.edgar.sc13dAtom);
+  const atom = await politeFetch(CONFIG.edgar.form144Atom);
+  // (Reporting) + (Subject) entries share one accession — first occurrence wins
+  const entries = parseAtomEntries(atom)
+    .filter((e, i, arr) => e.accession && arr.findIndex((x) => x.accession === e.accession) === i)
+    .filter((e) => !store.seenAcc.has("f144:" + e.accession))
+    .slice(0, CONFIG.form144MaxFilingsPerPoll);
+
+  let added = 0;
+  for (const e of entries) {
+    store.seenAcc.add("f144:" + e.accession);
+    try {
+      const files = await filingFileList(e.cik, e.accNoDash);
+      const xmlFile = files.find((f) => /primary_doc.*\.xml$/i.test(f)) ||
+                      files.find((f) => /\.xml$/i.test(f) && !/index/i.test(f));
+      if (!xmlFile) continue;
+      const xml = await politeFetch(`${CONFIG.edgar.archiveDir(e.cik, e.accNoDash)}/${xmlFile}`);
+      added += ingest144Xml(xml, e, map);
+    } catch (err) {
+      console.error("[form144]", e.accession, err.message);
+    }
+  }
+  store.state.lastPoll.form144 = new Date().toISOString();
+  return added;
+}
+
+function ingest144Xml(xml, entry, map) {
+  const issuerCik = xmlText(xml, "issuerCik");
+  const info = issuerCik ? map[Number(issuerCik)] : null;
+  // publicly-traded gate: no listed ticker for the issuer → retail can't act on it, skip
+  const ticker = info?.ticker;
+  const company = xmlText(xml, "issuerName") || info?.title;
+  const seller = titleCase(xmlText(xml, "nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold"));
+  const role = xmlText(xml, "relationshipToIssuer") || "Insider";
+  const shares = Number(xmlText(xml, "noOfUnitsSold")) || 0;
+  const value = Math.round(Number(xmlText(xml, "aggregateMarketValue")) || 0);
+  const tradeDate = toISO(xmlText(xml, "approxSaleDate")) || toISO(entry.updated);
+  if (!ticker || !seller || !value) return 0;
+
+  const row = {
+    id: hashId("144", entry.accession),
+    source: "form144", ticker, company, trader: seller, traderRole: role,
+    type: "sell", shares,
+    price: shares ? +(value / shares).toFixed(2) : null,
+    estUsd: value, usdMin: value, usdMax: value,
+    tradeDate, filedDate: toISO(entry.updated) || tradeDate,
+    url: entry.link
+  };
+  if (!store.addTrade(row)) return 0;
+  if (value >= CONFIG.alerts.form144BigUsd) {
+    store.addAlert({
+      id: hashId("al-144", row.id), ts: new Date().toISOString(),
+      rule: "form144_big_sale", severity: "medium", source: "form144",
+      ticker, trader: seller,
+      message: `${seller} (${role}) filed notice to sell ~$${fmtM(value)} of ${ticker} around ${tradeDate}`,
+      tradeIds: [row.id]
+    });
+  }
+  return 1;
+}
+
+/* ------------------------------ SC 13D / SC 13G ------------------------------ */
+// Same Atom shape for both: 13D = activist stake >5%, 13G = passive stake >5%.
+// A 13D landing on a ticker that already has a 13G row = a filer turning activist.
+
+const SCHEDULES = {
+  sc13d: {
+    atom: () => CONFIG.edgar.sc13dAtom, prefix: "13d",
+    titleRe: /SC 13D(?:\/A)?\s*-\s*(.+?)\s*\(\d{10}\)/i,
+    placeholder: "Activist filer (see filing)", role: "13D filer",
+    rule: "activist_13d", severity: "high",
+    describe: (co, tk) => `New 13D filed on ${co} (${tk}) — activist stake >5%`
+  },
+  sc13g: {
+    atom: () => CONFIG.edgar.sc13gAtom, prefix: "13g",
+    titleRe: /SC 13G(?:\/A)?\s*-\s*(.+?)\s*\(\d{10}\)/i,
+    placeholder: "Passive filer (see filing)", role: "13G filer",
+    rule: "passive_stake_13g", severity: "medium",
+    describe: (co, tk) => `New 13G filed on ${co} (${tk}) — passive stake >5%`
+  }
+};
+
+async function collectSchedule(source) {
+  const S = SCHEDULES[source];
+  const map = await loadTickerMap();
+  const atom = await politeFetch(S.atom());
   const entries = parseAtomEntries(atom);
   let added = 0;
 
   for (const e of entries) {
     if (!e.accession) continue;
-    const key = "13d:" + e.accession;
+    const key = S.prefix + ":" + e.accession;
     // title looks like: "SC 13D - COMPANY NAME (0001234567) (Subject)"
     const isSubject = /\(Subject\)/i.test(e.title);
-    const nameM = e.title.match(/SC 13D(?:\/A)?\s*-\s*(.+?)\s*\(\d{10}\)/i);
+    const nameM = e.title.match(S.titleRe);
     const name = nameM ? decodeEntities(nameM[1]) : null;
 
     if (isSubject) {
       if (store.seenAcc.has(key)) continue;
       store.seenAcc.add(key);
       const info = e.cik ? map[Number(e.cik)] : null;
+      // publicly-traded gate: subject has no listed ticker (private target/fund) → skip entirely
+      if (!info?.ticker) continue;
       const row = {
-        id: hashId("13d", e.accession),
-        source: "sc13d",
-        ticker: info?.ticker || "?",
+        id: hashId(S.prefix, e.accession),
+        source,
+        ticker: info.ticker,
         company: name || info?.title || "Unknown subject",
-        trader: "Activist filer (see filing)", traderRole: "13D filer",
+        trader: S.placeholder, traderRole: S.role,
         type: "new_stake", shares: null, price: null,
         estUsd: null, usdMin: null, usdMax: null,
         tradeDate: toISO(e.updated), filedDate: toISO(e.updated),
@@ -172,22 +251,35 @@ export async function collect13D() {
       if (store.addTrade(row)) {
         added++;
         store.addAlert({
-          id: hashId("al-13d", e.accession), ts: new Date().toISOString(),
-          rule: "activist_13d", severity: "high", source: "sc13d",
+          id: hashId("al-" + S.prefix, e.accession), ts: new Date().toISOString(),
+          rule: S.rule, severity: S.severity, source,
           ticker: row.ticker, trader: row.trader,
-          message: `New 13D filed on ${row.company}${row.ticker !== "?" ? ` (${row.ticker})` : ""} — activist stake >5%`,
+          message: S.describe(row.company, row.ticker),
           tradeIds: [row.id]
         });
+        if (source === "sc13d" &&
+            store.trades.some((t) => t.source === "sc13g" && t.ticker === row.ticker && t.id !== row.id)) {
+          store.addAlert({
+            id: hashId("al-conv", e.accession), ts: new Date().toISOString(),
+            rule: "activist_conversion", severity: "critical", source: "sc13d",
+            ticker: row.ticker, trader: row.trader,
+            message: `13G→13D on ${row.ticker}: a previously passive >5% holder is turning activist`,
+            tradeIds: [row.id]
+          });
+        }
       }
     } else if (name) {
-      // filed-by entry for same accession: backfill the activist's name
-      const t = store.trades.find((t) => t.source === "sc13d" && t.url === e.link);
-      if (t && t.trader === "Activist filer (see filing)") t.trader = titleCase(name);
+      // filed-by entry for same accession: backfill the filer's name
+      const t = store.trades.find((t) => t.source === source && t.url === e.link);
+      if (t && t.trader === S.placeholder) t.trader = titleCase(name);
     }
   }
-  store.state.lastPoll.sc13d = new Date().toISOString();
+  store.state.lastPoll[source] = new Date().toISOString();
   return added;
 }
+
+export const collect13D = () => collectSchedule("sc13d");
+export const collect13G = () => collectSchedule("sc13g");
 
 /* ------------------------------ 13F ------------------------------ */
 
@@ -295,6 +387,7 @@ function push13FTrade(label, issuer, type, estUsd, filedDate, url, nameToTicker,
 /* ------------------------------ Congress ------------------------------ */
 
 export async function collectCongress() {
+  const known = await knownTickerSet();
   let added = 0;
   const cutoff = daysAgoISO(CONFIG.backfillDays);
 
@@ -309,8 +402,9 @@ export async function collectCongress() {
       for (const r of rows) {
         const filedDate = toISO(r.disclosure_date);
         if (!filedDate || filedDate < cutoff) continue;
-        const ticker = (r.ticker || "").toUpperCase().trim();
-        if (!ticker || ticker === "--" || ticker === "N/A") continue;
+        // publicly-traded gate: PTRs cover bonds/PE/crypto/etc — keep listed equities only
+        const ticker = listedTicker(r.ticker, known);
+        if (!ticker) continue;
         const who = r.representative || r.senator || "Unknown member";
         const range = parseAmountRange(r.amount);
         const rawType = (r.type || "").toLowerCase();
@@ -348,18 +442,155 @@ export async function collectCongress() {
   return added;
 }
 
+/* ------------------------------ House Clerk (official PTR index) ------------------------------ */
+// The Clerk's {year}FD.zip lists every House financial disclosure filing. Trade detail
+// lives in PDFs (not parseable zero-dep), but the filing index gives us two things the
+// community S3 dataset can't: an authoritative freshness check for the congress tier,
+// and a per-filing signal linking straight to the official PTR PDF.
+
+export async function collectHouseClerk() {
+  const year = new Date().getFullYear();
+  const zip = await politeFetch(CONFIG.congress.clerkZip(year), { buffer: true });
+  const xml = zipExtract(zip, /\.xml$/i)?.toString("utf8");
+  if (!xml) throw new Error("no XML index inside " + year + "FD.zip");
+
+  const cutoff = daysAgoISO(CONFIG.backfillDays);
+  let added = 0, newestPtr = "";
+  for (const m of xmlBlocks(xml, "Member")) {
+    if ((xmlText(m, "FilingType") || "").toUpperCase() !== "P") continue; // PTRs only
+    const docId = xmlText(m, "DocID");
+    const filed = toISO(xmlText(m, "FilingDate"));
+    if (!docId || !filed) continue;
+    if (filed > newestPtr) newestPtr = filed;
+    if (filed < cutoff) continue;
+    const who = titleCase(`${xmlText(m, "First") || ""} ${xmlText(m, "Last") || ""}`);
+    if (store.addSignal({
+      id: hashId("hc", docId), ts: new Date().toISOString(), date: filed,
+      source: "houseclerk", ticker: null, kind: "ptr_filed", value: 1,
+      meta: { member: who, district: xmlText(m, "StateDst"), url: CONFIG.congress.clerkPdf(year, docId) }
+    })) added++;
+  }
+
+  // Freshness cross-check: if the Clerk shows PTRs well ahead of the newest S3 row
+  // (or the S3 dataset has produced nothing at all), the congress tier is stale.
+  const newestS3 = store.trades.find((t) => t.source === "congress" && !t.demo)?.filedDate;
+  if (newestPtr) {
+    const gapDays = newestS3 ? Math.round((Date.parse(newestPtr) - Date.parse(newestS3)) / 864e5) : Infinity;
+    if (gapDays > CONFIG.alerts.congressStaleDays) {
+      store.addAlert({
+        id: hashId("al-cgstale", newestPtr.slice(0, 7)), ts: new Date().toISOString(),
+        rule: "congress_dataset_stale", severity: "medium", source: "congress",
+        ticker: null, trader: "House Clerk",
+        message: newestS3
+          ? `Congress tier is ${gapDays}d behind: official House PTRs run to ${newestPtr}, community dataset stops at ${newestS3}`
+          : `Congress tier is running blind: official House PTRs run to ${newestPtr} but the community dataset has produced no trades — see README for paid alternatives`,
+        tradeIds: []
+      });
+    }
+  }
+  store.state.lastPoll.houseclerk = new Date().toISOString();
+  return added;
+}
+
+/* ------------------------------ FINRA Reg SHO (daily short volume) ------------------------------ */
+// One pipe-delimited file per trading day: Date|Symbol|ShortVolume|ShortExemptVolume|TotalVolume|Market.
+// Recorded only for tickers already showing smart-money flow — it's an enrichment layer:
+// heavy shorting against fresh insider/fund buying is the classic squeeze/conviction setup.
+
+export async function collectRegSHO() {
+  const interest = new Set(store.tickersOfInterest(30, 300));
+  if (!interest.size) return 0;
+
+  // walk back from today to the most recent file we haven't ingested (weekends/holidays skip days)
+  let text = null, date = null;
+  const last = store.state.lastRegSho || "";
+  for (let back = 0; back <= 5 && !text; back++) {
+    const d = new Date(Date.now() - back * 864e5).toISOString().slice(0, 10);
+    if (d <= last) return 0; // nothing newer published yet
+    try {
+      text = await politeFetch(CONFIG.finra.regShoDaily(d.replace(/-/g, "")), { retries: 0 });
+      date = d;
+    } catch { /* not a trading day or not published yet — try the day before */ }
+  }
+  if (!text) return 0;
+
+  let added = 0;
+  for (const line of text.split("\n").slice(1)) {
+    const [, sym, shortVol, , totalVol] = line.split("|");
+    if (!sym || !interest.has(sym)) continue;
+    const sv = Number(shortVol), tv = Number(totalVol);
+    if (!tv) continue;
+    const pct = +(100 * sv / tv).toFixed(1);
+    if (!store.addSignal({
+      id: hashId("regsho", sym, date), ts: new Date().toISOString(), date,
+      source: "regsho", ticker: sym, kind: "short_vol", value: pct,
+      meta: { shortVol: sv, totalVol: tv }
+    })) continue;
+    added++;
+    if (pct >= CONFIG.alerts.shortVolPct) {
+      const buyers = store.smartBuyersOf(sym, CONFIG.alerts.confluenceWindowDays);
+      if (buyers.length) {
+        store.addAlert({
+          id: hashId("al-squeeze", sym, date), ts: new Date().toISOString(),
+          rule: "short_squeeze_setup", severity: "medium", source: "regsho",
+          ticker: sym, trader: buyers.slice(0, 3).join(", "),
+          message: `${sym}: ${pct}% of ${date} volume was short-sold while ${buyers.length} smart-money buyer${buyers.length > 1 ? "s" : ""} bought within ${CONFIG.alerts.confluenceWindowDays}d`,
+          tradeIds: []
+        });
+      }
+    }
+  }
+  store.state.lastRegSho = date;
+  store.state.lastPoll.regsho = new Date().toISOString();
+  return added;
+}
+
 /* ------------------------------ Orchestrator ------------------------------ */
 
 export async function pollAll({ force = false } = {}) {
   const t0 = Date.now();
   const counts = {};
-  try { counts.form4 = await collectForm4(); } catch (e) { console.error("[poll] form4:", e.message); }
-  try { counts.sc13d = await collect13D(); } catch (e) { console.error("[poll] 13d:", e.message); }
-  try { counts.fund13f = await collect13F(); } catch (e) { console.error("[poll] 13f:", e.message); }
+  const run = async (key, fn) => {
+    try {
+      const n = await fn();
+      if (n != null) counts[key] = n; // null = collector dormant (credentials not configured)
+    } catch (e) { console.error(`[poll] ${key}:`, e.message); }
+  };
   store.state.cycle = (store.state.cycle || 0) + 1;
-  if (force || store.state.cycle % CONFIG.congressPollEveryNthCycle === 1) {
-    try { counts.congress = await collectCongress(); } catch (e) { console.error("[poll] congress:", e.message); }
+  const due = (n) => force || store.state.cycle % n === 1;
+
+  // publicly-traded mandate: sweep out anything that slipped in without a listed ticker
+  // (also self-heals data collected before this filter existed, and after delistings)
+  try {
+    const known = await knownTickerSet();
+    if (known.size) {
+      const dropped = store.pruneInvalid((t) => listedTicker(t, known));
+      if (dropped) console.log(`[ceres] pruned ${dropped} rows on non-listed underlyings`);
+    }
+  } catch (e) { console.error("[poll] prune:", e.message); }
+
+  // disclosure tiers
+  await run("form4", collectForm4);
+  await run("form144", collect144);
+  await run("sc13d", collect13D);
+  await run("sc13g", collect13G);
+  await run("fund13f", collect13F);
+  if (due(CONFIG.congressPollEveryNthCycle)) {
+    await run("congress", collectCongress);
+    await run("houseclerk", collectHouseClerk);
   }
+
+  // market structure
+  if (due(CONFIG.regShoPollEveryNthCycle)) await run("regsho", collectRegSHO);
+
+  // social attention (credentialed sources skip themselves when unconfigured)
+  await run("stocktwits", collectStocktwits);
+  await run("apewisdom", collectApewisdom);
+  await run("reddit", collectReddit);
+  await run("telegram", collectTelegram);
+  if (due(CONFIG.xPollEveryNthCycle)) await run("x", collectX);
+  await run("bluesky", collectBluesky);
+
   store.saveState();
   console.log(`[ceres] poll done in ${((Date.now() - t0) / 1000).toFixed(1)}s`, counts);
   return counts;

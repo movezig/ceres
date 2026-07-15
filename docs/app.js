@@ -23,8 +23,15 @@ const fmtUsd = (n) => {
 };
 const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 const lagDays = (t) => (t.tradeDate && t.filedDate) ? Math.round((new Date(t.filedDate) - new Date(t.tradeDate)) / 864e5) : null;
-const SRC_SHORT = { form4: "INSIDER", sc13d: "13D", fund13f: "13F", congress: "CONGRESS" };
-const SRC_LABEL = { form4: "Insiders (Form 4)", sc13d: "Activists (13D)", fund13f: "Superinvestors (13F)", congress: "Congress" };
+const SRC_SHORT = {
+  form4: "INSIDER", form144: "144", sc13d: "13D", sc13g: "13G", fund13f: "13F", congress: "CONGRESS",
+  stocktwits: "STWITS", apewisdom: "APEWIS", reddit: "REDDIT", telegram: "TGRAM", x: "𝕏", bluesky: "BSKY",
+  regsho: "SHORT%", houseclerk: "CLERK"
+};
+const SRC_LABEL = {
+  form4: "Insiders (Form 4)", form144: "Sale notices (Form 144)", sc13d: "Activists (13D)",
+  sc13g: "Passive whales (13G)", fund13f: "Superinvestors (13F)", congress: "Congress"
+};
 
 /* rule → [short label, explanation shown on hover] */
 const RULE_META = {
@@ -32,7 +39,16 @@ const RULE_META = {
   insider_cluster: ["CLUSTER BUY", "3+ distinct insiders bought the same ticker within 14 days — the strongest signal in the academic literature."],
   activist_13d: ["ACTIVIST 13D", "New SC 13D — an activist crossed 5% ownership and typically pushes for value-unlocking change."],
   fund_conviction: ["FUND CONVICTION", "A tracked 13F superinvestor opened a new position or added ≥ $50M."],
-  congress_big_buy: ["CONGRESS BUY", "Congressional purchase with a disclosed range midpoint ≥ $100K."]
+  congress_big_buy: ["CONGRESS BUY", "Congressional purchase with a disclosed range midpoint ≥ $100K."],
+  form144_big_sale: ["SALE NOTICE", "Form 144 — an insider filed advance notice to sell ≥ $1M of restricted stock. Leading indicator, unlike the after-the-fact Form 4."],
+  passive_stake_13g: ["PASSIVE 13G", "New SC 13G — a passive holder crossed 5% ownership. Quiet accumulation that often precedes 13F visibility by a quarter."],
+  activist_conversion: ["13G→13D", "A previously passive >5% holder switched to an activist 13D — historically one of the strongest event signals."],
+  congress_dataset_stale: ["DATA STALE", "The official House Clerk PTR index shows filings well ahead of the community dataset feeding the Congress tier — its trades are lagging reality."],
+  attention_spike: ["ATTENTION", "Crowd attention on this ticker is spiking on a social feed. Attention is not smart money — check who got in first."],
+  social_confluence: ["SMART→CROWD", "Crowd attention arrived AFTER disclosed smart-money buying — the crowd may be late to a trade insiders/funds already made."],
+  pump_watch: ["PUMP RISK", "Ticker pushed in a monitored Telegram pump channel. Treat coordinated promotion as a manipulation warning, not a buy signal."],
+  short_squeeze_setup: ["SQUEEZE?", "FINRA Reg SHO shows heavy short-sale volume while smart money is buying — the classic squeeze/conviction setup."],
+  x_tracked_mention: ["𝕏 MENTION", "A tracked X account mentioned this ticker."]
 };
 
 const fmtAlertTime = (ts) => {
@@ -150,7 +166,7 @@ function tradesTable(rows, { showTrader = true, serverSorted = false, highlightI
 /* bull (green) / bear (red) / "" — bearish keywords checked first since messages may contain both */
 function alertDirection(a) {
   const m = (a.message || "").toLowerCase();
-  if (/\b(sold|sell|sale|trim|exit|dump|short)/.test(m)) return "bear";
+  if (/\b(sold|sell|sale|trim|exit|dump|short|pump|stale)/.test(m)) return "bear";
   if (["insider_big_buy", "insider_cluster", "activist_13d", "fund_conviction", "congress_big_buy"].includes(a.rule)
     || /\b(bought|buy|add|new position|stake|accumulat)/.test(m)) return "bull";
   return "";
@@ -317,11 +333,40 @@ function followCardHTML(picks) {
   </div>`;
 }
 
+/* ---------------- crowd attention panel ---------------- */
+function attentionCardHTML(att, sig = {}) {
+  const total = Object.keys(sig).length;
+  const live = Object.values(sig).filter((s) => s.configured).length;
+  const dormant = Object.values(sig).filter((s) => !s.configured).map((s) => s.label);
+  const srcPill = (src, v) => {
+    const what = src === "stocktwits"
+      ? `trending #${v.rank ?? "?"} · ${Number(v.value).toLocaleString()} watchers`
+      : `${v.value} mention${v.value === 1 ? "" : "s"} / posts (24h)`;
+    return `<span class="src-pill" data-tip="${esc(sig[src]?.label || src)}: ${esc(what)}">${SRC_SHORT[src] || src}${src === "stocktwits" && v.rank ? " #" + v.rank : " " + v.value}</span>`;
+  };
+  const rows = att.filter((r) => Object.keys(r.sources).length || r.pump).slice(0, 12);
+  return `<div class="card" style="margin-top:16px">
+    <h3>Crowd attention — social &amp; short-volume signals <span class="badge">${live}/${total} feeds live</span></h3>
+    ${rows.length ? `<div class="table-scroll" style="max-height:340px"><table>
+      <thead><tr><th>Ticker</th><th>Attention by source</th><th class="num">Bull %</th><th class="num">Short vol %</th><th>Smart money first?</th><th></th></tr></thead>
+      <tbody>${rows.map((r) => `<tr>
+        <td><span class="tick" onclick="location.hash='#ticker/${esc(r.ticker)}'">${esc(r.ticker)}</span></td>
+        <td>${Object.entries(r.sources).map(([s, v]) => srcPill(s, v)).join(" ")}</td>
+        <td class="num" style="color:var(${r.sentiment == null ? "--dim" : r.sentiment >= 50 ? "--buy" : "--sell"})">${r.sentiment == null ? "—" : r.sentiment + "%"}</td>
+        <td class="num ${r.shortPct >= 60 ? "lag-warn" : "muted"}">${r.shortPct == null ? "—" : r.shortPct + "%"}</td>
+        <td>${r.smartBuyers ? `<span class="badge hot" data-tip="${r.smartBuyers} smart-money buyer${r.smartBuyers > 1 ? "s" : ""} disclosed buying within 14d — the crowd may be late to their trade">◆ ${r.smartBuyers} buyer${r.smartBuyers > 1 ? "s" : ""} in first</span>` : `<span class="muted" style="font-size:11px">no disclosed buying</span>`}</td>
+        <td>${r.pump ? `<span class="lag-warn" data-tip="Mentioned in a monitored Telegram pump channel — treat as manipulation risk, not a buy signal">⚠ pump</span>` : ""}</td>
+      </tr>`).join("")}</tbody></table></div>`
+    : `<div class="empty">No social signals yet — attention data accumulates from the next poll.</div>`}
+    ${dormant.length ? `<div class="muted" style="font-size:11px;margin-top:8px">dormant feeds (add credentials in .env — see .env.example): ${dormant.map(esc).join(" · ")}</div>` : ""}
+  </div>`;
+}
+
 /* ---------------- views ---------------- */
 async function renderOverview() {
-  const [summary, agg, alerts, tr] = await Promise.all([
+  const [summary, agg, alerts, tr, att] = await Promise.all([
     api("/api/summary"), api("/api/aggregate"), api("/api/alerts"),
-    api("/api/trades", { limit: 500 })
+    api("/api/trades", { limit: 500 }), api("/api/attention")
   ]);
   const picks = topFollows(tr.rows, agg);
   const kpAgg = agg.slice(0, 5);
@@ -349,9 +394,9 @@ async function renderOverview() {
         <div class="card">
           <h3>${esc(m.label)} ${m.alerts24h ? `<span class="badge hot">${m.alerts24h} alerts</span>` : ""}</h3>
           <div class="gauge-wrap">
-            ${gaugeSVG(m.last24h / m.dailyBaseline, ["--buy", "--crit", "--info", "--accent"][i])}
+            ${gaugeSVG(m.last24h / m.dailyBaseline, ["--buy", "--crit", "--info", "--accent"][i % 4])}
             <div class="gauge-meta">
-              <div class="big tier${i + 1}">${m.last24h}</div>
+              <div class="big tier${(i % 4) + 1}">${m.last24h}</div>
               <div class="sub">filings 24h · baseline ${m.dailyBaseline}/d</div>
               <div class="sub">${m.last7d} 7d · ${m.last30d} 30d</div>
             </div>
@@ -360,6 +405,8 @@ async function renderOverview() {
     </div>
 
     ${followCardHTML(picks)}
+
+    ${attentionCardHTML(att, summary.signalTiers)}
 
     <div class="card" style="margin-top:16px">
       <h3>Top tickers by consensus — who's crowding in (${state.window})</h3>
@@ -417,7 +464,7 @@ async function renderTrades(params = {}) {
   view.innerHTML = `
     <h2 class="section">All disclosed trades</h2>
     <div class="filters">
-      <label>Source <select id="fSrc"><option value="">all</option><option value="form4">Insiders</option><option value="sc13d">Activists 13D</option><option value="fund13f">13F funds</option><option value="congress">Congress</option></select></label>
+      <label>Source <select id="fSrc"><option value="">all</option><option value="form4">Insiders</option><option value="form144">Sale notices 144</option><option value="sc13d">Activists 13D</option><option value="sc13g">Passive 13G</option><option value="fund13f">13F funds</option><option value="congress">Congress</option></select></label>
       <label>Type <select id="fType"><option value="">all</option><option>buy</option><option>sell</option><option>new_stake</option><option>add</option><option>trim</option><option>exit</option></select></label>
       <label>Ticker <input id="fTicker" type="text" placeholder="NVDA" /></label>
       <label>Trader <input id="fTrader" type="text" placeholder="name…" /></label>

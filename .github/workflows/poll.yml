@@ -27,6 +27,14 @@ jobs:
       - name: Collect disclosures
         env:
           CERES_CONTACT: ${{ secrets.CERES_CONTACT }}
+          # Optional social-feed credentials — set as repo secrets, never in the repo.
+          CERES_X_BEARER: ${{ secrets.CERES_X_BEARER }}
+          CERES_X_HANDLES: ${{ secrets.CERES_X_HANDLES }}
+          CERES_REDDIT_CLIENT_ID: ${{ secrets.CERES_REDDIT_CLIENT_ID }}
+          CERES_REDDIT_CLIENT_SECRET: ${{ secrets.CERES_REDDIT_CLIENT_SECRET }}
+          CERES_BSKY_HANDLE: ${{ secrets.CERES_BSKY_HANDLE }}
+          CERES_BSKY_APP_PASSWORD: ${{ secrets.CERES_BSKY_APP_PASSWORD }}
+          CERES_TG_CHANNELS: ${{ secrets.CERES_TG_CHANNELS }}
         run: npm run poll
       - name: Rebuild site and push if there are new disclosures
         run: |

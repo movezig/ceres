@@ -1,3 +1,11 @@
 .claude/
 .DS_Store
 node_modules/
+
+# credentials — real values live only in .env (template: .env.example) or CI secrets
+.env
+.env.*
+!.env.example
+
+# runtime logs stay local — never publish
+data/*.log

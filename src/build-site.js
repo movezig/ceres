@@ -7,7 +7,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
-import { CONFIG } from "./config.js";
+import { CONFIG, sourceConfigured } from "./config.js";
 import { store } from "./store.js";
 
 const ROOT = path.dirname(path.dirname(fileURLToPath(import.meta.url)));
@@ -16,16 +16,21 @@ const DOCS = path.join(ROOT, "docs");
 fs.mkdirSync(DOCS, { recursive: true });
 
 const generatedAt = new Date().toISOString();
+const signalCutoff = new Date(Date.now() - 90 * 864e5).toISOString().slice(0, 10);
 const snapshot = {
   generatedAt,
   meta: {
     managers: CONFIG.managers, sources: CONFIG.sources, alerts: CONFIG.alerts,
+    signalSources: Object.fromEntries(Object.entries(CONFIG.signalSources)
+      .map(([k, v]) => [k, { label: v.label, configured: sourceConfigured(k) }])),
+    confluenceWindowDays: CONFIG.alerts.confluenceWindowDays,
     pollIntervalMs: CONFIG.pollIntervalMs, port: CONFIG.port
   },
   sectors: JSON.parse(fs.readFileSync(path.join(PUB, "sectors.json"), "utf8")),
   lastPoll: store.state.lastPoll,
   trades: store.trades,
-  alerts: store.alerts
+  alerts: store.alerts,
+  signals: store.signals.filter((s) => s.date >= signalCutoff) // bound snapshot size
 };
 fs.writeFileSync(path.join(DOCS, "snapshot.json"), JSON.stringify(snapshot));
 
@@ -51,4 +56,4 @@ const css = fs.readFileSync(path.join(PUB, "style.css"), "utf8") + `
 `;
 fs.writeFileSync(path.join(DOCS, "style.css"), css);
 
-console.log(`docs/ built: ${store.trades.length} trades, ${store.alerts.length} alerts, snapshot ${generatedAt}`);
+console.log(`docs/ built: ${store.trades.length} trades, ${store.alerts.length} alerts, ${snapshot.signals.length} signals, snapshot ${generatedAt}`);

@@ -12,6 +12,8 @@
     const NOW = new Date(snap.generatedAt).getTime();
     const daysAgoISO = (n) => new Date(NOW - n * 864e5).toISOString().slice(0, 10);
     const { trades, alerts } = snap;
+    const signals = snap.signals || [];
+    const confluenceDays = snap.meta.confluenceWindowDays || 14;
 
     function windowCutoff(q) {
       const w = q.get("window") || "30d";
@@ -54,7 +56,53 @@
             alerts24h: alerts.filter((a) => a.source === src && a.ts >= new Date(NOW - 864e5).toISOString()).length
           };
         }
-        return { tiers, totalTrades: trades.length, totalAlerts: alerts.length, now: new Date(NOW).toISOString() };
+        const day24 = new Date(NOW - 864e5).toISOString();
+        const signalTiers = {};
+        for (const [key, meta] of Object.entries(snap.meta.signalSources || {})) {
+          signalTiers[key] = {
+            label: meta.label, configured: meta.configured,
+            last24h: signals.filter((s) => s.source === key && s.ts >= day24).length,
+            lastPoll: snap.lastPoll[key] || null
+          };
+        }
+        return { tiers, signalTiers, totalTrades: trades.length, totalSignals: signals.length, totalAlerts: alerts.length, now: new Date(NOW).toISOString() };
+      },
+
+      "/api/signals": (q) => {
+        const cutoff = windowCutoff(q);
+        const ticker = q.get("ticker")?.toUpperCase();
+        const src = q.get("source"), kind = q.get("kind");
+        const limit = Math.min(Number(q.get("limit") || 200), 2000);
+        return signals.filter((s) =>
+          s.date >= cutoff &&
+          (!ticker || s.ticker === ticker) &&
+          (!src || s.source === src) &&
+          (!kind || s.kind === kind)
+        ).slice(0, limit);
+      },
+
+      "/api/attention": (q) => {
+        const cutoff = windowCutoff(q);
+        const by = {};
+        for (const s of signals) {
+          if (!s.ticker || s.date < cutoff) continue;
+          const a = (by[s.ticker] ||= { ticker: s.ticker, sources: {}, sentiment: null, shortPct: null, pump: false, lastTs: "", _sent: "", _sv: "" });
+          if (s.ts > a.lastTs) a.lastTs = s.ts;
+          if (s.kind === "attention") {
+            const cur = a.sources[s.source];
+            if (!cur || s.ts > cur.ts) a.sources[s.source] = { value: s.value, rank: s.meta?.rank ?? null, ts: s.ts };
+          } else if (s.kind === "sentiment" && s.ts > a._sent) { a.sentiment = s.value; a._sent = s.ts; }
+          else if (s.kind === "short_vol" && s.ts > a._sv) { a.shortPct = s.value; a._sv = s.ts; }
+          else if (s.kind === "pump_mention") a.pump = true;
+        }
+        const smartCutoff = daysAgoISO(confluenceDays);
+        return Object.values(by).map(({ _sent, _sv, ...a }) => ({
+          ...a,
+          sourcesActive: Object.keys(a.sources).length,
+          smartBuyers: new Set(trades
+            .filter((t) => t.ticker === a.ticker && t.filedDate >= smartCutoff && ["buy", "new_stake", "add"].includes(t.type))
+            .map((t) => t.trader)).size
+        })).sort((x, y) => (y.sourcesActive - x.sourcesActive) || (y.lastTs < x.lastTs ? -1 : 1));
       },
 
       "/api/alerts": (q) => {
