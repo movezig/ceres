@@ -1495,3 +1495,12 @@
 {"id":"4482917dc79d7b12","ts":"2026-07-15T17:43:12.979Z","date":"2026-07-15","source":"stocktwits","ticker":"UAMY","kind":"attention","value":19881,"meta":{"rank":23,"sector":"NonEnergyMinerals"}}
 {"id":"74882601c474e987","ts":"2026-07-15T17:43:15.399Z","date":"2026-07-15","source":"apewisdom","ticker":"AVGO","kind":"attention","value":14,"meta":{"rank":48,"upvotes":92,"prev24h":10}}
 {"id":"b71c4a8f6b6e5d80","ts":"2026-07-15T17:43:15.399Z","date":"2026-07-15","source":"apewisdom","ticker":"DELL","kind":"attention","value":14,"meta":{"rank":50,"upvotes":27,"prev24h":1}}
+{"id":"49fc16655cfd535b","ts":"2026-07-15T19:43:13.208Z","date":"2026-07-15","source":"stocktwits","ticker":"NN","kind":"attention","value":1034,"meta":{"rank":6,"sector":"TechnologyServices"}}
+{"id":"9d40632c3ffb5337","ts":"2026-07-15T19:43:13.208Z","date":"2026-07-15","source":"stocktwits","ticker":"IREN","kind":"attention","value":45886,"meta":{"rank":7,"sector":"TechnologyServices"}}
+{"id":"ffce163244be42d9","ts":"2026-07-15T19:43:13.209Z","date":"2026-07-15","source":"stocktwits","ticker":"CMG","kind":"attention","value":61977,"meta":{"rank":12,"sector":"ConsumerServices"}}
+{"id":"937af6906617ee79","ts":"2026-07-15T19:43:13.209Z","date":"2026-07-15","source":"stocktwits","ticker":"PSNL","kind":"attention","value":2838,"meta":{"rank":16,"sector":"HealthServices"}}
+{"id":"51312983cbf0457a","ts":"2026-07-15T19:43:13.209Z","date":"2026-07-15","source":"stocktwits","ticker":"VOYG","kind":"attention","value":8677,"meta":{"rank":19,"sector":"TechnologyServices"}}
+{"id":"c282f6990352efb1","ts":"2026-07-15T19:43:13.209Z","date":"2026-07-15","source":"stocktwits","ticker":"V","kind":"attention","value":96267,"meta":{"rank":24,"sector":"Finance"}}
+{"id":"ea6f9d965fbb217e","ts":"2026-07-15T19:43:13.209Z","date":"2026-07-15","source":"stocktwits","ticker":"BB","kind":"attention","value":150568,"meta":{"rank":28,"sector":"TechnologyServices"}}
+{"id":"f702c1da8945ac0e","ts":"2026-07-15T19:43:13.209Z","date":"2026-07-15","source":"stocktwits","ticker":"RBRK","kind":"attention","value":5792,"meta":{"rank":29,"sector":"TechnologyServices"}}
+{"id":"2669afab3eec4aff","ts":"2026-07-15T19:43:15.024Z","date":"2026-07-15","source":"apewisdom","ticker":"HBM","kind":"attention","value":13,"meta":{"rank":50,"upvotes":32,"prev24h":13}}
