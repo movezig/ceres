@@ -1799,3 +1799,10 @@
 {"id":"ddd5ce6b0c9be74a","ts":"2026-07-15T21:27:42.642Z","date":"2026-07-15","source":"stocktwits","ticker":"GSAT","kind":"attention","value":50729,"meta":{"rank":15,"sector":"Communications"}}
 {"id":"fce886dcdd05f4d1","ts":"2026-07-15T21:27:42.655Z","date":"2026-07-15","source":"stocktwits","ticker":"NVO","kind":"attention","value":31323,"meta":{"rank":25,"sector":"HealthTechnology"}}
 {"id":"3ecb33103a9e7c85","ts":"2026-07-15T21:27:43.357Z","date":"2026-07-15","source":"stocktwits","ticker":"DDOG","kind":"sentiment","value":86,"meta":{"bull":6,"bear":1}}
+{"id":"e8aad62d88f5b1b7","ts":"2026-07-15T23:26:17.565Z","date":"2026-07-15","source":"stocktwits","ticker":"CMPS","kind":"attention","value":9560,"meta":{"rank":8,"sector":"HealthTechnology"}}
+{"id":"04d48a23bcbabd2a","ts":"2026-07-15T23:26:17.578Z","date":"2026-07-15","source":"stocktwits","ticker":"HELP","kind":"attention","value":7807,"meta":{"rank":14,"sector":"HealthTechnology"}}
+{"id":"dceee687b278e890","ts":"2026-07-15T23:26:17.579Z","date":"2026-07-15","source":"stocktwits","ticker":"GE","kind":"attention","value":154818,"meta":{"rank":19,"sector":"ElectronicTechnology"}}
+{"id":"d25c1a65bcc42324","ts":"2026-07-15T23:26:17.579Z","date":"2026-07-15","source":"stocktwits","ticker":"DOCN","kind":"attention","value":7194,"meta":{"rank":21,"sector":"TechnologyServices"}}
+{"id":"fedb2e3bdeba7b7f","ts":"2026-07-15T23:26:17.579Z","date":"2026-07-15","source":"stocktwits","ticker":"RVI","kind":"attention","value":3087,"meta":{"rank":23,"sector":"Miscellaneous"}}
+{"id":"4223fdc4120855ea","ts":"2026-07-15T23:26:18.783Z","date":"2026-07-15","source":"stocktwits","ticker":"NET","kind":"sentiment","value":50,"meta":{"bull":5,"bear":5}}
+{"id":"18d43552ed283765","ts":"2026-07-15T23:26:19.444Z","date":"2026-07-15","source":"apewisdom","ticker":"CC","kind":"attention","value":13,"meta":{"rank":47,"upvotes":40,"prev24h":9}}
