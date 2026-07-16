@@ -1919,3 +1919,16 @@
 {"id":"be24febb3d5140e1","ts":"2026-07-16T11:57:17.625Z","date":"2026-07-16","source":"apewisdom","ticker":"OKLO","kind":"attention","value":15,"meta":{"rank":45,"upvotes":45,"prev24h":3}}
 {"id":"c1665de3ade17fed","ts":"2026-07-16T11:57:17.625Z","date":"2026-07-16","source":"apewisdom","ticker":"PLTR","kind":"attention","value":14,"meta":{"rank":47,"upvotes":390,"prev24h":33}}
 {"id":"3829c1f20dd435f2","ts":"2026-07-16T11:57:17.625Z","date":"2026-07-16","source":"apewisdom","ticker":"ATAI","kind":"attention","value":13,"meta":{"rank":49,"upvotes":16,"prev24h":3}}
+{"id":"7c60dd65fa82248d","ts":"2026-07-16T14:29:14.181Z","date":"2026-07-16","source":"stocktwits","ticker":"RKLB","kind":"attention","value":63510,"meta":{"rank":5,"sector":"ElectronicTechnology"}}
+{"id":"fa93127e0689ac1d","ts":"2026-07-16T14:29:14.181Z","date":"2026-07-16","source":"stocktwits","ticker":"ADUR","kind":"attention","value":4842,"meta":{"rank":7,"sector":"ProcessIndustries"}}
+{"id":"bf461632b0407dfa","ts":"2026-07-16T14:29:14.181Z","date":"2026-07-16","source":"stocktwits","ticker":"ABT","kind":"attention","value":18112,"meta":{"rank":10,"sector":"HealthTechnology"}}
+{"id":"58fe6974bdebbdfe","ts":"2026-07-16T14:29:14.181Z","date":"2026-07-16","source":"stocktwits","ticker":"BULL","kind":"attention","value":24255,"meta":{"rank":11,"sector":"Finance"}}
+{"id":"a6b0fb9e324cc850","ts":"2026-07-16T14:29:14.182Z","date":"2026-07-16","source":"stocktwits","ticker":"UBER","kind":"attention","value":129329,"meta":{"rank":15,"sector":"Transportation"}}
+{"id":"17eae8b00569be0a","ts":"2026-07-16T14:29:14.182Z","date":"2026-07-16","source":"stocktwits","ticker":"QQQ","kind":"attention","value":276487,"meta":{"rank":20,"sector":"Miscellaneous"}}
+{"id":"1fa1dfb4dfd9ea7a","ts":"2026-07-16T14:29:14.182Z","date":"2026-07-16","source":"stocktwits","ticker":"OSS","kind":"attention","value":7290,"meta":{"rank":23,"sector":"ElectronicTechnology"}}
+{"id":"392a757ced45f476","ts":"2026-07-16T14:29:14.182Z","date":"2026-07-16","source":"stocktwits","ticker":"SGML","kind":"attention","value":3602,"meta":{"rank":24,"sector":"NonEnergyMinerals"}}
+{"id":"a9987e16fa1f6a06","ts":"2026-07-16T14:29:14.182Z","date":"2026-07-16","source":"stocktwits","ticker":"UAMY","kind":"attention","value":19879,"meta":{"rank":26,"sector":"NonEnergyMinerals"}}
+{"id":"2b5cb3f93f86a6ef","ts":"2026-07-16T14:29:14.182Z","date":"2026-07-16","source":"stocktwits","ticker":"SHAZ","kind":"attention","value":1679,"meta":{"rank":27,"sector":"Finance"}}
+{"id":"212f1a608c7d1626","ts":"2026-07-16T14:29:14.182Z","date":"2026-07-16","source":"stocktwits","ticker":"POET","kind":"attention","value":28910,"meta":{"rank":28,"sector":"ProducerManufacturing"}}
+{"id":"2b5b021ce419c292","ts":"2026-07-16T14:29:14.182Z","date":"2026-07-16","source":"stocktwits","ticker":"DJT","kind":"attention","value":115521,"meta":{"rank":30,"sector":"Finance"}}
+{"id":"716b2bd54847ea21","ts":"2026-07-16T14:29:16.324Z","date":"2026-07-16","source":"apewisdom","ticker":"IQ","kind":"attention","value":13,"meta":{"rank":47,"upvotes":299,"prev24h":8}}
