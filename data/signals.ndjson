@@ -1963,3 +1963,13 @@
 {"id":"432620b4b31e7b47","ts":"2026-07-16T18:36:49.354Z","date":"2026-07-16","source":"stocktwits","ticker":"AMPX","kind":"attention","value":8717,"meta":{"rank":30,"sector":"ProducerManufacturing"}}
 {"id":"d7b393280ff02dcd","ts":"2026-07-16T18:36:51.611Z","date":"2026-07-16","source":"apewisdom","ticker":"ES","kind":"attention","value":13,"meta":{"rank":48,"upvotes":17,"prev24h":7}}
 {"id":"6b0daa79c77bc856","ts":"2026-07-16T18:36:51.611Z","date":"2026-07-16","source":"apewisdom","ticker":"API","kind":"attention","value":13,"meta":{"rank":49,"upvotes":22,"prev24h":3}}
+{"id":"b1f21587c14e3fe8","ts":"2026-07-16T20:16:13.840Z","date":"2026-07-16","source":"stocktwits","ticker":"PSNL","kind":"attention","value":2839,"meta":{"rank":15,"sector":"HealthServices"}}
+{"id":"cb567904f42ac3c9","ts":"2026-07-16T20:16:13.840Z","date":"2026-07-16","source":"stocktwits","ticker":"WYFI","kind":"attention","value":6576,"meta":{"rank":17,"sector":"TechnologyServices"}}
+{"id":"cc920a3455f7a43f","ts":"2026-07-16T20:16:13.840Z","date":"2026-07-16","source":"stocktwits","ticker":"NTLA","kind":"attention","value":15120,"meta":{"rank":20,"sector":"HealthTechnology"}}
+{"id":"3a10f77694e89176","ts":"2026-07-16T20:16:13.840Z","date":"2026-07-16","source":"stocktwits","ticker":"DAVE","kind":"attention","value":3931,"meta":{"rank":21,"sector":"Finance"}}
+{"id":"73a94cc6538e1bbe","ts":"2026-07-16T20:16:13.840Z","date":"2026-07-16","source":"stocktwits","ticker":"SPY","kind":"attention","value":634431,"meta":{"rank":22,"sector":"Miscellaneous"}}
+{"id":"d5f6802dfb5ab57a","ts":"2026-07-16T20:16:13.840Z","date":"2026-07-16","source":"stocktwits","ticker":"MAAS","kind":"attention","value":1022,"meta":{"rank":23,"sector":"TechnologyServices"}}
+{"id":"d3c41bca4d60f216","ts":"2026-07-16T20:16:13.840Z","date":"2026-07-16","source":"stocktwits","ticker":"CSIQ","kind":"attention","value":14767,"meta":{"rank":27,"sector":"ElectronicTechnology"}}
+{"id":"0d1c10a41b822282","ts":"2026-07-16T20:16:13.840Z","date":"2026-07-16","source":"stocktwits","ticker":"NVAX","kind":"attention","value":107587,"meta":{"rank":29,"sector":"HealthTechnology"}}
+{"id":"7e944efa86cd23bf","ts":"2026-07-16T20:16:14.442Z","date":"2026-07-16","source":"stocktwits","ticker":"CRDO","kind":"sentiment","value":60,"meta":{"bull":3,"bear":2}}
+{"id":"2cbb0f0e36db4f52","ts":"2026-07-16T20:16:15.645Z","date":"2026-07-16","source":"apewisdom","ticker":"CC","kind":"attention","value":16,"meta":{"rank":47,"upvotes":34,"prev24h":10}}
