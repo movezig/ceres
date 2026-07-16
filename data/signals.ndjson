@@ -1952,3 +1952,14 @@
 {"id":"34789d11e4732417","ts":"2026-07-16T16:47:24.220Z","date":"2026-07-16","source":"apewisdom","ticker":"SMCI","kind":"attention","value":15,"meta":{"rank":44,"upvotes":40,"prev24h":6}}
 {"id":"6c64677999588f06","ts":"2026-07-16T16:47:24.220Z","date":"2026-07-16","source":"apewisdom","ticker":"LINK","kind":"attention","value":14,"meta":{"rank":46,"upvotes":20,"prev24h":5}}
 {"id":"8f9e405d933bd416","ts":"2026-07-16T16:47:24.220Z","date":"2026-07-16","source":"apewisdom","ticker":"APLD","kind":"attention","value":12,"meta":{"rank":50,"upvotes":27,"prev24h":9}}
+{"id":"9aff365d80322b9f","ts":"2026-07-16T18:36:49.354Z","date":"2026-07-16","source":"stocktwits","ticker":"INFQ","kind":"attention","value":15132,"meta":{"rank":10,"sector":"ElectronicTechnology"}}
+{"id":"f2139fbf8e8f6615","ts":"2026-07-16T18:36:49.354Z","date":"2026-07-16","source":"stocktwits","ticker":"BE","kind":"attention","value":30465,"meta":{"rank":16,"sector":"ElectronicTechnology"}}
+{"id":"570e4ed15e868a24","ts":"2026-07-16T18:36:49.354Z","date":"2026-07-16","source":"stocktwits","ticker":"RDW","kind":"attention","value":22985,"meta":{"rank":19,"sector":"ElectronicTechnology"}}
+{"id":"8ecb3c5db1b895da","ts":"2026-07-16T18:36:49.354Z","date":"2026-07-16","source":"stocktwits","ticker":"JOBY","kind":"attention","value":28708,"meta":{"rank":23,"sector":"ElectronicTechnology"}}
+{"id":"0baba6f93aca3530","ts":"2026-07-16T18:36:49.354Z","date":"2026-07-16","source":"stocktwits","ticker":"WULF","kind":"attention","value":30462,"meta":{"rank":24,"sector":"TechnologyServices"}}
+{"id":"e4dac1a15db82205","ts":"2026-07-16T18:36:49.354Z","date":"2026-07-16","source":"stocktwits","ticker":"HUT","kind":"attention","value":29192,"meta":{"rank":26,"sector":"Miscellaneous"}}
+{"id":"e19745c89bc5b48f","ts":"2026-07-16T18:36:49.354Z","date":"2026-07-16","source":"stocktwits","ticker":"MS","kind":"attention","value":15087,"meta":{"rank":27,"sector":"Finance"}}
+{"id":"dd33ed4f57b8cfd9","ts":"2026-07-16T18:36:49.354Z","date":"2026-07-16","source":"stocktwits","ticker":"BB","kind":"attention","value":150564,"meta":{"rank":29,"sector":"TechnologyServices"}}
+{"id":"432620b4b31e7b47","ts":"2026-07-16T18:36:49.354Z","date":"2026-07-16","source":"stocktwits","ticker":"AMPX","kind":"attention","value":8717,"meta":{"rank":30,"sector":"ProducerManufacturing"}}
+{"id":"d7b393280ff02dcd","ts":"2026-07-16T18:36:51.611Z","date":"2026-07-16","source":"apewisdom","ticker":"ES","kind":"attention","value":13,"meta":{"rank":48,"upvotes":17,"prev24h":7}}
+{"id":"6b0daa79c77bc856","ts":"2026-07-16T18:36:51.611Z","date":"2026-07-16","source":"apewisdom","ticker":"API","kind":"attention","value":13,"meta":{"rank":49,"upvotes":22,"prev24h":3}}
