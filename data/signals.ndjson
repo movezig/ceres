@@ -2274,3 +2274,6 @@
 {"id":"fa63532a4cf9e4fe","ts":"2026-07-16T21:30:12.410Z","date":"2026-07-16","source":"stocktwits","ticker":"NDAQ","kind":"attention","value":6230,"meta":{"rank":27,"sector":"Finance"}}
 {"id":"9bbb5e477d68716a","ts":"2026-07-16T21:30:12.410Z","date":"2026-07-16","source":"stocktwits","ticker":"MDT","kind":"attention","value":10926,"meta":{"rank":29,"sector":"HealthTechnology"}}
 {"id":"4ad513cb7eaee9aa","ts":"2026-07-16T21:30:12.410Z","date":"2026-07-16","source":"stocktwits","ticker":"PINS","kind":"attention","value":45531,"meta":{"rank":30,"sector":"TechnologyServices"}}
+{"id":"5efaf1629c883d28","ts":"2026-07-16T23:15:47.988Z","date":"2026-07-16","source":"stocktwits","ticker":"SPCX","kind":"attention","value":90643,"meta":{"rank":2,"sector":"Communications"}}
+{"id":"8b700a40c77965cf","ts":"2026-07-16T23:15:48.001Z","date":"2026-07-16","source":"stocktwits","ticker":"AVGO","kind":"attention","value":70344,"meta":{"rank":25,"sector":"ElectronicTechnology"}}
+{"id":"e00ed62e907696d4","ts":"2026-07-16T23:15:48.001Z","date":"2026-07-16","source":"stocktwits","ticker":"AAOI","kind":"attention","value":23120,"meta":{"rank":26,"sector":"ElectronicTechnology"}}
