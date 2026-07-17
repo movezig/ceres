@@ -2398,3 +2398,13 @@
 {"id":"39ba9ea5779a35b5","ts":"2026-07-17T10:14:46.026Z","date":"2026-07-17","source":"stocktwits","ticker":"JNJ","kind":"attention","value":48895,"meta":{"rank":26,"sector":"HealthTechnology"}}
 {"id":"ef20c148b524cd0e","ts":"2026-07-17T10:14:46.026Z","date":"2026-07-17","source":"stocktwits","ticker":"KTOS","kind":"attention","value":20884,"meta":{"rank":30,"sector":"ElectronicTechnology"}}
 {"id":"14b8e508e31ebb0f","ts":"2026-07-17T10:14:47.875Z","date":"2026-07-17","source":"apewisdom","ticker":"WMT","kind":"attention","value":16,"meta":{"rank":48,"upvotes":47,"prev24h":3}}
+{"id":"42196e59c463f62e","ts":"2026-07-17T11:46:45.638Z","date":"2026-07-17","source":"stocktwits","ticker":"BA","kind":"attention","value":196979,"meta":{"rank":6,"sector":"ElectronicTechnology"}}
+{"id":"0167ac92310a7d30","ts":"2026-07-17T11:46:45.638Z","date":"2026-07-17","source":"stocktwits","ticker":"MAAS","kind":"attention","value":1022,"meta":{"rank":9,"sector":"TechnologyServices"}}
+{"id":"52019900cfe448c1","ts":"2026-07-17T11:46:45.638Z","date":"2026-07-17","source":"stocktwits","ticker":"PHOE","kind":"attention","value":636,"meta":{"rank":11,"sector":"IndustrialServices"}}
+{"id":"57a74cf0e3323b9e","ts":"2026-07-17T11:46:45.639Z","date":"2026-07-17","source":"stocktwits","ticker":"NN","kind":"attention","value":1035,"meta":{"rank":17,"sector":"TechnologyServices"}}
+{"id":"3942d996d9381c8f","ts":"2026-07-17T11:46:45.639Z","date":"2026-07-17","source":"stocktwits","ticker":"SEZL","kind":"attention","value":4116,"meta":{"rank":20,"sector":"TechnologyServices"}}
+{"id":"28c5e463b0585bd8","ts":"2026-07-17T11:46:45.639Z","date":"2026-07-17","source":"stocktwits","ticker":"GLD","kind":"attention","value":95342,"meta":{"rank":22,"sector":"Miscellaneous"}}
+{"id":"579eb85ce2385d9f","ts":"2026-07-17T11:46:45.639Z","date":"2026-07-17","source":"stocktwits","ticker":"BIDU","kind":"attention","value":66268,"meta":{"rank":24,"sector":"TechnologyServices"}}
+{"id":"561143499df1d1ef","ts":"2026-07-17T11:46:45.639Z","date":"2026-07-17","source":"stocktwits","ticker":"ROKU","kind":"attention","value":134261,"meta":{"rank":26,"sector":"TechnologyServices"}}
+{"id":"ed58c32866c7b88e","ts":"2026-07-17T11:46:45.639Z","date":"2026-07-17","source":"stocktwits","ticker":"PENN","kind":"attention","value":36495,"meta":{"rank":29,"sector":"ConsumerServices"}}
+{"id":"93c5a0b0f05ff41f","ts":"2026-07-17T11:46:45.639Z","date":"2026-07-17","source":"stocktwits","ticker":"RGNX","kind":"attention","value":3173,"meta":{"rank":30,"sector":"HealthTechnology"}}
