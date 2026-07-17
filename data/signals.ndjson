@@ -2408,3 +2408,14 @@
 {"id":"561143499df1d1ef","ts":"2026-07-17T11:46:45.639Z","date":"2026-07-17","source":"stocktwits","ticker":"ROKU","kind":"attention","value":134261,"meta":{"rank":26,"sector":"TechnologyServices"}}
 {"id":"ed58c32866c7b88e","ts":"2026-07-17T11:46:45.639Z","date":"2026-07-17","source":"stocktwits","ticker":"PENN","kind":"attention","value":36495,"meta":{"rank":29,"sector":"ConsumerServices"}}
 {"id":"93c5a0b0f05ff41f","ts":"2026-07-17T11:46:45.639Z","date":"2026-07-17","source":"stocktwits","ticker":"RGNX","kind":"attention","value":3173,"meta":{"rank":30,"sector":"HealthTechnology"}}
+{"id":"b0ac008d8c9f6c76","ts":"2026-07-17T14:09:31.317Z","date":"2026-07-17","source":"stocktwits","ticker":"APLD","kind":"attention","value":44753,"meta":{"rank":3,"sector":"TechnologyServices"}}
+{"id":"58ab0ac5c71b7305","ts":"2026-07-17T14:09:31.317Z","date":"2026-07-17","source":"stocktwits","ticker":"CMG","kind":"attention","value":61978,"meta":{"rank":13,"sector":"ConsumerServices"}}
+{"id":"3ae3679f7a90828a","ts":"2026-07-17T14:09:31.317Z","date":"2026-07-17","source":"stocktwits","ticker":"CRDO","kind":"attention","value":10810,"meta":{"rank":15,"sector":"TechnologyServices"}}
+{"id":"95448dc07baaac89","ts":"2026-07-17T14:09:31.318Z","date":"2026-07-17","source":"stocktwits","ticker":"GOOGL","kind":"attention","value":219506,"meta":{"rank":18,"sector":"TechnologyServices"}}
+{"id":"41e005608b3eb06d","ts":"2026-07-17T14:09:31.318Z","date":"2026-07-17","source":"stocktwits","ticker":"NVTS","kind":"attention","value":25790,"meta":{"rank":19,"sector":"ElectronicTechnology"}}
+{"id":"36345af7c32500d3","ts":"2026-07-17T14:09:31.318Z","date":"2026-07-17","source":"stocktwits","ticker":"JOBY","kind":"attention","value":28708,"meta":{"rank":22,"sector":"ElectronicTechnology"}}
+{"id":"cee6e81723e201ef","ts":"2026-07-17T14:09:31.318Z","date":"2026-07-17","source":"stocktwits","ticker":"TSSI","kind":"attention","value":6091,"meta":{"rank":25,"sector":"TechnologyServices"}}
+{"id":"0bf9df6c957c37a9","ts":"2026-07-17T14:09:31.318Z","date":"2026-07-17","source":"stocktwits","ticker":"VG","kind":"attention","value":4484,"meta":{"rank":26,"sector":"IndustrialServices"}}
+{"id":"a227da48d1a0ca2a","ts":"2026-07-17T14:09:31.318Z","date":"2026-07-17","source":"stocktwits","ticker":"LCID","kind":"attention","value":218632,"meta":{"rank":27,"sector":"ConsumerDurables"}}
+{"id":"e06e784cc232054c","ts":"2026-07-17T14:09:31.318Z","date":"2026-07-17","source":"stocktwits","ticker":"CLS","kind":"attention","value":7017,"meta":{"rank":28,"sector":"ElectronicTechnology"}}
+{"id":"60327fe95b9e50a3","ts":"2026-07-17T14:09:31.318Z","date":"2026-07-17","source":"stocktwits","ticker":"SMMT","kind":"attention","value":9938,"meta":{"rank":30,"sector":"HealthTechnology"}}
