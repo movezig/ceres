@@ -2428,3 +2428,10 @@
 {"id":"527afb05f705b60b","ts":"2026-07-17T15:50:54.431Z","date":"2026-07-17","source":"stocktwits","ticker":"SIMO","kind":"attention","value":3017,"meta":{"rank":25,"sector":"ElectronicTechnology"}}
 {"id":"735ab5b163f26613","ts":"2026-07-17T15:50:54.431Z","date":"2026-07-17","source":"stocktwits","ticker":"ZSQR","kind":"attention","value":3839,"meta":{"rank":26,"sector":"HealthTechnology"}}
 {"id":"9adbda959494cdb4","ts":"2026-07-17T15:50:54.431Z","date":"2026-07-17","source":"stocktwits","ticker":"FSLY","kind":"attention","value":36038,"meta":{"rank":28,"sector":"TechnologyServices"}}
+{"id":"d7c0d17df7c10877","ts":"2026-07-17T17:35:15.515Z","date":"2026-07-17","source":"stocktwits","ticker":"FRMI","kind":"attention","value":4775,"meta":{"rank":7,"sector":"Finance"}}
+{"id":"6dd47248a98c8094","ts":"2026-07-17T17:35:15.528Z","date":"2026-07-17","source":"stocktwits","ticker":"PSKY","kind":"attention","value":26496,"meta":{"rank":17,"sector":"ConsumerServices"}}
+{"id":"5a092af56be079fd","ts":"2026-07-17T17:35:15.529Z","date":"2026-07-17","source":"stocktwits","ticker":"NOC","kind":"attention","value":11261,"meta":{"rank":18,"sector":"ElectronicTechnology"}}
+{"id":"51ba6bef5f92ad49","ts":"2026-07-17T17:35:15.529Z","date":"2026-07-17","source":"stocktwits","ticker":"MA","kind":"attention","value":31765,"meta":{"rank":19,"sector":"Finance"}}
+{"id":"f7eae083d061de5e","ts":"2026-07-17T17:35:15.529Z","date":"2026-07-17","source":"stocktwits","ticker":"LOW","kind":"attention","value":18922,"meta":{"rank":21,"sector":"RetailTrade"}}
+{"id":"67e47b38b99bb301","ts":"2026-07-17T17:35:15.529Z","date":"2026-07-17","source":"stocktwits","ticker":"MP","kind":"attention","value":33353,"meta":{"rank":26,"sector":"NonEnergyMinerals"}}
+{"id":"7cea021d3be41da9","ts":"2026-07-17T17:35:17.444Z","date":"2026-07-17","source":"apewisdom","ticker":"SLS","kind":"attention","value":17,"meta":{"rank":46,"upvotes":28,"prev24h":7}}
