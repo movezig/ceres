@@ -2419,3 +2419,12 @@
 {"id":"a227da48d1a0ca2a","ts":"2026-07-17T14:09:31.318Z","date":"2026-07-17","source":"stocktwits","ticker":"LCID","kind":"attention","value":218632,"meta":{"rank":27,"sector":"ConsumerDurables"}}
 {"id":"e06e784cc232054c","ts":"2026-07-17T14:09:31.318Z","date":"2026-07-17","source":"stocktwits","ticker":"CLS","kind":"attention","value":7017,"meta":{"rank":28,"sector":"ElectronicTechnology"}}
 {"id":"60327fe95b9e50a3","ts":"2026-07-17T14:09:31.318Z","date":"2026-07-17","source":"stocktwits","ticker":"SMMT","kind":"attention","value":9938,"meta":{"rank":30,"sector":"HealthTechnology"}}
+{"id":"f38bb08e9a9180ca","ts":"2026-07-17T15:50:54.430Z","date":"2026-07-17","source":"stocktwits","ticker":"BULL","kind":"attention","value":24255,"meta":{"rank":9,"sector":"Finance"}}
+{"id":"f325d410693f54b0","ts":"2026-07-17T15:50:54.430Z","date":"2026-07-17","source":"stocktwits","ticker":"INTC","kind":"attention","value":204782,"meta":{"rank":12,"sector":"ElectronicTechnology"}}
+{"id":"0a665fff80ad7c21","ts":"2026-07-17T15:50:54.430Z","date":"2026-07-17","source":"stocktwits","ticker":"META","kind":"attention","value":600416,"meta":{"rank":14,"sector":"TechnologyServices"}}
+{"id":"86780c7b35f71741","ts":"2026-07-17T15:50:54.430Z","date":"2026-07-17","source":"stocktwits","ticker":"BE","kind":"attention","value":30465,"meta":{"rank":17,"sector":"ElectronicTechnology"}}
+{"id":"e93b9cb6348b0381","ts":"2026-07-17T15:50:54.430Z","date":"2026-07-17","source":"stocktwits","ticker":"B","kind":"attention","value":32090,"meta":{"rank":20,"sector":"NonEnergyMinerals"}}
+{"id":"75ad20334bec35e6","ts":"2026-07-17T15:50:54.431Z","date":"2026-07-17","source":"stocktwits","ticker":"EBS","kind":"attention","value":8475,"meta":{"rank":22,"sector":"HealthTechnology"}}
+{"id":"527afb05f705b60b","ts":"2026-07-17T15:50:54.431Z","date":"2026-07-17","source":"stocktwits","ticker":"SIMO","kind":"attention","value":3017,"meta":{"rank":25,"sector":"ElectronicTechnology"}}
+{"id":"735ab5b163f26613","ts":"2026-07-17T15:50:54.431Z","date":"2026-07-17","source":"stocktwits","ticker":"ZSQR","kind":"attention","value":3839,"meta":{"rank":26,"sector":"HealthTechnology"}}
+{"id":"9adbda959494cdb4","ts":"2026-07-17T15:50:54.431Z","date":"2026-07-17","source":"stocktwits","ticker":"FSLY","kind":"attention","value":36038,"meta":{"rank":28,"sector":"TechnologyServices"}}
