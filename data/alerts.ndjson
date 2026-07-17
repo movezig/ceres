@@ -297,3 +297,4 @@
 {"id":"7e97d33c7b351bcf","ts":"2026-07-17T00:57:23.657Z","rule":"attention_spike","severity":"medium","source":"apewisdom","ticker":"NFLX","trader":"Reddit (Apewisdom)","message":"NFLX Reddit mentions 49 → 370 in 24h (rank #3)","tradeIds":[]}
 {"id":"602b39b58f942a77","ts":"2026-07-17T00:57:23.658Z","rule":"attention_spike","severity":"medium","source":"apewisdom","ticker":"UNH","trader":"Reddit (Apewisdom)","message":"UNH Reddit mentions 26 → 86 in 24h (rank #16)","tradeIds":[]}
 {"id":"bccdb0a522a0638d","ts":"2026-07-17T00:57:23.658Z","rule":"attention_spike","severity":"medium","source":"apewisdom","ticker":"GOOGL","trader":"Reddit (Apewisdom)","message":"GOOGL Reddit mentions 28 → 82 in 24h (rank #17)","tradeIds":[]}
+{"id":"4c9f1d5154c9cb6e","ts":"2026-07-17T07:31:16.790Z","rule":"attention_spike","severity":"medium","source":"stocktwits","ticker":"KO","trader":"Stocktwits","message":"KO entered Stocktwits trending at #11 (53,112 watchers)","tradeIds":[]}
