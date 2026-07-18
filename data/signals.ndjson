@@ -2916,3 +2916,17 @@
 {"id":"9859f68a880ef59f","ts":"2026-07-18T09:04:21.702Z","date":"2026-07-18","source":"stocktwits","ticker":"GRRR","kind":"attention","value":25198,"meta":{"rank":28,"sector":"TechnologyServices"}}
 {"id":"89f79aa226c651ce","ts":"2026-07-18T09:04:21.702Z","date":"2026-07-18","source":"stocktwits","ticker":"DASH","kind":"attention","value":18517,"meta":{"rank":29,"sector":"Transportation"}}
 {"id":"75190215f5ea9a7f","ts":"2026-07-18T09:04:23.879Z","date":"2026-07-18","source":"apewisdom","ticker":"OKLO","kind":"attention","value":13,"meta":{"rank":48,"upvotes":122,"prev24h":16}}
+{"id":"b3bd4ee65dca69d6","ts":"2026-07-18T12:09:38.868Z","date":"2026-07-18","source":"stocktwits","ticker":"VRT","kind":"attention","value":18415,"meta":{"rank":4,"sector":"ElectronicTechnology"}}
+{"id":"fc2d79550a7455e8","ts":"2026-07-18T12:09:38.881Z","date":"2026-07-18","source":"stocktwits","ticker":"B","kind":"attention","value":32092,"meta":{"rank":5,"sector":"NonEnergyMinerals"}}
+{"id":"a78a6d80a009e4eb","ts":"2026-07-18T12:09:38.881Z","date":"2026-07-18","source":"stocktwits","ticker":"AGQ","kind":"attention","value":4538,"meta":{"rank":7,"sector":"Miscellaneous"}}
+{"id":"3e419f879e3484ca","ts":"2026-07-18T12:09:38.881Z","date":"2026-07-18","source":"stocktwits","ticker":"ALB","kind":"attention","value":14605,"meta":{"rank":8,"sector":"ProcessIndustries"}}
+{"id":"3f3f7e8e2f23171f","ts":"2026-07-18T12:09:38.881Z","date":"2026-07-18","source":"stocktwits","ticker":"AA","kind":"attention","value":17848,"meta":{"rank":10,"sector":"NonEnergyMinerals"}}
+{"id":"355814c8a23bfaa2","ts":"2026-07-18T12:09:38.881Z","date":"2026-07-18","source":"stocktwits","ticker":"LEGN","kind":"attention","value":1248,"meta":{"rank":11,"sector":"HealthTechnology"}}
+{"id":"43e029e80974be18","ts":"2026-07-18T12:09:38.881Z","date":"2026-07-18","source":"stocktwits","ticker":"PHOE","kind":"attention","value":636,"meta":{"rank":13,"sector":"IndustrialServices"}}
+{"id":"07284af8c427da22","ts":"2026-07-18T12:09:38.881Z","date":"2026-07-18","source":"stocktwits","ticker":"CLF","kind":"attention","value":32675,"meta":{"rank":14,"sector":"NonEnergyMinerals"}}
+{"id":"880898820facce82","ts":"2026-07-18T12:09:38.881Z","date":"2026-07-18","source":"stocktwits","ticker":"LYFT","kind":"attention","value":42503,"meta":{"rank":15,"sector":"Transportation"}}
+{"id":"91dc05313470eaf4","ts":"2026-07-18T12:09:38.882Z","date":"2026-07-18","source":"stocktwits","ticker":"CRSP","kind":"attention","value":41665,"meta":{"rank":16,"sector":"HealthTechnology"}}
+{"id":"ca507512d6a8f6b5","ts":"2026-07-18T12:09:38.882Z","date":"2026-07-18","source":"stocktwits","ticker":"LQDA","kind":"attention","value":4342,"meta":{"rank":18,"sector":"HealthTechnology"}}
+{"id":"75174e6350f1b12a","ts":"2026-07-18T12:09:38.882Z","date":"2026-07-18","source":"stocktwits","ticker":"FLNC","kind":"attention","value":7908,"meta":{"rank":20,"sector":"ProducerManufacturing"}}
+{"id":"4d457350baad2346","ts":"2026-07-18T12:09:38.882Z","date":"2026-07-18","source":"stocktwits","ticker":"RIG","kind":"attention","value":25022,"meta":{"rank":24,"sector":"IndustrialServices"}}
+{"id":"3157c6083026ec91","ts":"2026-07-18T12:09:38.882Z","date":"2026-07-18","source":"stocktwits","ticker":"ALAB","kind":"attention","value":12149,"meta":{"rank":30,"sector":"ElectronicTechnology"}}
