@@ -2998,3 +2998,12 @@
 {"id":"7d594e64319b6110","ts":"2026-07-18T21:09:47.574Z","date":"2026-07-18","source":"stocktwits","ticker":"PEP","kind":"attention","value":23308,"meta":{"rank":25,"sector":"ConsumerNonDurables"}}
 {"id":"47918676a791e498","ts":"2026-07-18T21:09:47.574Z","date":"2026-07-18","source":"stocktwits","ticker":"CAVA","kind":"attention","value":13423,"meta":{"rank":29,"sector":"ConsumerServices"}}
 {"id":"73d2e497d388a272","ts":"2026-07-18T21:09:49.656Z","date":"2026-07-18","source":"apewisdom","ticker":"FA","kind":"attention","value":7,"meta":{"rank":49,"upvotes":51,"prev24h":1}}
+{"id":"4ad782af8cdfb650","ts":"2026-07-18T22:10:55.590Z","date":"2026-07-18","source":"stocktwits","ticker":"UPS","kind":"attention","value":29387,"meta":{"rank":5,"sector":"Transportation"}}
+{"id":"28b4ee6f44a6ea15","ts":"2026-07-18T22:10:55.602Z","date":"2026-07-18","source":"stocktwits","ticker":"CCL","kind":"attention","value":89386,"meta":{"rank":14,"sector":"ConsumerServices"}}
+{"id":"8a8c9450d5e3a260","ts":"2026-07-18T22:10:55.603Z","date":"2026-07-18","source":"stocktwits","ticker":"SEZL","kind":"attention","value":4116,"meta":{"rank":19,"sector":"TechnologyServices"}}
+{"id":"8452373bc1a3c8d6","ts":"2026-07-18T22:10:55.603Z","date":"2026-07-18","source":"stocktwits","ticker":"ENPH","kind":"attention","value":49191,"meta":{"rank":20,"sector":"ProducerManufacturing"}}
+{"id":"54c3c02698a67615","ts":"2026-07-18T22:10:55.603Z","date":"2026-07-18","source":"stocktwits","ticker":"IBRX","kind":"attention","value":29694,"meta":{"rank":22,"sector":"HealthTechnology"}}
+{"id":"e89bceeb5518d754","ts":"2026-07-18T22:10:55.603Z","date":"2026-07-18","source":"stocktwits","ticker":"SECZ","kind":"attention","value":393,"meta":{"rank":23,"sector":"Finance"}}
+{"id":"2e2149eafe1738c0","ts":"2026-07-18T22:10:55.603Z","date":"2026-07-18","source":"stocktwits","ticker":"XOM","kind":"attention","value":99421,"meta":{"rank":25,"sector":"EnergyMinerals"}}
+{"id":"6fdd50913755a126","ts":"2026-07-18T22:10:55.603Z","date":"2026-07-18","source":"stocktwits","ticker":"AMPX","kind":"attention","value":8717,"meta":{"rank":28,"sector":"ProducerManufacturing"}}
+{"id":"007745ed1b164b29","ts":"2026-07-18T22:10:55.603Z","date":"2026-07-18","source":"stocktwits","ticker":"BFLY","kind":"attention","value":9686,"meta":{"rank":29,"sector":"HealthTechnology"}}
