@@ -2946,3 +2946,15 @@
 {"id":"993c26aebc1d7387","ts":"2026-07-18T13:54:46.362Z","date":"2026-07-18","source":"apewisdom","ticker":"GME","kind":"attention","value":12,"meta":{"rank":45,"upvotes":23,"prev24h":6}}
 {"id":"8a633b9a411ea9f7","ts":"2026-07-18T13:54:46.362Z","date":"2026-07-18","source":"apewisdom","ticker":"LINK","kind":"attention","value":12,"meta":{"rank":46,"upvotes":14,"prev24h":11}}
 {"id":"bbde1dcc7c0668be","ts":"2026-07-18T13:54:46.362Z","date":"2026-07-18","source":"apewisdom","ticker":"AMZN","kind":"attention","value":10,"meta":{"rank":50,"upvotes":94,"prev24h":15}}
+{"id":"8ec9be73e95dadfa","ts":"2026-07-18T15:26:02.353Z","date":"2026-07-18","source":"stocktwits","ticker":"BKSY","kind":"attention","value":12640,"meta":{"rank":7,"sector":"TechnologyServices"}}
+{"id":"8ee1600e4e528c54","ts":"2026-07-18T15:26:02.354Z","date":"2026-07-18","source":"stocktwits","ticker":"AEVA","kind":"attention","value":7508,"meta":{"rank":13,"sector":"ElectronicTechnology"}}
+{"id":"83ca349e7ec4234f","ts":"2026-07-18T15:26:02.366Z","date":"2026-07-18","source":"stocktwits","ticker":"ADUR","kind":"attention","value":4842,"meta":{"rank":18,"sector":"ProcessIndustries"}}
+{"id":"03747bca977b7062","ts":"2026-07-18T15:26:02.367Z","date":"2026-07-18","source":"stocktwits","ticker":"PDD","kind":"attention","value":22863,"meta":{"rank":19,"sector":"RetailTrade"}}
+{"id":"636bc2ef0a1df43f","ts":"2026-07-18T15:26:02.367Z","date":"2026-07-18","source":"stocktwits","ticker":"CSCO","kind":"attention","value":61228,"meta":{"rank":22,"sector":"ElectronicTechnology"}}
+{"id":"b9d07c72f8dcce3f","ts":"2026-07-18T15:26:02.367Z","date":"2026-07-18","source":"stocktwits","ticker":"SEDG","kind":"attention","value":18414,"meta":{"rank":24,"sector":"ProducerManufacturing"}}
+{"id":"f428e61dee66acc6","ts":"2026-07-18T15:26:02.367Z","date":"2026-07-18","source":"stocktwits","ticker":"CIEN","kind":"attention","value":6796,"meta":{"rank":27,"sector":"ElectronicTechnology"}}
+{"id":"aaefee2485bb7a79","ts":"2026-07-18T15:26:02.367Z","date":"2026-07-18","source":"stocktwits","ticker":"ZIM","kind":"attention","value":15265,"meta":{"rank":28,"sector":"Transportation"}}
+{"id":"229603bffef11b6b","ts":"2026-07-18T15:26:02.367Z","date":"2026-07-18","source":"stocktwits","ticker":"AVEX","kind":"attention","value":1569,"meta":{"rank":29,"sector":"ElectronicTechnology"}}
+{"id":"36c76eca6e33a135","ts":"2026-07-18T15:26:02.367Z","date":"2026-07-18","source":"stocktwits","ticker":"ET","kind":"attention","value":22884,"meta":{"rank":30,"sector":"IndustrialServices"}}
+{"id":"811d10c830f6af1e","ts":"2026-07-18T15:26:04.700Z","date":"2026-07-18","source":"apewisdom","ticker":"ASML","kind":"attention","value":10,"meta":{"rank":47,"upvotes":21,"prev24h":27}}
+{"id":"b02b15c333655e79","ts":"2026-07-18T15:26:04.700Z","date":"2026-07-18","source":"apewisdom","ticker":"AMC","kind":"attention","value":10,"meta":{"rank":48,"upvotes":241,"prev24h":4}}
