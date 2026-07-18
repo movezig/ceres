@@ -2989,3 +2989,12 @@
 {"id":"948aff84601fb4d8","ts":"2026-07-18T19:37:13.686Z","date":"2026-07-18","source":"apewisdom","ticker":"LOT","kind":"attention","value":9,"meta":{"rank":45,"upvotes":14,"prev24h":5}}
 {"id":"fb868be345b9e184","ts":"2026-07-18T19:37:13.686Z","date":"2026-07-18","source":"apewisdom","ticker":"HR","kind":"attention","value":8,"meta":{"rank":48,"upvotes":42,"prev24h":0}}
 {"id":"806c6fa01aaf0b8d","ts":"2026-07-18T19:37:13.686Z","date":"2026-07-18","source":"apewisdom","ticker":"RR","kind":"attention","value":8,"meta":{"rank":49,"upvotes":13,"prev24h":7}}
+{"id":"523b9e9cbfb20830","ts":"2026-07-18T21:09:47.560Z","date":"2026-07-18","source":"stocktwits","ticker":"IMMX","kind":"attention","value":4539,"meta":{"rank":2,"sector":"HealthTechnology"}}
+{"id":"5d44b79ba5501242","ts":"2026-07-18T21:09:47.573Z","date":"2026-07-18","source":"stocktwits","ticker":"HD","kind":"attention","value":45688,"meta":{"rank":5,"sector":"RetailTrade"}}
+{"id":"d0b51379311ff445","ts":"2026-07-18T21:09:47.574Z","date":"2026-07-18","source":"stocktwits","ticker":"IBIT","kind":"attention","value":20151,"meta":{"rank":15,"sector":"Miscellaneous"}}
+{"id":"3973332b17c0fb70","ts":"2026-07-18T21:09:47.574Z","date":"2026-07-18","source":"stocktwits","ticker":"XRP","kind":"attention","value":1405,"meta":{"rank":21,"sector":"Unknown"}}
+{"id":"4509e047343a9157","ts":"2026-07-18T21:09:47.574Z","date":"2026-07-18","source":"stocktwits","ticker":"KTOS","kind":"attention","value":20892,"meta":{"rank":23,"sector":"ElectronicTechnology"}}
+{"id":"d7bdfd2393f476eb","ts":"2026-07-18T21:09:47.574Z","date":"2026-07-18","source":"stocktwits","ticker":"HUT","kind":"attention","value":29192,"meta":{"rank":24,"sector":"Miscellaneous"}}
+{"id":"7d594e64319b6110","ts":"2026-07-18T21:09:47.574Z","date":"2026-07-18","source":"stocktwits","ticker":"PEP","kind":"attention","value":23308,"meta":{"rank":25,"sector":"ConsumerNonDurables"}}
+{"id":"47918676a791e498","ts":"2026-07-18T21:09:47.574Z","date":"2026-07-18","source":"stocktwits","ticker":"CAVA","kind":"attention","value":13423,"meta":{"rank":29,"sector":"ConsumerServices"}}
+{"id":"73d2e497d388a272","ts":"2026-07-18T21:09:49.656Z","date":"2026-07-18","source":"apewisdom","ticker":"FA","kind":"attention","value":7,"meta":{"rank":49,"upvotes":51,"prev24h":1}}
