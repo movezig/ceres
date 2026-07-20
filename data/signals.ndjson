@@ -3382,3 +3382,15 @@
 {"id":"52f3e869b74fbb32","ts":"2026-07-20T15:27:57.719Z","date":"2026-07-20","source":"apewisdom","ticker":"MSTR","kind":"attention","value":8,"meta":{"rank":40,"upvotes":32,"prev24h":1}}
 {"id":"e93c70089898be3d","ts":"2026-07-20T15:27:57.719Z","date":"2026-07-20","source":"apewisdom","ticker":"CRWV","kind":"attention","value":8,"meta":{"rank":41,"upvotes":20,"prev24h":1}}
 {"id":"3eddf57392517443","ts":"2026-07-20T15:27:57.719Z","date":"2026-07-20","source":"apewisdom","ticker":"MRVL","kind":"attention","value":7,"meta":{"rank":42,"upvotes":34,"prev24h":5}}
+{"id":"81f5be75f19498cd","ts":"2026-07-20T18:26:20.763Z","date":"2026-07-20","source":"stocktwits","ticker":"WBD","kind":"attention","value":10087,"meta":{"rank":5,"sector":"ConsumerServices"}}
+{"id":"553b3a00c7be4579","ts":"2026-07-20T18:26:20.763Z","date":"2026-07-20","source":"stocktwits","ticker":"HONA","kind":"attention","value":669,"meta":{"rank":14,"sector":"ElectronicTechnology"}}
+{"id":"4b8273e9e71313b5","ts":"2026-07-20T18:26:20.763Z","date":"2026-07-20","source":"stocktwits","ticker":"QXO","kind":"attention","value":4410,"meta":{"rank":16,"sector":"DistributionServices"}}
+{"id":"571f208915319720","ts":"2026-07-20T18:26:20.764Z","date":"2026-07-20","source":"stocktwits","ticker":"WYFI","kind":"attention","value":6576,"meta":{"rank":18,"sector":"TechnologyServices"}}
+{"id":"bb98060bd123f380","ts":"2026-07-20T18:26:20.764Z","date":"2026-07-20","source":"stocktwits","ticker":"PEP","kind":"attention","value":23321,"meta":{"rank":19,"sector":"ConsumerNonDurables"}}
+{"id":"88f00451030e9488","ts":"2026-07-20T18:26:20.764Z","date":"2026-07-20","source":"stocktwits","ticker":"GE","kind":"attention","value":154885,"meta":{"rank":22,"sector":"ElectronicTechnology"}}
+{"id":"7fa4799322417557","ts":"2026-07-20T18:26:20.764Z","date":"2026-07-20","source":"stocktwits","ticker":"BTGO","kind":"attention","value":751,"meta":{"rank":23,"sector":"TechnologyServices"}}
+{"id":"575f0602fb06b654","ts":"2026-07-20T18:26:20.764Z","date":"2026-07-20","source":"stocktwits","ticker":"ABCL","kind":"attention","value":8788,"meta":{"rank":27,"sector":"HealthTechnology"}}
+{"id":"a3eb6b7ef5d06765","ts":"2026-07-20T18:26:20.764Z","date":"2026-07-20","source":"stocktwits","ticker":"LOW","kind":"attention","value":18936,"meta":{"rank":29,"sector":"RetailTrade"}}
+{"id":"2e88e4dc9c26e2ab","ts":"2026-07-20T18:26:20.764Z","date":"2026-07-20","source":"stocktwits","ticker":"KRMN","kind":"attention","value":1385,"meta":{"rank":30,"sector":"ElectronicTechnology"}}
+{"id":"81e7c2f0aaee5351","ts":"2026-07-20T18:26:22.669Z","date":"2026-07-20","source":"apewisdom","ticker":"PLTR","kind":"attention","value":8,"meta":{"rank":46,"upvotes":19,"prev24h":3}}
+{"id":"1f0e8a1811b4623a","ts":"2026-07-20T18:26:22.669Z","date":"2026-07-20","source":"apewisdom","ticker":"FCF","kind":"attention","value":8,"meta":{"rank":47,"upvotes":10,"prev24h":3}}
