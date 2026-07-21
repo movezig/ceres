@@ -424,3 +424,4 @@
 {"id":"7bd3060cde096161","ts":"2026-07-21T00:16:43.338Z","rule":"attention_spike","severity":"medium","source":"apewisdom","ticker":"MSFT","trader":"Reddit (Apewisdom)","message":"MSFT Reddit mentions 26 → 181 in 24h (rank #4)","tradeIds":[]}
 {"id":"27bd5579ed8a1d3a","ts":"2026-07-21T00:16:43.338Z","rule":"attention_spike","severity":"medium","source":"apewisdom","ticker":"TSLA","trader":"Reddit (Apewisdom)","message":"TSLA Reddit mentions 8 → 86 in 24h (rank #5)","tradeIds":[]}
 {"id":"04cf46f10422a180","ts":"2026-07-21T00:16:43.338Z","rule":"attention_spike","severity":"medium","source":"apewisdom","ticker":"QQQ","trader":"Reddit (Apewisdom)","message":"QQQ Reddit mentions 28 → 86 in 24h (rank #6)","tradeIds":[]}
+{"id":"86ab520f681809a6","ts":"2026-07-21T03:52:51.806Z","rule":"insider_big_buy","severity":"high","source":"form4","ticker":"FULC","trader":"Tang Kevin","message":"Tang Kevin (10% owner) bought ~$415K of FULC","tradeIds":["71ab03cb7cc65ee4"]}
