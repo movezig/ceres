@@ -4843,3 +4843,11 @@
 {"id":"7d7312328269994a","ts":"2026-07-23T15:29:33.679Z","date":"2026-07-23","source":"apewisdom","ticker":"WTI","kind":"attention","value":18,"meta":{"rank":39,"upvotes":64,"prev24h":13}}
 {"id":"c6e32118183c2caf","ts":"2026-07-23T15:29:33.679Z","date":"2026-07-23","source":"apewisdom","ticker":"CSX","kind":"attention","value":15,"meta":{"rank":46,"upvotes":29,"prev24h":0}}
 {"id":"2c4a2af4340b65d8","ts":"2026-07-23T15:29:33.679Z","date":"2026-07-23","source":"apewisdom","ticker":"ALL","kind":"attention","value":14,"meta":{"rank":48,"upvotes":1289,"prev24h":7}}
+{"id":"0613de0c040eb973","ts":"2026-07-23T17:52:23.200Z","date":"2026-07-22","source":"houseclerk","ticker":null,"kind":"ptr_filed","value":1,"meta":{"member":"Debbie Dingell","district":"MI06","url":"https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035048.pdf"}}
+{"id":"c4977e97c78bbbdf","ts":"2026-07-23T17:52:25.491Z","date":"2026-07-23","source":"stocktwits","ticker":"HIMS","kind":"attention","value":56988,"meta":{"rank":1,"sector":"HealthServices"}}
+{"id":"d5522970a20aae43","ts":"2026-07-23T17:52:25.492Z","date":"2026-07-23","source":"stocktwits","ticker":"CELH","kind":"attention","value":30020,"meta":{"rank":7,"sector":"ConsumerNonDurables"}}
+{"id":"015704ed7ab4ee02","ts":"2026-07-23T17:52:25.492Z","date":"2026-07-23","source":"stocktwits","ticker":"STM","kind":"attention","value":9293,"meta":{"rank":19,"sector":"ElectronicTechnology"}}
+{"id":"f364064f3b70f7df","ts":"2026-07-23T17:52:25.493Z","date":"2026-07-23","source":"stocktwits","ticker":"WOLF","kind":"attention","value":20091,"meta":{"rank":23,"sector":"ElectronicTechnology"}}
+{"id":"5a1218885973d392","ts":"2026-07-23T17:52:25.493Z","date":"2026-07-23","source":"stocktwits","ticker":"BIDU","kind":"attention","value":66255,"meta":{"rank":28,"sector":"TechnologyServices"}}
+{"id":"e8bdf0cbe9abb94d","ts":"2026-07-23T17:52:28.710Z","date":"2026-07-23","source":"apewisdom","ticker":"IQ","kind":"attention","value":15,"meta":{"rank":44,"upvotes":51,"prev24h":8}}
+{"id":"409f35c002aca695","ts":"2026-07-23T17:52:28.710Z","date":"2026-07-23","source":"apewisdom","ticker":"TSM","kind":"attention","value":13,"meta":{"rank":48,"upvotes":22,"prev24h":4}}
