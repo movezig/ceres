@@ -4833,3 +4833,13 @@
 {"id":"c70a0739381840b2","ts":"2026-07-23T12:53:37.438Z","date":"2026-07-23","source":"stocktwits","ticker":"DIS","kind":"attention","value":290112,"meta":{"rank":27,"sector":"ConsumerServices"}}
 {"id":"7ae56174f76b1325","ts":"2026-07-23T12:53:37.438Z","date":"2026-07-23","source":"stocktwits","ticker":"VKTX","kind":"attention","value":38379,"meta":{"rank":30,"sector":"HealthTechnology"}}
 {"id":"d2e443da178a11ec","ts":"2026-07-23T12:53:39.357Z","date":"2026-07-23","source":"apewisdom","ticker":"OR","kind":"attention","value":14,"meta":{"rank":50,"upvotes":528,"prev24h":3}}
+{"id":"8a1097532f7b9fde","ts":"2026-07-23T15:29:31.764Z","date":"2026-07-23","source":"stocktwits","ticker":"TTD","kind":"attention","value":48235,"meta":{"rank":14,"sector":"TechnologyServices"}}
+{"id":"941d1f85140928a1","ts":"2026-07-23T15:29:31.764Z","date":"2026-07-23","source":"stocktwits","ticker":"DJT","kind":"attention","value":115521,"meta":{"rank":17,"sector":"Finance"}}
+{"id":"7696fa81353dc5ca","ts":"2026-07-23T15:29:31.765Z","date":"2026-07-23","source":"stocktwits","ticker":"HON","kind":"attention","value":11536,"meta":{"rank":22,"sector":"ElectronicTechnology"}}
+{"id":"2ad4f7734a5ab89a","ts":"2026-07-23T15:29:31.765Z","date":"2026-07-23","source":"stocktwits","ticker":"BMNR","kind":"attention","value":28831,"meta":{"rank":23,"sector":"Finance"}}
+{"id":"f4a5053133e28ac2","ts":"2026-07-23T15:29:31.765Z","date":"2026-07-23","source":"stocktwits","ticker":"ALOY","kind":"attention","value":9911,"meta":{"rank":24,"sector":"TechnologyServices"}}
+{"id":"4d4178816ff1c7d7","ts":"2026-07-23T15:29:31.765Z","date":"2026-07-23","source":"stocktwits","ticker":"BKKT","kind":"attention","value":25423,"meta":{"rank":26,"sector":"CommercialServices"}}
+{"id":"b61100231787ccaf","ts":"2026-07-23T15:29:31.765Z","date":"2026-07-23","source":"stocktwits","ticker":"PGY","kind":"attention","value":8570,"meta":{"rank":28,"sector":"TechnologyServices"}}
+{"id":"7d7312328269994a","ts":"2026-07-23T15:29:33.679Z","date":"2026-07-23","source":"apewisdom","ticker":"WTI","kind":"attention","value":18,"meta":{"rank":39,"upvotes":64,"prev24h":13}}
+{"id":"c6e32118183c2caf","ts":"2026-07-23T15:29:33.679Z","date":"2026-07-23","source":"apewisdom","ticker":"CSX","kind":"attention","value":15,"meta":{"rank":46,"upvotes":29,"prev24h":0}}
+{"id":"2c4a2af4340b65d8","ts":"2026-07-23T15:29:33.679Z","date":"2026-07-23","source":"apewisdom","ticker":"ALL","kind":"attention","value":14,"meta":{"rank":48,"upvotes":1289,"prev24h":7}}
