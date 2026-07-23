@@ -4851,3 +4851,9 @@
 {"id":"5a1218885973d392","ts":"2026-07-23T17:52:25.493Z","date":"2026-07-23","source":"stocktwits","ticker":"BIDU","kind":"attention","value":66255,"meta":{"rank":28,"sector":"TechnologyServices"}}
 {"id":"e8bdf0cbe9abb94d","ts":"2026-07-23T17:52:28.710Z","date":"2026-07-23","source":"apewisdom","ticker":"IQ","kind":"attention","value":15,"meta":{"rank":44,"upvotes":51,"prev24h":8}}
 {"id":"409f35c002aca695","ts":"2026-07-23T17:52:28.710Z","date":"2026-07-23","source":"apewisdom","ticker":"TSM","kind":"attention","value":13,"meta":{"rank":48,"upvotes":22,"prev24h":4}}
+{"id":"230972cf28d0e040","ts":"2026-07-23T19:55:15.405Z","date":"2026-07-23","source":"stocktwits","ticker":"ACI","kind":"attention","value":5909,"meta":{"rank":13,"sector":"RetailTrade"}}
+{"id":"c863255e5a1c4b64","ts":"2026-07-23T19:55:15.419Z","date":"2026-07-23","source":"stocktwits","ticker":"CBRS","kind":"attention","value":11386,"meta":{"rank":15,"sector":"TechnologyServices"}}
+{"id":"009361e6a767be14","ts":"2026-07-23T19:55:15.419Z","date":"2026-07-23","source":"stocktwits","ticker":"ORCL","kind":"attention","value":67224,"meta":{"rank":16,"sector":"TechnologyServices"}}
+{"id":"257510e61e5b9352","ts":"2026-07-23T19:55:15.419Z","date":"2026-07-23","source":"stocktwits","ticker":"DXYZ","kind":"attention","value":9067,"meta":{"rank":26,"sector":null}}
+{"id":"930b463c6cec3edd","ts":"2026-07-23T19:55:15.419Z","date":"2026-07-23","source":"stocktwits","ticker":"LYFT","kind":"attention","value":42503,"meta":{"rank":27,"sector":"Transportation"}}
+{"id":"a29f5f25997c8c7d","ts":"2026-07-23T19:55:15.589Z","date":"2026-07-23","source":"stocktwits","ticker":"SE","kind":"sentiment","value":80,"meta":{"bull":4,"bear":1}}
