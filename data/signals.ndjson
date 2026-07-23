@@ -5163,3 +5163,14 @@
 {"id":"6be2a28ec34382d9","ts":"2026-07-23T21:32:34.218Z","date":"2026-07-23","source":"stocktwits","ticker":"NVDA","kind":"attention","value":654289,"meta":{"rank":27,"sector":"ElectronicTechnology"}}
 {"id":"d080bed922404819","ts":"2026-07-23T21:32:34.218Z","date":"2026-07-23","source":"stocktwits","ticker":"RIGL","kind":"attention","value":12448,"meta":{"rank":29,"sector":"HealthTechnology"}}
 {"id":"ec572edaa3e5d3c5","ts":"2026-07-23T21:32:54.851Z","date":"2026-07-23","source":"apewisdom","ticker":"ASML","kind":"attention","value":12,"meta":{"rank":47,"upvotes":35,"prev24h":2}}
+{"id":"69900c69f9111403","ts":"2026-07-23T23:25:51.915Z","date":"2026-07-23","source":"stocktwits","ticker":"ET","kind":"attention","value":22884,"meta":{"rank":12,"sector":"IndustrialServices"}}
+{"id":"73724d0793e0ee4b","ts":"2026-07-23T23:25:51.915Z","date":"2026-07-23","source":"stocktwits","ticker":"GSAT","kind":"attention","value":50695,"meta":{"rank":13,"sector":"Communications"}}
+{"id":"2bff67725809c21f","ts":"2026-07-23T23:25:51.915Z","date":"2026-07-23","source":"stocktwits","ticker":"ASML","kind":"attention","value":31488,"meta":{"rank":16,"sector":"ElectronicTechnology"}}
+{"id":"e31772a626fc969c","ts":"2026-07-23T23:25:51.915Z","date":"2026-07-23","source":"stocktwits","ticker":"ABT","kind":"attention","value":18125,"meta":{"rank":18,"sector":"HealthTechnology"}}
+{"id":"932900ceedb6e88d","ts":"2026-07-23T23:25:51.915Z","date":"2026-07-23","source":"stocktwits","ticker":"KLAC","kind":"attention","value":5830,"meta":{"rank":28,"sector":"ElectronicTechnology"}}
+{"id":"d8dc65cbca2e7b57","ts":"2026-07-23T23:25:51.915Z","date":"2026-07-23","source":"stocktwits","ticker":"GS","kind":"attention","value":34148,"meta":{"rank":29,"sector":"Finance"}}
+{"id":"5ef4ca44de365381","ts":"2026-07-23T23:25:51.915Z","date":"2026-07-23","source":"stocktwits","ticker":"BRK-B","kind":"attention","value":47137,"meta":{"rank":30,"sector":"Finance"}}
+{"id":"7b77a014c1c84d41","ts":"2026-07-23T23:25:53.963Z","date":"2026-07-23","source":"stocktwits","ticker":"IOT","kind":"sentiment","value":79,"meta":{"bull":11,"bear":3}}
+{"id":"3f2d56c570cc331e","ts":"2026-07-23T23:25:54.457Z","date":"2026-07-23","source":"apewisdom","ticker":"LMT","kind":"attention","value":11,"meta":{"rank":47,"upvotes":28,"prev24h":2}}
+{"id":"3c5afe560ef43a4c","ts":"2026-07-23T23:25:54.457Z","date":"2026-07-23","source":"apewisdom","ticker":"SO","kind":"attention","value":11,"meta":{"rank":48,"upvotes":40,"prev24h":4}}
+{"id":"605f7399255e330c","ts":"2026-07-23T23:25:54.457Z","date":"2026-07-23","source":"apewisdom","ticker":"UI","kind":"attention","value":11,"meta":{"rank":49,"upvotes":335,"prev24h":5}}
