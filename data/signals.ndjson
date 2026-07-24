@@ -5301,3 +5301,17 @@
 {"id":"806570802dd36e8a","ts":"2026-07-24T11:58:36.100Z","date":"2026-07-24","source":"stocktwits","ticker":"CRMD","kind":"attention","value":23414,"meta":{"rank":30,"sector":"HealthTechnology"}}
 {"id":"9cf945563d7f20e7","ts":"2026-07-24T11:58:38.215Z","date":"2026-07-24","source":"apewisdom","ticker":"LINK","kind":"attention","value":11,"meta":{"rank":48,"upvotes":14,"prev24h":11}}
 {"id":"0c66a070de7c865e","ts":"2026-07-24T11:58:38.216Z","date":"2026-07-24","source":"apewisdom","ticker":"FOR","kind":"attention","value":10,"meta":{"rank":49,"upvotes":47,"prev24h":6}}
+{"id":"a9bcd9e30ff95c74","ts":"2026-07-24T14:18:33.934Z","date":"2026-07-24","source":"stocktwits","ticker":"CELH","kind":"attention","value":30038,"meta":{"rank":9,"sector":"ConsumerNonDurables"}}
+{"id":"4dfc28af1c745a9d","ts":"2026-07-24T14:18:33.935Z","date":"2026-07-24","source":"stocktwits","ticker":"MP","kind":"attention","value":33492,"meta":{"rank":14,"sector":"NonEnergyMinerals"}}
+{"id":"295c8d8c0cd1bb35","ts":"2026-07-24T14:18:33.935Z","date":"2026-07-24","source":"stocktwits","ticker":"ACI","kind":"attention","value":5940,"meta":{"rank":16,"sector":"RetailTrade"}}
+{"id":"48a9cc45518ca048","ts":"2026-07-24T14:18:33.935Z","date":"2026-07-24","source":"stocktwits","ticker":"FRMI","kind":"attention","value":4817,"meta":{"rank":17,"sector":"Finance"}}
+{"id":"73b61b678200529b","ts":"2026-07-24T14:18:33.935Z","date":"2026-07-24","source":"stocktwits","ticker":"SMMT","kind":"attention","value":9974,"meta":{"rank":18,"sector":"HealthTechnology"}}
+{"id":"75cf23483b1977f3","ts":"2026-07-24T14:18:33.935Z","date":"2026-07-24","source":"stocktwits","ticker":"QQQ","kind":"attention","value":277052,"meta":{"rank":19,"sector":"Miscellaneous"}}
+{"id":"57360897ffdec944","ts":"2026-07-24T14:18:33.935Z","date":"2026-07-24","source":"stocktwits","ticker":"DXYZ","kind":"attention","value":8986,"meta":{"rank":20,"sector":null}}
+{"id":"05facfb22dc70872","ts":"2026-07-24T14:18:33.935Z","date":"2026-07-24","source":"stocktwits","ticker":"NBIS","kind":"attention","value":47310,"meta":{"rank":22,"sector":"TechnologyServices"}}
+{"id":"70d1b367ccdb40c6","ts":"2026-07-24T14:18:33.935Z","date":"2026-07-24","source":"stocktwits","ticker":"CSIQ","kind":"attention","value":14767,"meta":{"rank":24,"sector":"ElectronicTechnology"}}
+{"id":"3da27eb90c5370be","ts":"2026-07-24T14:18:33.935Z","date":"2026-07-24","source":"stocktwits","ticker":"FAC","kind":"attention","value":1074,"meta":{"rank":25,"sector":"Finance"}}
+{"id":"327178eddc0d3fcb","ts":"2026-07-24T14:18:33.935Z","date":"2026-07-24","source":"stocktwits","ticker":"RIGL","kind":"attention","value":12448,"meta":{"rank":27,"sector":"HealthTechnology"}}
+{"id":"bbc7c3fa5dc9b724","ts":"2026-07-24T14:18:33.935Z","date":"2026-07-24","source":"stocktwits","ticker":"CRML","kind":"attention","value":13799,"meta":{"rank":30,"sector":"Finance"}}
+{"id":"49083742541f921f","ts":"2026-07-24T14:18:36.234Z","date":"2026-07-24","source":"apewisdom","ticker":"JNJ","kind":"attention","value":10,"meta":{"rank":47,"upvotes":17,"prev24h":1}}
+{"id":"948ebffbcb42421d","ts":"2026-07-24T14:18:36.234Z","date":"2026-07-24","source":"apewisdom","ticker":"MXL","kind":"attention","value":10,"meta":{"rank":49,"upvotes":25,"prev24h":1}}
