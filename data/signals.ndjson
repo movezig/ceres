@@ -5656,3 +5656,10 @@
 {"id":"9e1a247fdd6b0996","ts":"2026-07-24T21:33:32.966Z","date":"2026-07-24","source":"stocktwits","ticker":"CRWD","kind":"sentiment","value":67,"meta":{"bull":4,"bear":2}}
 {"id":"59c9543d30d91cbe","ts":"2026-07-24T21:33:34.250Z","date":"2026-07-24","source":"apewisdom","ticker":"UBER","kind":"attention","value":13,"meta":{"rank":44,"upvotes":26,"prev24h":1}}
 {"id":"3e0105d5bef0c357","ts":"2026-07-24T21:33:34.251Z","date":"2026-07-24","source":"apewisdom","ticker":"MA","kind":"attention","value":10,"meta":{"rank":48,"upvotes":28,"prev24h":4}}
+{"id":"788031ec097f3d09","ts":"2026-07-24T23:30:30.038Z","date":"2026-07-24","source":"stocktwits","ticker":"JBLU","kind":"attention","value":26943,"meta":{"rank":12,"sector":"Transportation"}}
+{"id":"8db227e76f217c24","ts":"2026-07-24T23:30:30.038Z","date":"2026-07-24","source":"stocktwits","ticker":"AXON","kind":"attention","value":15037,"meta":{"rank":14,"sector":"ElectronicTechnology"}}
+{"id":"d85d569369a1f647","ts":"2026-07-24T23:30:30.038Z","date":"2026-07-24","source":"stocktwits","ticker":"AMRN","kind":"attention","value":30386,"meta":{"rank":17,"sector":"HealthTechnology"}}
+{"id":"3ea802ee3801e34a","ts":"2026-07-24T23:30:30.038Z","date":"2026-07-24","source":"stocktwits","ticker":"DASH","kind":"attention","value":18503,"meta":{"rank":23,"sector":"Transportation"}}
+{"id":"6b174759c868ef03","ts":"2026-07-24T23:30:30.038Z","date":"2026-07-24","source":"stocktwits","ticker":"DVN","kind":"attention","value":14417,"meta":{"rank":25,"sector":"EnergyMinerals"}}
+{"id":"f76dc835aaa6d2ea","ts":"2026-07-24T23:30:30.038Z","date":"2026-07-24","source":"stocktwits","ticker":"BA","kind":"attention","value":197105,"meta":{"rank":27,"sector":"ElectronicTechnology"}}
+{"id":"54bb1494dcc9d7b9","ts":"2026-07-24T23:30:31.822Z","date":"2026-07-24","source":"apewisdom","ticker":"IBKR","kind":"attention","value":11,"meta":{"rank":48,"upvotes":39,"prev24h":2}}
