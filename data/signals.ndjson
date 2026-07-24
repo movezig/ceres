@@ -5326,3 +5326,13 @@
 {"id":"e13aa39a0313d1e6","ts":"2026-07-24T15:50:44.351Z","date":"2026-07-24","source":"apewisdom","ticker":"HOOD","kind":"attention","value":17,"meta":{"rank":32,"upvotes":21,"prev24h":4}}
 {"id":"0ca9164770f65380","ts":"2026-07-24T15:50:44.351Z","date":"2026-07-24","source":"apewisdom","ticker":"MRVL","kind":"attention","value":11,"meta":{"rank":46,"upvotes":34,"prev24h":11}}
 {"id":"2f3634c9a7d83ae4","ts":"2026-07-24T15:50:44.351Z","date":"2026-07-24","source":"apewisdom","ticker":"EDIT","kind":"attention","value":10,"meta":{"rank":48,"upvotes":5,"prev24h":4}}
+{"id":"1fd4d65f11e6bff1","ts":"2026-07-24T17:56:50.149Z","date":"2026-07-24","source":"stocktwits","ticker":"SPCX","kind":"attention","value":93794,"meta":{"rank":14,"sector":"Communications"}}
+{"id":"2bc79093a70a7f8e","ts":"2026-07-24T17:56:50.149Z","date":"2026-07-24","source":"stocktwits","ticker":"PSNL","kind":"attention","value":2907,"meta":{"rank":16,"sector":"HealthServices"}}
+{"id":"14619d6f5b14dac2","ts":"2026-07-24T17:56:50.149Z","date":"2026-07-24","source":"stocktwits","ticker":"UAL","kind":"attention","value":39882,"meta":{"rank":17,"sector":"Transportation"}}
+{"id":"38edf36a9bf6f425","ts":"2026-07-24T17:56:50.149Z","date":"2026-07-24","source":"stocktwits","ticker":"TE","kind":"attention","value":16735,"meta":{"rank":18,"sector":"ProducerManufacturing"}}
+{"id":"848363c5e1775247","ts":"2026-07-24T17:56:50.149Z","date":"2026-07-24","source":"stocktwits","ticker":"RKLB","kind":"attention","value":64350,"meta":{"rank":21,"sector":"ElectronicTechnology"}}
+{"id":"aeae27e28699e1c7","ts":"2026-07-24T17:56:50.149Z","date":"2026-07-24","source":"stocktwits","ticker":"PL","kind":"attention","value":15658,"meta":{"rank":23,"sector":"TechnologyServices"}}
+{"id":"801af886dad6150a","ts":"2026-07-24T17:56:50.149Z","date":"2026-07-24","source":"stocktwits","ticker":"CURLF","kind":"attention","value":8919,"meta":{"rank":25,"sector":"ProcessIndustries"}}
+{"id":"b815b02c604da928","ts":"2026-07-24T17:56:50.149Z","date":"2026-07-24","source":"stocktwits","ticker":"GT","kind":"attention","value":5875,"meta":{"rank":27,"sector":"ConsumerDurables"}}
+{"id":"c5a26042ccdc88d8","ts":"2026-07-24T17:56:50.149Z","date":"2026-07-24","source":"stocktwits","ticker":"DAL","kind":"attention","value":83800,"meta":{"rank":29,"sector":"Transportation"}}
+{"id":"f0c85d6abee835ec","ts":"2026-07-24T17:56:52.880Z","date":"2026-07-24","source":"apewisdom","ticker":"SMA","kind":"attention","value":10,"meta":{"rank":48,"upvotes":87,"prev24h":7}}
