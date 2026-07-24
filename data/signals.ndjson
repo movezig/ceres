@@ -5315,3 +5315,14 @@
 {"id":"bbc7c3fa5dc9b724","ts":"2026-07-24T14:18:33.935Z","date":"2026-07-24","source":"stocktwits","ticker":"CRML","kind":"attention","value":13799,"meta":{"rank":30,"sector":"Finance"}}
 {"id":"49083742541f921f","ts":"2026-07-24T14:18:36.234Z","date":"2026-07-24","source":"apewisdom","ticker":"JNJ","kind":"attention","value":10,"meta":{"rank":47,"upvotes":17,"prev24h":1}}
 {"id":"948ebffbcb42421d","ts":"2026-07-24T14:18:36.234Z","date":"2026-07-24","source":"apewisdom","ticker":"MXL","kind":"attention","value":10,"meta":{"rank":49,"upvotes":25,"prev24h":1}}
+{"id":"c2a8c2d98d6a2277","ts":"2026-07-24T15:50:37.236Z","date":"2026-07-24","source":"stocktwits","ticker":"AAPL","kind":"attention","value":984236,"meta":{"rank":5,"sector":"ElectronicTechnology"}}
+{"id":"2abd5404dd2c5827","ts":"2026-07-24T15:50:37.236Z","date":"2026-07-24","source":"stocktwits","ticker":"HOOD","kind":"attention","value":99196,"meta":{"rank":7,"sector":"Finance"}}
+{"id":"d5e622990c75ebaf","ts":"2026-07-24T15:50:37.237Z","date":"2026-07-24","source":"stocktwits","ticker":"DIS","kind":"attention","value":290125,"meta":{"rank":10,"sector":"ConsumerServices"}}
+{"id":"503298122a6a0a1c","ts":"2026-07-24T15:50:37.237Z","date":"2026-07-24","source":"stocktwits","ticker":"SPY","kind":"attention","value":634848,"meta":{"rank":13,"sector":"Miscellaneous"}}
+{"id":"d636562ae5286d96","ts":"2026-07-24T15:50:37.237Z","date":"2026-07-24","source":"stocktwits","ticker":"FSLR","kind":"attention","value":35186,"meta":{"rank":16,"sector":"ElectronicTechnology"}}
+{"id":"1ea4fd3421be1ca3","ts":"2026-07-24T15:50:37.237Z","date":"2026-07-24","source":"stocktwits","ticker":"USO","kind":"attention","value":74184,"meta":{"rank":17,"sector":"Miscellaneous"}}
+{"id":"5922360357ff12da","ts":"2026-07-24T15:50:37.237Z","date":"2026-07-24","source":"stocktwits","ticker":"BRUN","kind":"attention","value":2237,"meta":{"rank":24,"sector":"CommercialServices"}}
+{"id":"ed67f69ca4e1aa0b","ts":"2026-07-24T15:50:37.237Z","date":"2026-07-24","source":"stocktwits","ticker":"RKT","kind":"attention","value":58310,"meta":{"rank":26,"sector":"Finance"}}
+{"id":"e13aa39a0313d1e6","ts":"2026-07-24T15:50:44.351Z","date":"2026-07-24","source":"apewisdom","ticker":"HOOD","kind":"attention","value":17,"meta":{"rank":32,"upvotes":21,"prev24h":4}}
+{"id":"0ca9164770f65380","ts":"2026-07-24T15:50:44.351Z","date":"2026-07-24","source":"apewisdom","ticker":"MRVL","kind":"attention","value":11,"meta":{"rank":46,"upvotes":34,"prev24h":11}}
+{"id":"2f3634c9a7d83ae4","ts":"2026-07-24T15:50:44.351Z","date":"2026-07-24","source":"apewisdom","ticker":"EDIT","kind":"attention","value":10,"meta":{"rank":48,"upvotes":5,"prev24h":4}}
