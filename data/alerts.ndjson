@@ -546,3 +546,4 @@
 {"id":"21717a1427818412","ts":"2026-07-24T03:51:14.566Z","rule":"attention_spike","severity":"medium","source":"stocktwits","ticker":"AXP","trader":"Stocktwits","message":"AXP entered Stocktwits trending at #4 (20,619 watchers)","tradeIds":[]}
 {"id":"7fdef807f4d6915a","ts":"2026-07-24T03:51:16.955Z","rule":"attention_spike","severity":"medium","source":"apewisdom","ticker":"INTC","trader":"Reddit (Apewisdom)","message":"INTC Reddit mentions 23 → 328 in 24h (rank #5)","tradeIds":[]}
 {"id":"30fd8e8b15760ad8","ts":"2026-07-24T06:43:33.783Z","rule":"attention_spike","severity":"medium","source":"stocktwits","ticker":"VZ","trader":"Stocktwits","message":"VZ entered Stocktwits trending at #9 (56,215 watchers)","tradeIds":[]}
+{"id":"18c1768552348288","ts":"2026-07-24T09:40:26.190Z","rule":"attention_spike","severity":"medium","source":"stocktwits","ticker":"PDYN","trader":"Stocktwits","message":"PDYN entered Stocktwits trending at #13 (8,419 watchers)","tradeIds":[]}
