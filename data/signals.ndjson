@@ -6037,3 +6037,12 @@
 {"id":"e9f9b7c2c7d74c7f","ts":"2026-07-27T17:59:52.447Z","date":"2026-07-27","source":"stocktwits","ticker":"FRMI","kind":"attention","value":4934,"meta":{"rank":30,"sector":"Finance"}}
 {"id":"e4dac5090a0bcbaf","ts":"2026-07-27T17:59:54.628Z","date":"2026-07-27","source":"apewisdom","ticker":"ALL","kind":"attention","value":11,"meta":{"rank":39,"upvotes":41,"prev24h":1}}
 {"id":"5795762683ac31cf","ts":"2026-07-27T17:59:54.628Z","date":"2026-07-27","source":"apewisdom","ticker":"APLD","kind":"attention","value":11,"meta":{"rank":44,"upvotes":24,"prev24h":1}}
+{"id":"97df94ad9ee2a343","ts":"2026-07-27T20:01:10.246Z","date":"2026-07-27","source":"stocktwits","ticker":"DJT","kind":"attention","value":115670,"meta":{"rank":3,"sector":"Finance"}}
+{"id":"f4626667cedef6bb","ts":"2026-07-27T20:01:10.246Z","date":"2026-07-27","source":"stocktwits","ticker":"ADBE","kind":"attention","value":50306,"meta":{"rank":4,"sector":"TechnologyServices"}}
+{"id":"015ed281669bcb9e","ts":"2026-07-27T20:01:10.247Z","date":"2026-07-27","source":"stocktwits","ticker":"PSKY","kind":"attention","value":26617,"meta":{"rank":8,"sector":"ConsumerServices"}}
+{"id":"0bf6d8a8f60ce8a6","ts":"2026-07-27T20:01:10.247Z","date":"2026-07-27","source":"stocktwits","ticker":"ELF","kind":"attention","value":13385,"meta":{"rank":10,"sector":"ConsumerNonDurables"}}
+{"id":"1589afb2daeb3186","ts":"2026-07-27T20:01:10.247Z","date":"2026-07-27","source":"stocktwits","ticker":"CRM","kind":"attention","value":70454,"meta":{"rank":13,"sector":"TechnologyServices"}}
+{"id":"4b764dbdc631e5c6","ts":"2026-07-27T20:01:10.247Z","date":"2026-07-27","source":"stocktwits","ticker":"DUOL","kind":"attention","value":9430,"meta":{"rank":18,"sector":"TechnologyServices"}}
+{"id":"b00b1466ceb2d869","ts":"2026-07-27T20:01:10.247Z","date":"2026-07-27","source":"stocktwits","ticker":"VLO","kind":"attention","value":9435,"meta":{"rank":29,"sector":"EnergyMinerals"}}
+{"id":"8e38fd2ac94d02b9","ts":"2026-07-27T20:01:10.247Z","date":"2026-07-27","source":"stocktwits","ticker":"TSLA","kind":"attention","value":1058389,"meta":{"rank":30,"sector":"ConsumerDurables"}}
+{"id":"d41d5bbdf4d88e90","ts":"2026-07-27T20:01:12.587Z","date":"2026-07-27","source":"apewisdom","ticker":"ADBE","kind":"attention","value":10,"meta":{"rank":48,"upvotes":14,"prev24h":1}}
