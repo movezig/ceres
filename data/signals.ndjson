@@ -6363,3 +6363,10 @@
 {"id":"85b1d30b94b98f40","ts":"2026-07-27T21:34:11.477Z","date":"2026-07-27","source":"stocktwits","ticker":"CUEN","kind":"sentiment","value":100,"meta":{"bull":7,"bear":0}}
 {"id":"572a42916a2ba5ff","ts":"2026-07-27T21:34:11.944Z","date":"2026-07-27","source":"apewisdom","ticker":"CLS","kind":"attention","value":20,"meta":{"rank":25,"upvotes":42,"prev24h":1}}
 {"id":"ea13de64ca3bea41","ts":"2026-07-27T21:34:11.945Z","date":"2026-07-27","source":"apewisdom","ticker":"NVTS","kind":"attention","value":14,"meta":{"rank":40,"upvotes":35,"prev24h":0}}
+{"id":"28ef44faee4f2dc5","ts":"2026-07-27T23:31:17.709Z","date":"2026-07-27","source":"stocktwits","ticker":"CMCSA","kind":"attention","value":13201,"meta":{"rank":9,"sector":"ConsumerServices"}}
+{"id":"e33b6c660646c849","ts":"2026-07-27T23:31:17.709Z","date":"2026-07-27","source":"stocktwits","ticker":"COIN","kind":"attention","value":137709,"meta":{"rank":13,"sector":"Finance"}}
+{"id":"819bc2bd5618941d","ts":"2026-07-27T23:31:17.709Z","date":"2026-07-27","source":"stocktwits","ticker":"CBRL","kind":"attention","value":4065,"meta":{"rank":19,"sector":"ConsumerServices"}}
+{"id":"0d4241b00ba80577","ts":"2026-07-27T23:31:17.709Z","date":"2026-07-27","source":"stocktwits","ticker":"CAR","kind":"attention","value":11423,"meta":{"rank":20,"sector":"Finance"}}
+{"id":"c3e450219638b93a","ts":"2026-07-27T23:31:17.710Z","date":"2026-07-27","source":"stocktwits","ticker":"DXYZ","kind":"attention","value":8974,"meta":{"rank":24,"sector":null}}
+{"id":"c8d4d0beb9147680","ts":"2026-07-27T23:31:17.710Z","date":"2026-07-27","source":"stocktwits","ticker":"HONA","kind":"attention","value":757,"meta":{"rank":25,"sector":"ElectronicTechnology"}}
+{"id":"1a3e2f2925048201","ts":"2026-07-27T23:31:17.710Z","date":"2026-07-27","source":"stocktwits","ticker":"BOT","kind":"attention","value":981,"meta":{"rank":29,"sector":"Unknown"}}
