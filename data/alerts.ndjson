@@ -642,3 +642,4 @@
 {"id":"df639a7c1b55cc93","ts":"2026-07-28T03:44:04.571Z","rule":"attention_spike","severity":"medium","source":"apewisdom","ticker":"AAPL","trader":"Reddit (Apewisdom)","message":"AAPL Reddit mentions 14 → 133 in 24h (rank #8)","tradeIds":[]}
 {"id":"4c7435fe78241fe7","ts":"2026-07-28T03:44:04.571Z","rule":"attention_spike","severity":"medium","source":"apewisdom","ticker":"TSLA","trader":"Reddit (Apewisdom)","message":"TSLA Reddit mentions 32 → 101 in 24h (rank #9)","tradeIds":[]}
 {"id":"0bbc5c9a54e4dd18","ts":"2026-07-28T03:44:04.572Z","rule":"attention_spike","severity":"medium","source":"apewisdom","ticker":"ASML","trader":"Reddit (Apewisdom)","message":"ASML Reddit mentions 1 → 86 in 24h (rank #10)","tradeIds":[]}
+{"id":"f111d5dde8ff12b2","ts":"2026-07-28T12:18:10.834Z","rule":"attention_spike","severity":"medium","source":"stocktwits","ticker":"GLW","trader":"Stocktwits","message":"GLW entered Stocktwits trending at #2 (14,982 watchers)","tradeIds":[]}
