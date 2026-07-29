@@ -6966,3 +6966,12 @@
 {"id":"2ad042ee8867b270","ts":"2026-07-29T17:44:10.480Z","date":"2026-07-29","source":"stocktwits","ticker":"SOUN","kind":"attention","value":57525,"meta":{"rank":26,"sector":"TechnologyServices"}}
 {"id":"997a5f7cf3457972","ts":"2026-07-29T17:44:10.480Z","date":"2026-07-29","source":"stocktwits","ticker":"WDAY","kind":"attention","value":14899,"meta":{"rank":30,"sector":"TechnologyServices"}}
 {"id":"8f9211296d87a05a","ts":"2026-07-29T17:44:13.701Z","date":"2026-07-29","source":"apewisdom","ticker":"CRM","kind":"attention","value":16,"meta":{"rank":48,"upvotes":66,"prev24h":8}}
+{"id":"42f6ed4e94eb3c34","ts":"2026-07-29T19:50:14.751Z","date":"2026-07-29","source":"stocktwits","ticker":"SLV","kind":"attention","value":61330,"meta":{"rank":14,"sector":"Miscellaneous"}}
+{"id":"e907f6ea3c0b4f48","ts":"2026-07-29T19:50:14.751Z","date":"2026-07-29","source":"stocktwits","ticker":"SMCI","kind":"attention","value":90881,"meta":{"rank":15,"sector":"ElectronicTechnology"}}
+{"id":"56d6f3f17b88aa47","ts":"2026-07-29T19:50:14.751Z","date":"2026-07-29","source":"stocktwits","ticker":"VZ","kind":"attention","value":56299,"meta":{"rank":16,"sector":"Communications"}}
+{"id":"a47d979d648fd2de","ts":"2026-07-29T19:50:14.752Z","date":"2026-07-29","source":"stocktwits","ticker":"RDW","kind":"attention","value":23118,"meta":{"rank":20,"sector":"ElectronicTechnology"}}
+{"id":"d00c06c152afdb77","ts":"2026-07-29T19:50:14.752Z","date":"2026-07-29","source":"stocktwits","ticker":"AMPX","kind":"attention","value":8774,"meta":{"rank":23,"sector":"ProducerManufacturing"}}
+{"id":"340c33fb5ce10dc6","ts":"2026-07-29T19:50:14.752Z","date":"2026-07-29","source":"stocktwits","ticker":"SNOW","kind":"attention","value":57822,"meta":{"rank":25,"sector":"TechnologyServices"}}
+{"id":"ba6c861f689bc288","ts":"2026-07-29T19:50:14.752Z","date":"2026-07-29","source":"stocktwits","ticker":"NOW","kind":"attention","value":43836,"meta":{"rank":28,"sector":"TechnologyServices"}}
+{"id":"17287576bcfc51d5","ts":"2026-07-29T19:50:14.752Z","date":"2026-07-29","source":"stocktwits","ticker":"AAOI","kind":"attention","value":23469,"meta":{"rank":30,"sector":"ElectronicTechnology"}}
+{"id":"d358133ab7df4fe3","ts":"2026-07-29T19:50:20.084Z","date":"2026-07-29","source":"stocktwits","ticker":"CRDO","kind":"sentiment","value":90,"meta":{"bull":9,"bear":1}}
