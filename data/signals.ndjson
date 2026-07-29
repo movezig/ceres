@@ -6958,3 +6958,11 @@
 {"id":"36501142cde0b7e7","ts":"2026-07-29T15:24:56.526Z","date":"2026-07-29","source":"stocktwits","ticker":"DASH","kind":"attention","value":18504,"meta":{"rank":24,"sector":"Transportation"}}
 {"id":"b6a1acdcd205864c","ts":"2026-07-29T15:24:56.527Z","date":"2026-07-29","source":"stocktwits","ticker":"ROOT","kind":"attention","value":19639,"meta":{"rank":26,"sector":"Finance"}}
 {"id":"173643f97a3db185","ts":"2026-07-29T15:24:58.742Z","date":"2026-07-29","source":"apewisdom","ticker":"VRRM","kind":"attention","value":15,"meta":{"rank":48,"upvotes":50,"prev24h":0}}
+{"id":"ca6488a818879fac","ts":"2026-07-29T17:44:10.466Z","date":"2026-07-29","source":"stocktwits","ticker":"HIMS","kind":"attention","value":57356,"meta":{"rank":5,"sector":"HealthServices"}}
+{"id":"bbb69cbc75c41019","ts":"2026-07-29T17:44:10.466Z","date":"2026-07-29","source":"stocktwits","ticker":"VRRM","kind":"attention","value":1015,"meta":{"rank":13,"sector":"Transportation"}}
+{"id":"16427362e2e7b95d","ts":"2026-07-29T17:44:10.480Z","date":"2026-07-29","source":"stocktwits","ticker":"KTOS","kind":"attention","value":21072,"meta":{"rank":15,"sector":"ElectronicTechnology"}}
+{"id":"c002c7c1b5088420","ts":"2026-07-29T17:44:10.480Z","date":"2026-07-29","source":"stocktwits","ticker":"CAKE","kind":"attention","value":6057,"meta":{"rank":17,"sector":"ConsumerServices"}}
+{"id":"d30e8c6c81a0e972","ts":"2026-07-29T17:44:10.480Z","date":"2026-07-29","source":"stocktwits","ticker":"UBER","kind":"attention","value":129620,"meta":{"rank":20,"sector":"Transportation"}}
+{"id":"2ad042ee8867b270","ts":"2026-07-29T17:44:10.480Z","date":"2026-07-29","source":"stocktwits","ticker":"SOUN","kind":"attention","value":57525,"meta":{"rank":26,"sector":"TechnologyServices"}}
+{"id":"997a5f7cf3457972","ts":"2026-07-29T17:44:10.480Z","date":"2026-07-29","source":"stocktwits","ticker":"WDAY","kind":"attention","value":14899,"meta":{"rank":30,"sector":"TechnologyServices"}}
+{"id":"8f9211296d87a05a","ts":"2026-07-29T17:44:13.701Z","date":"2026-07-29","source":"apewisdom","ticker":"CRM","kind":"attention","value":16,"meta":{"rank":48,"upvotes":66,"prev24h":8}}
