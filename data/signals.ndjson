@@ -7443,3 +7443,11 @@
 {"id":"8ba0346160859dd8","ts":"2026-07-30T17:55:14.905Z","date":"2026-07-30","source":"stocktwits","ticker":"UMC","kind":"attention","value":6718,"meta":{"rank":24,"sector":"ElectronicTechnology"}}
 {"id":"c05f5712713a35dd","ts":"2026-07-30T17:55:14.905Z","date":"2026-07-30","source":"stocktwits","ticker":"FCEL","kind":"attention","value":144077,"meta":{"rank":26,"sector":"ElectronicTechnology"}}
 {"id":"7ede43995a1e0ee8","ts":"2026-07-30T17:55:17.573Z","date":"2026-07-30","source":"apewisdom","ticker":"IBKR","kind":"attention","value":17,"meta":{"rank":48,"upvotes":20,"prev24h":6}}
+{"id":"ae4178b8d8eea6cc","ts":"2026-07-30T19:58:53.972Z","date":"2026-07-30","source":"stocktwits","ticker":"FRMI","kind":"attention","value":4973,"meta":{"rank":3,"sector":"Finance"}}
+{"id":"dbf5767bad597ae3","ts":"2026-07-30T19:58:53.972Z","date":"2026-07-30","source":"stocktwits","ticker":"RBLX","kind":"attention","value":65520,"meta":{"rank":7,"sector":"TechnologyServices"}}
+{"id":"f3ab7729f281f7f8","ts":"2026-07-30T19:58:53.973Z","date":"2026-07-30","source":"stocktwits","ticker":"U","kind":"attention","value":36905,"meta":{"rank":15,"sector":"TechnologyServices"}}
+{"id":"1a4c68d0f965142f","ts":"2026-07-30T19:58:53.973Z","date":"2026-07-30","source":"stocktwits","ticker":"KTOS","kind":"attention","value":21080,"meta":{"rank":20,"sector":"ElectronicTechnology"}}
+{"id":"6301c4e835c64463","ts":"2026-07-30T19:58:53.973Z","date":"2026-07-30","source":"stocktwits","ticker":"BRUN","kind":"attention","value":2227,"meta":{"rank":25,"sector":"CommercialServices"}}
+{"id":"dee85e6d41992295","ts":"2026-07-30T19:58:53.973Z","date":"2026-07-30","source":"stocktwits","ticker":"COIN","kind":"attention","value":137742,"meta":{"rank":26,"sector":"Finance"}}
+{"id":"fa070486c9894dcf","ts":"2026-07-30T19:58:53.973Z","date":"2026-07-30","source":"stocktwits","ticker":"AGQ","kind":"attention","value":4558,"meta":{"rank":30,"sector":"Miscellaneous"}}
+{"id":"6a294738947ae367","ts":"2026-07-30T19:58:56.642Z","date":"2026-07-30","source":"apewisdom","ticker":"SO","kind":"attention","value":15,"meta":{"rank":49,"upvotes":43,"prev24h":7}}
