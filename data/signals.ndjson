@@ -7414,3 +7414,13 @@
 {"id":"359dd27d2870919e","ts":"2026-07-30T10:36:20.866Z","date":"2026-07-30","source":"stocktwits","ticker":"AXTI","kind":"attention","value":6677,"meta":{"rank":26,"sector":"ElectronicTechnology"}}
 {"id":"52c572147991697a","ts":"2026-07-30T10:36:20.866Z","date":"2026-07-30","source":"stocktwits","ticker":"OUST","kind":"attention","value":16368,"meta":{"rank":27,"sector":"ElectronicTechnology"}}
 {"id":"00c3d291ec0664d6","ts":"2026-07-30T10:36:22.926Z","date":"2026-07-30","source":"apewisdom","ticker":"EU","kind":"attention","value":19,"meta":{"rank":50,"upvotes":50,"prev24h":13}}
+{"id":"d43f3d61c7c8fcbc","ts":"2026-07-30T12:58:33.548Z","date":"2026-07-30","source":"stocktwits","ticker":"MDGL","kind":"attention","value":6936,"meta":{"rank":13,"sector":"HealthTechnology"}}
+{"id":"5d844e4949b06def","ts":"2026-07-30T12:58:33.549Z","date":"2026-07-30","source":"stocktwits","ticker":"BB","kind":"attention","value":150530,"meta":{"rank":14,"sector":"TechnologyServices"}}
+{"id":"778fdeb15f5c5bce","ts":"2026-07-30T12:58:33.549Z","date":"2026-07-30","source":"stocktwits","ticker":"PHAT","kind":"attention","value":2349,"meta":{"rank":16,"sector":"HealthTechnology"}}
+{"id":"47a8f6ef5cf64e6b","ts":"2026-07-30T12:58:33.549Z","date":"2026-07-30","source":"stocktwits","ticker":"CRWV","kind":"attention","value":46082,"meta":{"rank":19,"sector":"TechnologyServices"}}
+{"id":"04e5e57840ee6aef","ts":"2026-07-30T12:58:33.549Z","date":"2026-07-30","source":"stocktwits","ticker":"MA","kind":"attention","value":31854,"meta":{"rank":21,"sector":"Finance"}}
+{"id":"e88d0bf0bace7bf9","ts":"2026-07-30T12:58:33.549Z","date":"2026-07-30","source":"stocktwits","ticker":"BFLY","kind":"attention","value":9668,"meta":{"rank":24,"sector":"HealthTechnology"}}
+{"id":"d0032ff2c535b584","ts":"2026-07-30T12:58:33.549Z","date":"2026-07-30","source":"stocktwits","ticker":"CIFR","kind":"attention","value":22221,"meta":{"rank":26,"sector":"TechnologyServices"}}
+{"id":"e29127c4eab5c6dd","ts":"2026-07-30T12:58:33.549Z","date":"2026-07-30","source":"stocktwits","ticker":"OWL","kind":"attention","value":3716,"meta":{"rank":27,"sector":"Finance"}}
+{"id":"bb2714b72d3c60ab","ts":"2026-07-30T12:58:33.549Z","date":"2026-07-30","source":"stocktwits","ticker":"BMY","kind":"attention","value":20673,"meta":{"rank":28,"sector":"HealthTechnology"}}
+{"id":"f8ec98a8a1e4011c","ts":"2026-07-30T12:58:33.549Z","date":"2026-07-30","source":"stocktwits","ticker":"RCAT","kind":"attention","value":28042,"meta":{"rank":30,"sector":"TechnologyServices"}}
