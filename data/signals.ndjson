@@ -7914,3 +7914,17 @@
 {"id":"7364bd0bcaefe2b1","ts":"2026-07-31T17:00:41.922Z","date":"2026-07-31","source":"stocktwits","ticker":"CRWD","kind":"sentiment","value":100,"meta":{"bull":6,"bear":0}}
 {"id":"4e6ae00357a1c365","ts":"2026-07-31T17:00:43.019Z","date":"2026-07-31","source":"apewisdom","ticker":"WDC","kind":"attention","value":15,"meta":{"rank":44,"upvotes":36,"prev24h":8}}
 {"id":"d4697001c6a6196c","ts":"2026-07-31T17:00:43.019Z","date":"2026-07-31","source":"apewisdom","ticker":"NVO","kind":"attention","value":14,"meta":{"rank":45,"upvotes":32,"prev24h":2}}
+{"id":"95fec4c7ef853d65","ts":"2026-07-31T18:49:02.271Z","date":"2026-07-31","source":"stocktwits","ticker":"AMBA","kind":"attention","value":16664,"meta":{"rank":8,"sector":"ElectronicTechnology"}}
+{"id":"fe3013afcafe0935","ts":"2026-07-31T18:49:02.272Z","date":"2026-07-31","source":"stocktwits","ticker":"AUPH","kind":"attention","value":46446,"meta":{"rank":10,"sector":"HealthTechnology"}}
+{"id":"25c814ec0fc37e29","ts":"2026-07-31T18:49:02.272Z","date":"2026-07-31","source":"stocktwits","ticker":"PENN","kind":"attention","value":36465,"meta":{"rank":11,"sector":"ConsumerServices"}}
+{"id":"89c83829ff0f0387","ts":"2026-07-31T18:49:02.272Z","date":"2026-07-31","source":"stocktwits","ticker":"LWLG","kind":"attention","value":5663,"meta":{"rank":12,"sector":"ProcessIndustries"}}
+{"id":"853feb502d3fc8d7","ts":"2026-07-31T18:49:02.272Z","date":"2026-07-31","source":"stocktwits","ticker":"FSLY","kind":"attention","value":35989,"meta":{"rank":16,"sector":"TechnologyServices"}}
+{"id":"4cbcad0bdfdf5bb8","ts":"2026-07-31T18:49:02.272Z","date":"2026-07-31","source":"stocktwits","ticker":"MLTX","kind":"attention","value":6420,"meta":{"rank":17,"sector":"HealthTechnology"}}
+{"id":"47670a2055ffa9c4","ts":"2026-07-31T18:49:02.272Z","date":"2026-07-31","source":"stocktwits","ticker":"ROOT","kind":"attention","value":19628,"meta":{"rank":18,"sector":"Finance"}}
+{"id":"087ac1309911bcb6","ts":"2026-07-31T18:49:02.272Z","date":"2026-07-31","source":"stocktwits","ticker":"SOC","kind":"attention","value":2301,"meta":{"rank":19,"sector":"Finance"}}
+{"id":"7d340036948c04ab","ts":"2026-07-31T18:49:02.273Z","date":"2026-07-31","source":"stocktwits","ticker":"GENI","kind":"attention","value":6937,"meta":{"rank":21,"sector":"TechnologyServices"}}
+{"id":"f40d28a42468d81b","ts":"2026-07-31T18:49:02.273Z","date":"2026-07-31","source":"stocktwits","ticker":"RUM","kind":"attention","value":34164,"meta":{"rank":22,"sector":"TechnologyServices"}}
+{"id":"2a8a521cf12ab491","ts":"2026-07-31T18:49:02.273Z","date":"2026-07-31","source":"stocktwits","ticker":"ALOY","kind":"attention","value":10620,"meta":{"rank":24,"sector":"TechnologyServices"}}
+{"id":"761efb5d3ad3cf67","ts":"2026-07-31T18:49:02.273Z","date":"2026-07-31","source":"stocktwits","ticker":"BFLY","kind":"attention","value":9667,"meta":{"rank":25,"sector":"HealthTechnology"}}
+{"id":"ac89ea61288abb3c","ts":"2026-07-31T18:49:02.273Z","date":"2026-07-31","source":"stocktwits","ticker":"SONY","kind":"attention","value":20411,"meta":{"rank":29,"sector":"ElectronicTechnology"}}
+{"id":"5bd4f34ca55722c7","ts":"2026-07-31T18:49:04.739Z","date":"2026-07-31","source":"apewisdom","ticker":"AVGO","kind":"attention","value":13,"meta":{"rank":48,"upvotes":41,"prev24h":13}}
