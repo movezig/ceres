@@ -9073,3 +9073,14 @@
 {"id":"a2c53bae6503951f","ts":"2026-08-04T17:10:26.291Z","date":"2026-08-04","source":"stocktwits","ticker":"HPE","kind":"attention","value":12511,"meta":{"rank":27,"sector":"ElectronicTechnology"}}
 {"id":"3684961cbb8213d5","ts":"2026-08-04T17:10:26.291Z","date":"2026-08-04","source":"stocktwits","ticker":"ANET","kind":"attention","value":20362,"meta":{"rank":30,"sector":"ElectronicTechnology"}}
 {"id":"d3c5db1624f2a1c4","ts":"2026-08-04T17:10:29.127Z","date":"2026-08-04","source":"apewisdom","ticker":"NVO","kind":"attention","value":26,"meta":{"rank":29,"upvotes":49,"prev24h":3}}
+{"id":"c2119fd16d98204d","ts":"2026-08-04T19:01:01.190Z","date":"2026-08-03","source":"houseclerk","ticker":null,"kind":"ptr_filed","value":1,"meta":{"member":"April Mcclain Delaney","district":"MD06","url":"https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035118.pdf"}}
+{"id":"5002c467f438d727","ts":"2026-08-04T19:01:01.530Z","date":"2026-08-04","source":"stocktwits","ticker":"DIA","kind":"attention","value":76479,"meta":{"rank":11,"sector":"Miscellaneous"}}
+{"id":"86fd9e8f6fc96bea","ts":"2026-08-04T19:01:01.531Z","date":"2026-08-04","source":"stocktwits","ticker":"ELF","kind":"attention","value":13365,"meta":{"rank":14,"sector":"ConsumerNonDurables"}}
+{"id":"4c3ea42da2014067","ts":"2026-08-04T19:01:01.531Z","date":"2026-08-04","source":"stocktwits","ticker":"UBER","kind":"attention","value":129703,"meta":{"rank":17,"sector":"Transportation"}}
+{"id":"c1d08010251f1e06","ts":"2026-08-04T19:01:01.531Z","date":"2026-08-04","source":"stocktwits","ticker":"AIRJ","kind":"attention","value":1179,"meta":{"rank":20,"sector":"Finance"}}
+{"id":"8808191793703b25","ts":"2026-08-04T19:01:01.531Z","date":"2026-08-04","source":"stocktwits","ticker":"WU","kind":"attention","value":2732,"meta":{"rank":21,"sector":"Finance"}}
+{"id":"b8474c4352f2c430","ts":"2026-08-04T19:01:01.531Z","date":"2026-08-04","source":"stocktwits","ticker":"ALMU","kind":"attention","value":2960,"meta":{"rank":25,"sector":"CommercialServices"}}
+{"id":"b6cd136aa028473e","ts":"2026-08-04T19:01:01.531Z","date":"2026-08-04","source":"stocktwits","ticker":"QUBT","kind":"attention","value":33366,"meta":{"rank":28,"sector":"TechnologyServices"}}
+{"id":"d7fc09c9fa51711a","ts":"2026-08-04T19:01:01.531Z","date":"2026-08-04","source":"stocktwits","ticker":"UMC","kind":"attention","value":6724,"meta":{"rank":30,"sector":"ElectronicTechnology"}}
+{"id":"7db3957983a2f08a","ts":"2026-08-04T19:01:05.695Z","date":"2026-08-04","source":"apewisdom","ticker":"UP","kind":"attention","value":19,"meta":{"rank":41,"upvotes":61,"prev24h":4}}
+{"id":"2d68f91848583de4","ts":"2026-08-04T19:01:05.695Z","date":"2026-08-04","source":"apewisdom","ticker":"POET","kind":"attention","value":16,"meta":{"rank":50,"upvotes":36,"prev24h":2}}
