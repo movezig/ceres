@@ -9055,3 +9055,13 @@
 {"id":"994ef30891657547","ts":"2026-08-04T12:23:08.554Z","date":"2026-08-04","source":"apewisdom","ticker":"MRVL","kind":"attention","value":16,"meta":{"rank":47,"upvotes":42,"prev24h":2}}
 {"id":"4e3b7f3834a682d7","ts":"2026-08-04T12:23:08.554Z","date":"2026-08-04","source":"apewisdom","ticker":"AGI","kind":"attention","value":15,"meta":{"rank":49,"upvotes":48,"prev24h":3}}
 {"id":"069b27ebd4f6e5e3","ts":"2026-08-04T12:23:08.554Z","date":"2026-08-04","source":"apewisdom","ticker":"IQ","kind":"attention","value":15,"meta":{"rank":50,"upvotes":36,"prev24h":9}}
+{"id":"2ec79ed1fad54a7c","ts":"2026-08-04T15:00:05.324Z","date":"2026-08-04","source":"stocktwits","ticker":"STRL","kind":"attention","value":2776,"meta":{"rank":5,"sector":"IndustrialServices"}}
+{"id":"a07b9ddca9ae5bfc","ts":"2026-08-04T15:00:05.324Z","date":"2026-08-04","source":"stocktwits","ticker":"MOVE","kind":"attention","value":1718,"meta":{"rank":15,"sector":"TechnologyServices"}}
+{"id":"89a5bfecd5dd66ad","ts":"2026-08-04T15:00:05.338Z","date":"2026-08-04","source":"stocktwits","ticker":"BETR","kind":"attention","value":5637,"meta":{"rank":16,"sector":"Finance"}}
+{"id":"5861494b03a92f25","ts":"2026-08-04T15:00:05.338Z","date":"2026-08-04","source":"stocktwits","ticker":"VST","kind":"attention","value":13521,"meta":{"rank":19,"sector":"Utilities"}}
+{"id":"3b6774c81f6fd9c8","ts":"2026-08-04T15:00:05.338Z","date":"2026-08-04","source":"stocktwits","ticker":"CEG","kind":"attention","value":11377,"meta":{"rank":20,"sector":"Utilities"}}
+{"id":"34d6b27d8cfff7c0","ts":"2026-08-04T15:00:05.338Z","date":"2026-08-04","source":"stocktwits","ticker":"TOST","kind":"attention","value":8221,"meta":{"rank":21,"sector":"TechnologyServices"}}
+{"id":"5a74fbe916e99e18","ts":"2026-08-04T15:00:05.338Z","date":"2026-08-04","source":"stocktwits","ticker":"ON","kind":"attention","value":12954,"meta":{"rank":25,"sector":"ElectronicTechnology"}}
+{"id":"dac7ebc433efb67e","ts":"2026-08-04T15:00:05.338Z","date":"2026-08-04","source":"stocktwits","ticker":"QQQ","kind":"attention","value":277833,"meta":{"rank":28,"sector":"Miscellaneous"}}
+{"id":"ef6848d21661b08e","ts":"2026-08-04T15:00:05.338Z","date":"2026-08-04","source":"stocktwits","ticker":"NDAQ","kind":"attention","value":6364,"meta":{"rank":29,"sector":"Finance"}}
+{"id":"2f2122bde675ed22","ts":"2026-08-04T15:00:08.421Z","date":"2026-08-04","source":"apewisdom","ticker":"LITE","kind":"attention","value":16,"meta":{"rank":47,"upvotes":266,"prev24h":1}}
