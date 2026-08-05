@@ -9542,3 +9542,14 @@
 {"id":"ff6a6159efccd23d","ts":"2026-08-05T15:34:37.761Z","date":"2026-08-05","source":"apewisdom","ticker":"AGI","kind":"attention","value":17,"meta":{"rank":44,"upvotes":71,"prev24h":16}}
 {"id":"0747561f9c377caf","ts":"2026-08-05T15:34:37.761Z","date":"2026-08-05","source":"apewisdom","ticker":"NFLX","kind":"attention","value":16,"meta":{"rank":47,"upvotes":35,"prev24h":5}}
 {"id":"6926471eaf806e7a","ts":"2026-08-05T15:34:37.761Z","date":"2026-08-05","source":"apewisdom","ticker":"APP","kind":"attention","value":16,"meta":{"rank":48,"upvotes":39,"prev24h":1}}
+{"id":"20575d1c7f246586","ts":"2026-08-05T18:00:27.490Z","date":"2026-08-05","source":"stocktwits","ticker":"GOOGL","kind":"attention","value":223736,"meta":{"rank":1,"sector":"TechnologyServices"}}
+{"id":"b95c76418331661f","ts":"2026-08-05T18:00:27.490Z","date":"2026-08-05","source":"stocktwits","ticker":"SNAP","kind":"attention","value":234259,"meta":{"rank":6,"sector":"TechnologyServices"}}
+{"id":"f115a463d97a9800","ts":"2026-08-05T18:00:27.490Z","date":"2026-08-05","source":"stocktwits","ticker":"SHAK","kind":"attention","value":14168,"meta":{"rank":8,"sector":"ConsumerServices"}}
+{"id":"15f31bc3253d1d65","ts":"2026-08-05T18:00:27.491Z","date":"2026-08-05","source":"stocktwits","ticker":"FLUT","kind":"attention","value":1930,"meta":{"rank":13,"sector":"ConsumerServices"}}
+{"id":"4a1f2e6a09acdc27","ts":"2026-08-05T18:00:27.491Z","date":"2026-08-05","source":"stocktwits","ticker":"ELF","kind":"attention","value":13376,"meta":{"rank":19,"sector":"ConsumerNonDurables"}}
+{"id":"683beaad930ba598","ts":"2026-08-05T18:00:27.491Z","date":"2026-08-05","source":"stocktwits","ticker":"DASH","kind":"attention","value":18524,"meta":{"rank":21,"sector":"Transportation"}}
+{"id":"7d5058fa34dd17b3","ts":"2026-08-05T18:00:27.491Z","date":"2026-08-05","source":"stocktwits","ticker":"IONQ","kind":"attention","value":58560,"meta":{"rank":24,"sector":"ElectronicTechnology"}}
+{"id":"debdbac431cc69e5","ts":"2026-08-05T18:00:27.491Z","date":"2026-08-05","source":"stocktwits","ticker":"BKNG","kind":"attention","value":18236,"meta":{"rank":25,"sector":"ConsumerServices"}}
+{"id":"c7c480a60a84fb93","ts":"2026-08-05T18:00:30.106Z","date":"2026-08-05","source":"apewisdom","ticker":"IP","kind":"attention","value":17,"meta":{"rank":42,"upvotes":58,"prev24h":4}}
+{"id":"5e343541beb4c008","ts":"2026-08-05T18:00:30.106Z","date":"2026-08-05","source":"apewisdom","ticker":"CELH","kind":"attention","value":15,"meta":{"rank":48,"upvotes":32,"prev24h":4}}
+{"id":"e5331e0dad7ac420","ts":"2026-08-05T18:00:30.106Z","date":"2026-08-05","source":"apewisdom","ticker":"IBKR","kind":"attention","value":14,"meta":{"rank":50,"upvotes":28,"prev24h":7}}
