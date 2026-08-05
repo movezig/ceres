@@ -9530,3 +9530,15 @@
 {"id":"323051c19d96b176","ts":"2026-08-05T13:08:19.759Z","date":"2026-08-05","source":"stocktwits","ticker":"REPL","kind":"attention","value":5069,"meta":{"rank":28,"sector":"HealthTechnology"}}
 {"id":"f523bdb88fb380db","ts":"2026-08-05T13:08:27.254Z","date":"2026-08-05","source":"apewisdom","ticker":"SHOP","kind":"attention","value":25,"meta":{"rank":33,"upvotes":55,"prev24h":1}}
 {"id":"b5a38730284bdba1","ts":"2026-08-05T13:08:27.255Z","date":"2026-08-05","source":"apewisdom","ticker":"ONDS","kind":"attention","value":18,"meta":{"rank":48,"upvotes":30,"prev24h":7}}
+{"id":"c647d5a71dbeb037","ts":"2026-08-05T15:34:35.373Z","date":"2026-08-05","source":"stocktwits","ticker":"QQQ","kind":"attention","value":277961,"meta":{"rank":14,"sector":"Miscellaneous"}}
+{"id":"7e35e5adb16dfebe","ts":"2026-08-05T15:34:35.373Z","date":"2026-08-05","source":"stocktwits","ticker":"FSLY","kind":"attention","value":35993,"meta":{"rank":18,"sector":"TechnologyServices"}}
+{"id":"1cd511fa6cd5b5a5","ts":"2026-08-05T15:34:35.373Z","date":"2026-08-05","source":"stocktwits","ticker":"TTWO","kind":"attention","value":23116,"meta":{"rank":21,"sector":"TechnologyServices"}}
+{"id":"639b666dd6aef121","ts":"2026-08-05T15:34:35.373Z","date":"2026-08-05","source":"stocktwits","ticker":"MELI","kind":"attention","value":22269,"meta":{"rank":24,"sector":"RetailTrade"}}
+{"id":"6b23ef47cd90add8","ts":"2026-08-05T15:34:35.373Z","date":"2026-08-05","source":"stocktwits","ticker":"UVIX","kind":"attention","value":7229,"meta":{"rank":25,"sector":"Miscellaneous"}}
+{"id":"d2995375d54888cc","ts":"2026-08-05T15:34:35.374Z","date":"2026-08-05","source":"stocktwits","ticker":"RIGL","kind":"attention","value":12463,"meta":{"rank":26,"sector":"HealthTechnology"}}
+{"id":"6f4e9941ee919d22","ts":"2026-08-05T15:34:35.374Z","date":"2026-08-05","source":"stocktwits","ticker":"XPEV","kind":"attention","value":56861,"meta":{"rank":28,"sector":"ConsumerDurables"}}
+{"id":"9683a6fece11d419","ts":"2026-08-05T15:34:35.374Z","date":"2026-08-05","source":"stocktwits","ticker":"DVN","kind":"attention","value":14441,"meta":{"rank":29,"sector":"EnergyMinerals"}}
+{"id":"d84fcdd6a4814dcc","ts":"2026-08-05T15:34:35.374Z","date":"2026-08-05","source":"stocktwits","ticker":"DKNG","kind":"attention","value":120252,"meta":{"rank":30,"sector":"ConsumerServices"}}
+{"id":"ff6a6159efccd23d","ts":"2026-08-05T15:34:37.761Z","date":"2026-08-05","source":"apewisdom","ticker":"AGI","kind":"attention","value":17,"meta":{"rank":44,"upvotes":71,"prev24h":16}}
+{"id":"0747561f9c377caf","ts":"2026-08-05T15:34:37.761Z","date":"2026-08-05","source":"apewisdom","ticker":"NFLX","kind":"attention","value":16,"meta":{"rank":47,"upvotes":35,"prev24h":5}}
+{"id":"6926471eaf806e7a","ts":"2026-08-05T15:34:37.761Z","date":"2026-08-05","source":"apewisdom","ticker":"APP","kind":"attention","value":16,"meta":{"rank":48,"upvotes":39,"prev24h":1}}
