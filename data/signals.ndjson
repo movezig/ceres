@@ -9872,3 +9872,7 @@
 {"id":"13149ea77de8f266","ts":"2026-08-05T21:40:37.309Z","date":"2026-08-05","source":"apewisdom","ticker":"SOUN","kind":"attention","value":15,"meta":{"rank":44,"upvotes":18,"prev24h":2}}
 {"id":"5812a526e5e4bfa1","ts":"2026-08-05T21:40:37.309Z","date":"2026-08-05","source":"apewisdom","ticker":"GLD","kind":"attention","value":13,"meta":{"rank":48,"upvotes":30,"prev24h":1}}
 {"id":"87b8e7f09b6e4277","ts":"2026-08-05T21:40:37.309Z","date":"2026-08-05","source":"apewisdom","ticker":"PUMP","kind":"attention","value":13,"meta":{"rank":49,"upvotes":46,"prev24h":15}}
+{"id":"dead71c7581a2487","ts":"2026-08-05T23:26:55.764Z","date":"2026-08-05","source":"stocktwits","ticker":"NET","kind":"sentiment","value":86,"meta":{"bull":6,"bear":1}}
+{"id":"8a66e340f85015aa","ts":"2026-08-05T23:26:56.679Z","date":"2026-08-05","source":"apewisdom","ticker":"RDW","kind":"attention","value":14,"meta":{"rank":46,"upvotes":31,"prev24h":1}}
+{"id":"4261876efd9c632e","ts":"2026-08-05T23:26:56.679Z","date":"2026-08-05","source":"apewisdom","ticker":"IONQ","kind":"attention","value":14,"meta":{"rank":47,"upvotes":33,"prev24h":6}}
+{"id":"4b07f36aeda28e22","ts":"2026-08-05T23:26:56.679Z","date":"2026-08-05","source":"apewisdom","ticker":"HTZ","kind":"attention","value":13,"meta":{"rank":50,"upvotes":14,"prev24h":7}}
