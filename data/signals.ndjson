@@ -9519,3 +9519,14 @@
 {"id":"1e4243218f3e0dd6","ts":"2026-08-05T10:56:11.131Z","date":"2026-08-05","source":"stocktwits","ticker":"VERA","kind":"attention","value":1851,"meta":{"rank":30,"sector":"HealthTechnology"}}
 {"id":"a484871b58fde50d","ts":"2026-08-05T10:56:13.301Z","date":"2026-08-05","source":"apewisdom","ticker":"AHCO","kind":"attention","value":19,"meta":{"rank":45,"upvotes":21,"prev24h":0}}
 {"id":"45babf3b3a96fc6c","ts":"2026-08-05T10:56:13.301Z","date":"2026-08-05","source":"apewisdom","ticker":"KTOS","kind":"attention","value":18,"meta":{"rank":47,"upvotes":35,"prev24h":0}}
+{"id":"50d589539d4cada7","ts":"2026-08-05T13:08:19.758Z","date":"2026-08-05","source":"stocktwits","ticker":"ONDS","kind":"attention","value":34284,"meta":{"rank":3,"sector":"ElectronicTechnology"}}
+{"id":"cb8dc86d690f4b34","ts":"2026-08-05T13:08:19.758Z","date":"2026-08-05","source":"stocktwits","ticker":"OSS","kind":"attention","value":7346,"meta":{"rank":8,"sector":"ElectronicTechnology"}}
+{"id":"1d11e55af2c386e4","ts":"2026-08-05T13:08:19.759Z","date":"2026-08-05","source":"stocktwits","ticker":"CVS","kind":"attention","value":29729,"meta":{"rank":14,"sector":"RetailTrade"}}
+{"id":"1875013fb2e62d2b","ts":"2026-08-05T13:08:19.759Z","date":"2026-08-05","source":"stocktwits","ticker":"DIS","kind":"attention","value":290217,"meta":{"rank":17,"sector":"ConsumerServices"}}
+{"id":"5055f5f9d3d31992","ts":"2026-08-05T13:08:19.759Z","date":"2026-08-05","source":"stocktwits","ticker":"FUBO","kind":"attention","value":67973,"meta":{"rank":19,"sector":"TechnologyServices"}}
+{"id":"cf4c4e3413f26708","ts":"2026-08-05T13:08:19.759Z","date":"2026-08-05","source":"stocktwits","ticker":"GENI","kind":"attention","value":6944,"meta":{"rank":20,"sector":"TechnologyServices"}}
+{"id":"5816ca20404cc2c6","ts":"2026-08-05T13:08:19.759Z","date":"2026-08-05","source":"stocktwits","ticker":"SEDG","kind":"attention","value":18415,"meta":{"rank":22,"sector":"ProducerManufacturing"}}
+{"id":"87fc6b5f8f201d89","ts":"2026-08-05T13:08:19.759Z","date":"2026-08-05","source":"stocktwits","ticker":"CELH","kind":"attention","value":30196,"meta":{"rank":25,"sector":"ConsumerNonDurables"}}
+{"id":"323051c19d96b176","ts":"2026-08-05T13:08:19.759Z","date":"2026-08-05","source":"stocktwits","ticker":"REPL","kind":"attention","value":5069,"meta":{"rank":28,"sector":"HealthTechnology"}}
+{"id":"f523bdb88fb380db","ts":"2026-08-05T13:08:27.254Z","date":"2026-08-05","source":"apewisdom","ticker":"SHOP","kind":"attention","value":25,"meta":{"rank":33,"upvotes":55,"prev24h":1}}
+{"id":"b5a38730284bdba1","ts":"2026-08-05T13:08:27.255Z","date":"2026-08-05","source":"apewisdom","ticker":"ONDS","kind":"attention","value":18,"meta":{"rank":48,"upvotes":30,"prev24h":7}}
