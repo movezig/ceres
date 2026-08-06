@@ -952,3 +952,4 @@
 {"id":"65bb3ee20c3451d3","ts":"2026-08-06T03:47:05.699Z","rule":"attention_spike","severity":"medium","source":"apewisdom","ticker":"WDC","trader":"Reddit (Apewisdom)","message":"WDC Reddit mentions 23 → 171 in 24h (rank #7)","tradeIds":[]}
 {"id":"ecd88a3e5db96313","ts":"2026-08-06T03:47:05.699Z","rule":"attention_spike","severity":"medium","source":"apewisdom","ticker":"GOOGL","trader":"Reddit (Apewisdom)","message":"GOOGL Reddit mentions 42 → 122 in 24h (rank #9)","tradeIds":[]}
 {"id":"fad1b285b7b5cf99","ts":"2026-08-06T03:47:05.699Z","rule":"attention_spike","severity":"medium","source":"apewisdom","ticker":"APP","trader":"Reddit (Apewisdom)","message":"APP Reddit mentions 9 → 108 in 24h (rank #11)","tradeIds":[]}
+{"id":"31c6996f50932066","ts":"2026-08-06T14:54:27.680Z","rule":"attention_spike","severity":"medium","source":"stocktwits","ticker":"CLOV","trader":"Stocktwits","message":"CLOV entered Stocktwits trending at #6 (85,167 watchers)","tradeIds":[]}

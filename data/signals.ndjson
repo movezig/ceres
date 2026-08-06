@@ -9976,3 +9976,15 @@
 {"id":"ea7d428142ba60e4","ts":"2026-08-06T12:24:01.253Z","date":"2026-08-06","source":"apewisdom","ticker":"IBKR","kind":"attention","value":14,"meta":{"rank":48,"upvotes":39,"prev24h":4}}
 {"id":"fe2be597ba77bfc4","ts":"2026-08-06T12:24:01.253Z","date":"2026-08-06","source":"apewisdom","ticker":"ONDS","kind":"attention","value":14,"meta":{"rank":49,"upvotes":24,"prev24h":15}}
 {"id":"4162795a30417f61","ts":"2026-08-06T12:24:01.253Z","date":"2026-08-06","source":"apewisdom","ticker":"AAOI","kind":"attention","value":14,"meta":{"rank":50,"upvotes":18,"prev24h":32}}
+{"id":"e7be49ce1d6b4bf6","ts":"2026-08-06T14:54:27.667Z","date":"2026-08-06","source":"stocktwits","ticker":"IOVA","kind":"attention","value":19363,"meta":{"rank":3,"sector":"HealthTechnology"}}
+{"id":"32db464daad19024","ts":"2026-08-06T14:54:27.667Z","date":"2026-08-06","source":"stocktwits","ticker":"CLOV","kind":"attention","value":85167,"meta":{"rank":6,"sector":"Finance"}}
+{"id":"aee58deb62616c60","ts":"2026-08-06T14:54:27.680Z","date":"2026-08-06","source":"stocktwits","ticker":"OKLO","kind":"attention","value":38880,"meta":{"rank":9,"sector":"Finance"}}
+{"id":"f8fcbb580393ae9d","ts":"2026-08-06T14:54:27.680Z","date":"2026-08-06","source":"stocktwits","ticker":"PENN","kind":"attention","value":36463,"meta":{"rank":17,"sector":"ConsumerServices"}}
+{"id":"a448f48e769c01ea","ts":"2026-08-06T14:54:27.680Z","date":"2026-08-06","source":"stocktwits","ticker":"XYZ","kind":"attention","value":178935,"meta":{"rank":18,"sector":"CommercialServices"}}
+{"id":"cd2c0342679164c9","ts":"2026-08-06T14:54:27.681Z","date":"2026-08-06","source":"stocktwits","ticker":"TTWO","kind":"attention","value":23127,"meta":{"rank":24,"sector":"TechnologyServices"}}
+{"id":"6acf1b4f55806bc9","ts":"2026-08-06T14:54:27.681Z","date":"2026-08-06","source":"stocktwits","ticker":"LEU","kind":"attention","value":8547,"meta":{"rank":26,"sector":"NonEnergyMinerals"}}
+{"id":"923b0a82b86db10e","ts":"2026-08-06T14:54:27.681Z","date":"2026-08-06","source":"stocktwits","ticker":"PZZA","kind":"attention","value":5185,"meta":{"rank":28,"sector":"ConsumerServices"}}
+{"id":"01efc094488adc47","ts":"2026-08-06T14:54:30.108Z","date":"2026-08-06","source":"apewisdom","ticker":"HOOD","kind":"attention","value":14,"meta":{"rank":46,"upvotes":32,"prev24h":10}}
+{"id":"f5ab1cf3360b4f8e","ts":"2026-08-06T14:54:30.108Z","date":"2026-08-06","source":"apewisdom","ticker":"TE","kind":"attention","value":14,"meta":{"rank":47,"upvotes":17,"prev24h":2}}
+{"id":"23e7c1b7b5049b21","ts":"2026-08-06T14:54:30.108Z","date":"2026-08-06","source":"apewisdom","ticker":"API","kind":"attention","value":13,"meta":{"rank":49,"upvotes":107,"prev24h":16}}
+{"id":"5869054338f221fd","ts":"2026-08-06T14:54:30.108Z","date":"2026-08-06","source":"apewisdom","ticker":"QBTS","kind":"attention","value":13,"meta":{"rank":50,"upvotes":44,"prev24h":1}}
