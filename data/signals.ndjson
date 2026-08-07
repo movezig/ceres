@@ -10418,3 +10418,11 @@
 {"id":"7b02bafee2173225","ts":"2026-08-07T15:15:00.804Z","date":"2026-08-07","source":"stocktwits","ticker":"CCXI","kind":"attention","value":12340,"meta":{"rank":28,"sector":"Finance"}}
 {"id":"b137450563921f87","ts":"2026-08-07T15:15:00.804Z","date":"2026-08-07","source":"stocktwits","ticker":"PLTR","kind":"attention","value":324164,"meta":{"rank":30,"sector":"TechnologyServices"}}
 {"id":"d4a9fe6d8f60e32a","ts":"2026-08-07T15:15:03.520Z","date":"2026-08-07","source":"apewisdom","ticker":"SLV","kind":"attention","value":14,"meta":{"rank":48,"upvotes":26,"prev24h":9}}
+{"id":"5955ab018475de60","ts":"2026-08-07T16:13:25.835Z","date":"2026-08-07","source":"stocktwits","ticker":"UAMY","kind":"attention","value":19987,"meta":{"rank":14,"sector":"NonEnergyMinerals"}}
+{"id":"9ef2533ad4c6fd28","ts":"2026-08-07T16:13:25.835Z","date":"2026-08-07","source":"stocktwits","ticker":"WOLF","kind":"attention","value":20113,"meta":{"rank":16,"sector":"ElectronicTechnology"}}
+{"id":"018ad567b039197e","ts":"2026-08-07T16:13:25.835Z","date":"2026-08-07","source":"stocktwits","ticker":"IONQ","kind":"attention","value":58832,"meta":{"rank":18,"sector":"ElectronicTechnology"}}
+{"id":"8dac1877a94bcdb9","ts":"2026-08-07T16:13:25.835Z","date":"2026-08-07","source":"stocktwits","ticker":"AIRJ","kind":"attention","value":1288,"meta":{"rank":19,"sector":"Finance"}}
+{"id":"279b5a0924f39bf0","ts":"2026-08-07T16:13:25.835Z","date":"2026-08-07","source":"stocktwits","ticker":"CMG","kind":"attention","value":62163,"meta":{"rank":22,"sector":"ConsumerServices"}}
+{"id":"dd3ad53618857920","ts":"2026-08-07T16:13:25.835Z","date":"2026-08-07","source":"stocktwits","ticker":"LKNCY","kind":"attention","value":40158,"meta":{"rank":23,"sector":"ConsumerNonDurables"}}
+{"id":"80a670c602620103","ts":"2026-08-07T16:13:25.836Z","date":"2026-08-07","source":"stocktwits","ticker":"AXTI","kind":"attention","value":7338,"meta":{"rank":25,"sector":"ElectronicTechnology"}}
+{"id":"df1f2ec719934d93","ts":"2026-08-07T16:13:28.112Z","date":"2026-08-07","source":"apewisdom","ticker":"GO","kind":"attention","value":15,"meta":{"rank":46,"upvotes":55,"prev24h":7}}
