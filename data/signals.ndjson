@@ -10437,3 +10437,12 @@
 {"id":"634f5583306e6f5b","ts":"2026-08-07T17:13:41.860Z","date":"2026-08-07","source":"stocktwits","ticker":"SOFI","kind":"attention","value":155662,"meta":{"rank":26,"sector":"Finance"}}
 {"id":"3fc9927358d4614d","ts":"2026-08-07T17:13:41.860Z","date":"2026-08-07","source":"stocktwits","ticker":"XYZ","kind":"attention","value":178916,"meta":{"rank":27,"sector":"CommercialServices"}}
 {"id":"1b381a4dc7cf7ff3","ts":"2026-08-07T17:13:43.780Z","date":"2026-08-07","source":"apewisdom","ticker":"UP","kind":"attention","value":15,"meta":{"rank":49,"upvotes":119,"prev24h":10}}
+{"id":"9410eb5f97a7ccf9","ts":"2026-08-07T18:08:23.502Z","date":"2026-08-07","source":"stocktwits","ticker":"GLXY","kind":"attention","value":19073,"meta":{"rank":12,"sector":"Finance"}}
+{"id":"3262da4c8dbd795d","ts":"2026-08-07T18:08:23.503Z","date":"2026-08-07","source":"stocktwits","ticker":"CADL","kind":"attention","value":9914,"meta":{"rank":16,"sector":"HealthTechnology"}}
+{"id":"11a44b74fac6c900","ts":"2026-08-07T18:08:23.503Z","date":"2026-08-07","source":"stocktwits","ticker":"LLY","kind":"attention","value":34329,"meta":{"rank":19,"sector":"HealthTechnology"}}
+{"id":"5e5bcb8ff8ce4d10","ts":"2026-08-07T18:08:23.503Z","date":"2026-08-07","source":"stocktwits","ticker":"WULF","kind":"attention","value":30622,"meta":{"rank":20,"sector":"TechnologyServices"}}
+{"id":"1a95c0f8d04116ca","ts":"2026-08-07T18:08:23.503Z","date":"2026-08-07","source":"stocktwits","ticker":"LITE","kind":"attention","value":14083,"meta":{"rank":22,"sector":"ProducerManufacturing"}}
+{"id":"955bab100fc470d0","ts":"2026-08-07T18:08:23.503Z","date":"2026-08-07","source":"stocktwits","ticker":"PFE","kind":"attention","value":106231,"meta":{"rank":23,"sector":"HealthTechnology"}}
+{"id":"bde496f95f7df9c3","ts":"2026-08-07T18:08:23.503Z","date":"2026-08-07","source":"stocktwits","ticker":"BTG","kind":"attention","value":8100,"meta":{"rank":24,"sector":"NonEnergyMinerals"}}
+{"id":"12d2582757a791e1","ts":"2026-08-07T18:08:23.503Z","date":"2026-08-07","source":"stocktwits","ticker":"CVX","kind":"attention","value":36836,"meta":{"rank":27,"sector":"EnergyMinerals"}}
+{"id":"6b3f71bb5de6f28a","ts":"2026-08-07T18:08:23.503Z","date":"2026-08-07","source":"stocktwits","ticker":"PLAY","kind":"attention","value":15202,"meta":{"rank":29,"sector":"ConsumerServices"}}
