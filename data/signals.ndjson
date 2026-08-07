@@ -10399,3 +10399,11 @@
 {"id":"14a597a328da09bf","ts":"2026-08-07T12:03:42.988Z","date":"2026-08-07","source":"stocktwits","ticker":"ALOY","kind":"attention","value":11022,"meta":{"rank":28,"sector":"TechnologyServices"}}
 {"id":"be1afac1114570be","ts":"2026-08-07T12:03:42.988Z","date":"2026-08-07","source":"stocktwits","ticker":"REPL","kind":"attention","value":5209,"meta":{"rank":29,"sector":"HealthTechnology"}}
 {"id":"6345a8bed7d51072","ts":"2026-08-07T12:03:45.401Z","date":"2026-08-07","source":"apewisdom","ticker":"API","kind":"attention","value":14,"meta":{"rank":49,"upvotes":393,"prev24h":13}}
+{"id":"f46b2927d779f333","ts":"2026-08-07T13:44:44.550Z","date":"2026-08-07","source":"stocktwits","ticker":"QQQ","kind":"attention","value":278073,"meta":{"rank":7,"sector":"Miscellaneous"}}
+{"id":"34e65dd8a1156a78","ts":"2026-08-07T13:44:44.550Z","date":"2026-08-07","source":"stocktwits","ticker":"BMNR","kind":"attention","value":28858,"meta":{"rank":8,"sector":"Finance"}}
+{"id":"e9ad635cd5045f26","ts":"2026-08-07T13:44:44.550Z","date":"2026-08-07","source":"stocktwits","ticker":"SPY","kind":"attention","value":635751,"meta":{"rank":11,"sector":"Miscellaneous"}}
+{"id":"05d6197a2ee11c0a","ts":"2026-08-07T13:44:44.550Z","date":"2026-08-07","source":"stocktwits","ticker":"NB","kind":"attention","value":3892,"meta":{"rank":27,"sector":"NonEnergyMinerals"}}
+{"id":"c53795c675704fe4","ts":"2026-08-07T13:44:44.551Z","date":"2026-08-07","source":"stocktwits","ticker":"HNST","kind":"attention","value":6018,"meta":{"rank":28,"sector":"RetailTrade"}}
+{"id":"b4347a2cc365e662","ts":"2026-08-07T13:44:46.688Z","date":"2026-08-07","source":"apewisdom","ticker":"GLD","kind":"attention","value":21,"meta":{"rank":37,"upvotes":36,"prev24h":17}}
+{"id":"7eb80ebac2dba425","ts":"2026-08-07T13:44:46.688Z","date":"2026-08-07","source":"apewisdom","ticker":"MSTR","kind":"attention","value":15,"meta":{"rank":47,"upvotes":70,"prev24h":6}}
+{"id":"c1c7f77bbe6fa76b","ts":"2026-08-07T13:44:46.688Z","date":"2026-08-07","source":"apewisdom","ticker":"IBKR","kind":"attention","value":13,"meta":{"rank":49,"upvotes":150,"prev24h":14}}
