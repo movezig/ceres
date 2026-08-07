@@ -10396,3 +10396,6 @@
 {"id":"d3be845c909bd695","ts":"2026-08-07T11:13:04.734Z","date":"2026-08-07","source":"stocktwits","ticker":"SE","kind":"sentiment","value":100,"meta":{"bull":5,"bear":0}}
 {"id":"38a967ace035485d","ts":"2026-08-07T11:13:05.896Z","date":"2026-08-07","source":"apewisdom","ticker":"AGI","kind":"attention","value":15,"meta":{"rank":46,"upvotes":74,"prev24h":16}}
 {"id":"569daefaa9422b89","ts":"2026-08-07T11:13:05.896Z","date":"2026-08-07","source":"apewisdom","ticker":"CRSR","kind":"attention","value":14,"meta":{"rank":48,"upvotes":23,"prev24h":1}}
+{"id":"14a597a328da09bf","ts":"2026-08-07T12:03:42.988Z","date":"2026-08-07","source":"stocktwits","ticker":"ALOY","kind":"attention","value":11022,"meta":{"rank":28,"sector":"TechnologyServices"}}
+{"id":"be1afac1114570be","ts":"2026-08-07T12:03:42.988Z","date":"2026-08-07","source":"stocktwits","ticker":"REPL","kind":"attention","value":5209,"meta":{"rank":29,"sector":"HealthTechnology"}}
+{"id":"6345a8bed7d51072","ts":"2026-08-07T12:03:45.401Z","date":"2026-08-07","source":"apewisdom","ticker":"API","kind":"attention","value":14,"meta":{"rank":49,"upvotes":393,"prev24h":13}}
