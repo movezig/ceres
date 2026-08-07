@@ -10407,3 +10407,14 @@
 {"id":"b4347a2cc365e662","ts":"2026-08-07T13:44:46.688Z","date":"2026-08-07","source":"apewisdom","ticker":"GLD","kind":"attention","value":21,"meta":{"rank":37,"upvotes":36,"prev24h":17}}
 {"id":"7eb80ebac2dba425","ts":"2026-08-07T13:44:46.688Z","date":"2026-08-07","source":"apewisdom","ticker":"MSTR","kind":"attention","value":15,"meta":{"rank":47,"upvotes":70,"prev24h":6}}
 {"id":"c1c7f77bbe6fa76b","ts":"2026-08-07T13:44:46.688Z","date":"2026-08-07","source":"apewisdom","ticker":"IBKR","kind":"attention","value":13,"meta":{"rank":49,"upvotes":150,"prev24h":14}}
+{"id":"f7346787fe65ecf1","ts":"2026-08-07T15:15:00.495Z","date":"2026-08-06","source":"houseclerk","ticker":null,"kind":"ptr_filed","value":1,"meta":{"member":"David J. Taylor","district":"OH02","url":"https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035146.pdf"}}
+{"id":"4c015be9235e7eb0","ts":"2026-08-07T15:15:00.802Z","date":"2026-08-07","source":"stocktwits","ticker":"SPCX","kind":"attention","value":100063,"meta":{"rank":1,"sector":"Communications"}}
+{"id":"737c189fef7fbc1d","ts":"2026-08-07T15:15:00.802Z","date":"2026-08-07","source":"stocktwits","ticker":"CIFR","kind":"attention","value":22515,"meta":{"rank":5,"sector":"TechnologyServices"}}
+{"id":"7e89451364c3ad23","ts":"2026-08-07T15:15:00.802Z","date":"2026-08-07","source":"stocktwits","ticker":"SOUN","kind":"attention","value":58345,"meta":{"rank":6,"sector":"TechnologyServices"}}
+{"id":"f5021e17a111a07f","ts":"2026-08-07T15:15:00.803Z","date":"2026-08-07","source":"stocktwits","ticker":"RDW","kind":"attention","value":23473,"meta":{"rank":11,"sector":"ElectronicTechnology"}}
+{"id":"6ca28bce3becb884","ts":"2026-08-07T15:15:00.803Z","date":"2026-08-07","source":"stocktwits","ticker":"UBER","kind":"attention","value":130051,"meta":{"rank":14,"sector":"Transportation"}}
+{"id":"4466a51b44906c7e","ts":"2026-08-07T15:15:00.804Z","date":"2026-08-07","source":"stocktwits","ticker":"WDC","kind":"attention","value":20781,"meta":{"rank":19,"sector":"ElectronicTechnology"}}
+{"id":"8cb6279327bdc380","ts":"2026-08-07T15:15:00.804Z","date":"2026-08-07","source":"stocktwits","ticker":"SENS","kind":"attention","value":48241,"meta":{"rank":20,"sector":"ElectronicTechnology"}}
+{"id":"7b02bafee2173225","ts":"2026-08-07T15:15:00.804Z","date":"2026-08-07","source":"stocktwits","ticker":"CCXI","kind":"attention","value":12340,"meta":{"rank":28,"sector":"Finance"}}
+{"id":"b137450563921f87","ts":"2026-08-07T15:15:00.804Z","date":"2026-08-07","source":"stocktwits","ticker":"PLTR","kind":"attention","value":324164,"meta":{"rank":30,"sector":"TechnologyServices"}}
+{"id":"d4a9fe6d8f60e32a","ts":"2026-08-07T15:15:03.520Z","date":"2026-08-07","source":"apewisdom","ticker":"SLV","kind":"attention","value":14,"meta":{"rank":48,"upvotes":26,"prev24h":9}}
