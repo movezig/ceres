@@ -10446,3 +10446,11 @@
 {"id":"bde496f95f7df9c3","ts":"2026-08-07T18:08:23.503Z","date":"2026-08-07","source":"stocktwits","ticker":"BTG","kind":"attention","value":8100,"meta":{"rank":24,"sector":"NonEnergyMinerals"}}
 {"id":"12d2582757a791e1","ts":"2026-08-07T18:08:23.503Z","date":"2026-08-07","source":"stocktwits","ticker":"CVX","kind":"attention","value":36836,"meta":{"rank":27,"sector":"EnergyMinerals"}}
 {"id":"6b3f71bb5de6f28a","ts":"2026-08-07T18:08:23.503Z","date":"2026-08-07","source":"stocktwits","ticker":"PLAY","kind":"attention","value":15202,"meta":{"rank":29,"sector":"ConsumerServices"}}
+{"id":"69e534caadfd695a","ts":"2026-08-07T19:26:17.299Z","date":"2026-08-07","source":"stocktwits","ticker":"AVAV","kind":"attention","value":12941,"meta":{"rank":7,"sector":"ElectronicTechnology"}}
+{"id":"9270feae2c40cf50","ts":"2026-08-07T19:26:17.300Z","date":"2026-08-07","source":"stocktwits","ticker":"TEM","kind":"attention","value":21072,"meta":{"rank":15,"sector":"TechnologyServices"}}
+{"id":"aab435824ee8095b","ts":"2026-08-07T19:26:17.300Z","date":"2026-08-07","source":"stocktwits","ticker":"FOUR","kind":"attention","value":4822,"meta":{"rank":19,"sector":"CommercialServices"}}
+{"id":"ebf9a93f893ec76d","ts":"2026-08-07T19:26:17.300Z","date":"2026-08-07","source":"stocktwits","ticker":"LASR","kind":"attention","value":2844,"meta":{"rank":20,"sector":"ElectronicTechnology"}}
+{"id":"710d25c409bd3c5c","ts":"2026-08-07T19:26:17.300Z","date":"2026-08-07","source":"stocktwits","ticker":"BCRX","kind":"attention","value":36905,"meta":{"rank":25,"sector":"HealthTechnology"}}
+{"id":"7493542461d39c7a","ts":"2026-08-07T19:26:17.300Z","date":"2026-08-07","source":"stocktwits","ticker":"MNST","kind":"attention","value":7570,"meta":{"rank":29,"sector":"ConsumerNonDurables"}}
+{"id":"69abdacb86c1e395","ts":"2026-08-07T19:26:17.301Z","date":"2026-08-07","source":"stocktwits","ticker":"AGNC","kind":"attention","value":12884,"meta":{"rank":30,"sector":"Finance"}}
+{"id":"7bf64814a2e10a79","ts":"2026-08-07T19:26:19.954Z","date":"2026-08-07","source":"apewisdom","ticker":"GL","kind":"attention","value":13,"meta":{"rank":50,"upvotes":23,"prev24h":3}}
