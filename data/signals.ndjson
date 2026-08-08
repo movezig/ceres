@@ -10943,3 +10943,15 @@
 {"id":"e710f53f61de2d4e","ts":"2026-08-08T19:04:54.160Z","date":"2026-08-08","source":"apewisdom","ticker":"WMT","kind":"attention","value":6,"meta":{"rank":48,"upvotes":15,"prev24h":1}}
 {"id":"5fabaaf52d02f7ea","ts":"2026-08-08T19:04:54.160Z","date":"2026-08-08","source":"apewisdom","ticker":"IP","kind":"attention","value":6,"meta":{"rank":49,"upvotes":11,"prev24h":3}}
 {"id":"9523f8fc2d9069af","ts":"2026-08-08T19:04:54.161Z","date":"2026-08-08","source":"apewisdom","ticker":"PS","kind":"attention","value":6,"meta":{"rank":50,"upvotes":7,"prev24h":7}}
+{"id":"ad6b7220d00bf95e","ts":"2026-08-08T19:48:51.647Z","date":"2026-08-08","source":"stocktwits","ticker":"BTGO","kind":"attention","value":762,"meta":{"rank":9,"sector":"TechnologyServices"}}
+{"id":"e7ba618069d3eb6b","ts":"2026-08-08T19:48:51.647Z","date":"2026-08-08","source":"stocktwits","ticker":"ZTS","kind":"attention","value":4406,"meta":{"rank":11,"sector":"HealthTechnology"}}
+{"id":"b4a250a41f902dee","ts":"2026-08-08T19:48:51.647Z","date":"2026-08-08","source":"stocktwits","ticker":"MRNA","kind":"attention","value":110901,"meta":{"rank":12,"sector":"HealthTechnology"}}
+{"id":"acd2e160a784fdec","ts":"2026-08-08T19:48:51.647Z","date":"2026-08-08","source":"stocktwits","ticker":"B","kind":"attention","value":32128,"meta":{"rank":13,"sector":"NonEnergyMinerals"}}
+{"id":"a32e1da9032fbdf7","ts":"2026-08-08T19:48:51.647Z","date":"2026-08-08","source":"stocktwits","ticker":"TSEM","kind":"attention","value":3904,"meta":{"rank":15,"sector":"ElectronicTechnology"}}
+{"id":"f7aed9fa7e15783f","ts":"2026-08-08T19:48:51.657Z","date":"2026-08-08","source":"stocktwits","ticker":"TGTX","kind":"attention","value":21587,"meta":{"rank":17,"sector":"HealthTechnology"}}
+{"id":"5338230a94bbce6c","ts":"2026-08-08T19:48:51.657Z","date":"2026-08-08","source":"stocktwits","ticker":"ZVRA","kind":"attention","value":24327,"meta":{"rank":27,"sector":"HealthTechnology"}}
+{"id":"dd84f85b27cd2bb0","ts":"2026-08-08T19:48:51.657Z","date":"2026-08-08","source":"stocktwits","ticker":"FCX","kind":"attention","value":28236,"meta":{"rank":29,"sector":"NonEnergyMinerals"}}
+{"id":"ee0a748a78f47047","ts":"2026-08-08T19:48:51.657Z","date":"2026-08-08","source":"stocktwits","ticker":"TTWO","kind":"attention","value":23202,"meta":{"rank":30,"sector":"TechnologyServices"}}
+{"id":"336ecc2d1e86e004","ts":"2026-08-08T19:48:53.724Z","date":"2026-08-08","source":"apewisdom","ticker":"AGI","kind":"attention","value":7,"meta":{"rank":39,"upvotes":11,"prev24h":13}}
+{"id":"ba9fcaa80d8e24dd","ts":"2026-08-08T19:48:53.724Z","date":"2026-08-08","source":"apewisdom","ticker":"LULU","kind":"attention","value":6,"meta":{"rank":45,"upvotes":51,"prev24h":1}}
+{"id":"24b945a84d92fa44","ts":"2026-08-08T19:48:53.724Z","date":"2026-08-08","source":"apewisdom","ticker":"HOOD","kind":"attention","value":6,"meta":{"rank":49,"upvotes":10,"prev24h":7}}
