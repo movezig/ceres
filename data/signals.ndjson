@@ -11071,3 +11071,17 @@
 {"id":"0054381902f4b6ae","ts":"2026-08-09T13:27:00.785Z","date":"2026-08-09","source":"apewisdom","ticker":"TTD","kind":"attention","value":7,"meta":{"rank":32,"upvotes":17,"prev24h":16}}
 {"id":"0063b45013517f7e","ts":"2026-08-09T13:27:00.785Z","date":"2026-08-09","source":"apewisdom","ticker":"GLD","kind":"attention","value":5,"meta":{"rank":46,"upvotes":11,"prev24h":8}}
 {"id":"f71163e5e7314029","ts":"2026-08-09T13:27:00.785Z","date":"2026-08-09","source":"apewisdom","ticker":"IONQ","kind":"attention","value":5,"meta":{"rank":49,"upvotes":19,"prev24h":1}}
+{"id":"404ab6c704b1765e","ts":"2026-08-09T14:57:35.650Z","date":"2026-08-09","source":"stocktwits","ticker":"REGN","kind":"attention","value":17550,"meta":{"rank":2,"sector":"HealthTechnology"}}
+{"id":"bc2b0b9ea3c2cbbd","ts":"2026-08-09T14:57:35.662Z","date":"2026-08-09","source":"stocktwits","ticker":"SNOW","kind":"attention","value":57888,"meta":{"rank":4,"sector":"TechnologyServices"}}
+{"id":"66bf0617fca24581","ts":"2026-08-09T14:57:35.662Z","date":"2026-08-09","source":"stocktwits","ticker":"TXN","kind":"attention","value":13175,"meta":{"rank":5,"sector":"ElectronicTechnology"}}
+{"id":"dd9ab3f59899acbe","ts":"2026-08-09T14:57:35.662Z","date":"2026-08-09","source":"stocktwits","ticker":"CHRN","kind":"attention","value":13702,"meta":{"rank":7,"sector":"HealthTechnology"}}
+{"id":"ac8739845be02b49","ts":"2026-08-09T14:57:35.663Z","date":"2026-08-09","source":"stocktwits","ticker":"FTNT","kind":"attention","value":12616,"meta":{"rank":11,"sector":"TechnologyServices"}}
+{"id":"7e3db70b35e814b0","ts":"2026-08-09T14:57:35.663Z","date":"2026-08-09","source":"stocktwits","ticker":"SE","kind":"attention","value":28220,"meta":{"rank":13,"sector":"RetailTrade"}}
+{"id":"52e44ced23789330","ts":"2026-08-09T14:57:35.663Z","date":"2026-08-09","source":"stocktwits","ticker":"SITM","kind":"attention","value":1444,"meta":{"rank":14,"sector":"ElectronicTechnology"}}
+{"id":"09a0a97d4ecd1844","ts":"2026-08-09T14:57:35.664Z","date":"2026-08-09","source":"stocktwits","ticker":"DAL","kind":"attention","value":83798,"meta":{"rank":15,"sector":"Transportation"}}
+{"id":"c744c347c6e65912","ts":"2026-08-09T14:57:35.664Z","date":"2026-08-09","source":"stocktwits","ticker":"TEAM","kind":"attention","value":14971,"meta":{"rank":20,"sector":"TechnologyServices"}}
+{"id":"d7f114f7536cbfa6","ts":"2026-08-09T14:57:35.664Z","date":"2026-08-09","source":"stocktwits","ticker":"WDAY","kind":"attention","value":14924,"meta":{"rank":25,"sector":"TechnologyServices"}}
+{"id":"746bae90239a64f6","ts":"2026-08-09T14:57:35.664Z","date":"2026-08-09","source":"stocktwits","ticker":"BTC","kind":"attention","value":4629,"meta":{"rank":27,"sector":"Unknown"}}
+{"id":"2775b9837a504b19","ts":"2026-08-09T14:57:35.664Z","date":"2026-08-09","source":"stocktwits","ticker":"ALMU","kind":"attention","value":2986,"meta":{"rank":30,"sector":"CommercialServices"}}
+{"id":"0ad9bc323d66017b","ts":"2026-08-09T14:57:38.230Z","date":"2026-08-09","source":"apewisdom","ticker":"BE","kind":"attention","value":6,"meta":{"rank":37,"upvotes":59,"prev24h":9}}
+{"id":"7d678b2b325c9700","ts":"2026-08-09T14:57:38.230Z","date":"2026-08-09","source":"apewisdom","ticker":"KO","kind":"attention","value":4,"meta":{"rank":49,"upvotes":-11,"prev24h":4}}
