@@ -11308,3 +11308,11 @@
 {"id":"fb7030aa53878fa8","ts":"2026-08-10T18:09:14.531Z","date":"2026-08-10","source":"stocktwits","ticker":"LKNCY","kind":"attention","value":40155,"meta":{"rank":27,"sector":"ConsumerNonDurables"}}
 {"id":"0529ffee2b1b57a0","ts":"2026-08-10T18:09:14.531Z","date":"2026-08-10","source":"stocktwits","ticker":"LASR","kind":"attention","value":2878,"meta":{"rank":29,"sector":"ElectronicTechnology"}}
 {"id":"8007839bdc430ef2","ts":"2026-08-10T18:09:16.488Z","date":"2026-08-10","source":"apewisdom","ticker":"HIMS","kind":"attention","value":8,"meta":{"rank":47,"upvotes":34,"prev24h":3}}
+{"id":"2237a3769139bde6","ts":"2026-08-10T19:27:05.797Z","date":"2026-08-10","source":"stocktwits","ticker":"GLD","kind":"attention","value":95795,"meta":{"rank":13,"sector":"Miscellaneous"}}
+{"id":"52f13dac20a3ba53","ts":"2026-08-10T19:27:05.797Z","date":"2026-08-10","source":"stocktwits","ticker":"WULF","kind":"attention","value":30661,"meta":{"rank":14,"sector":"TechnologyServices"}}
+{"id":"a33445d3d579bb5b","ts":"2026-08-10T19:27:05.797Z","date":"2026-08-10","source":"stocktwits","ticker":"PZZA","kind":"attention","value":5225,"meta":{"rank":18,"sector":"ConsumerServices"}}
+{"id":"0207b7eea794a998","ts":"2026-08-10T19:27:05.797Z","date":"2026-08-10","source":"stocktwits","ticker":"DAVE","kind":"attention","value":3989,"meta":{"rank":20,"sector":"Finance"}}
+{"id":"1107857aa9ca8b27","ts":"2026-08-10T19:27:05.797Z","date":"2026-08-10","source":"stocktwits","ticker":"NEGG","kind":"attention","value":12200,"meta":{"rank":24,"sector":"RetailTrade"}}
+{"id":"bee87809031142b5","ts":"2026-08-10T19:27:05.797Z","date":"2026-08-10","source":"stocktwits","ticker":"ZS","kind":"attention","value":23265,"meta":{"rank":25,"sector":"TechnologyServices"}}
+{"id":"fced34c69d27c8d0","ts":"2026-08-10T19:27:05.798Z","date":"2026-08-10","source":"stocktwits","ticker":"GT","kind":"attention","value":5877,"meta":{"rank":28,"sector":"ConsumerDurables"}}
+{"id":"6dd019117f6c3f30","ts":"2026-08-10T19:27:08.062Z","date":"2026-08-10","source":"apewisdom","ticker":"IP","kind":"attention","value":9,"meta":{"rank":49,"upvotes":30,"prev24h":1}}
