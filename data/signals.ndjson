@@ -11300,3 +11300,11 @@
 {"id":"c97fe202c1dc5c1a","ts":"2026-08-10T17:15:07.621Z","date":"2026-08-10","source":"apewisdom","ticker":"YOU","kind":"attention","value":10,"meta":{"rank":44,"upvotes":59,"prev24h":8}}
 {"id":"aff0d39cfc4db9c4","ts":"2026-08-10T17:15:07.621Z","date":"2026-08-10","source":"apewisdom","ticker":"UBER","kind":"attention","value":9,"meta":{"rank":46,"upvotes":12,"prev24h":1}}
 {"id":"0f95fe12f327dffd","ts":"2026-08-10T17:15:07.621Z","date":"2026-08-10","source":"apewisdom","ticker":"ORCL","kind":"attention","value":8,"meta":{"rank":49,"upvotes":17,"prev24h":1}}
+{"id":"a260af3eb09ee833","ts":"2026-08-10T18:09:14.531Z","date":"2026-08-10","source":"stocktwits","ticker":"BX","kind":"attention","value":13982,"meta":{"rank":11,"sector":"Finance"}}
+{"id":"8781dc81ef6825bf","ts":"2026-08-10T18:09:14.531Z","date":"2026-08-10","source":"stocktwits","ticker":"CAKE","kind":"attention","value":6124,"meta":{"rank":19,"sector":"ConsumerServices"}}
+{"id":"be14122fa35221a7","ts":"2026-08-10T18:09:14.531Z","date":"2026-08-10","source":"stocktwits","ticker":"SE","kind":"attention","value":28238,"meta":{"rank":20,"sector":"RetailTrade"}}
+{"id":"d4bb203e40fcdda9","ts":"2026-08-10T18:09:14.531Z","date":"2026-08-10","source":"stocktwits","ticker":"PLAY","kind":"attention","value":15201,"meta":{"rank":24,"sector":"ConsumerServices"}}
+{"id":"f41ff117995ba184","ts":"2026-08-10T18:09:14.531Z","date":"2026-08-10","source":"stocktwits","ticker":"QUBT","kind":"attention","value":33414,"meta":{"rank":26,"sector":"TechnologyServices"}}
+{"id":"fb7030aa53878fa8","ts":"2026-08-10T18:09:14.531Z","date":"2026-08-10","source":"stocktwits","ticker":"LKNCY","kind":"attention","value":40155,"meta":{"rank":27,"sector":"ConsumerNonDurables"}}
+{"id":"0529ffee2b1b57a0","ts":"2026-08-10T18:09:14.531Z","date":"2026-08-10","source":"stocktwits","ticker":"LASR","kind":"attention","value":2878,"meta":{"rank":29,"sector":"ElectronicTechnology"}}
+{"id":"8007839bdc430ef2","ts":"2026-08-10T18:09:16.488Z","date":"2026-08-10","source":"apewisdom","ticker":"HIMS","kind":"attention","value":8,"meta":{"rank":47,"upvotes":34,"prev24h":3}}
