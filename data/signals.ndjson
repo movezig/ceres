@@ -11741,3 +11741,11 @@
 {"id":"96d3c2d02644ff9b","ts":"2026-08-11T11:10:35.566Z","date":"2026-08-11","source":"stocktwits","ticker":"FLO","kind":"attention","value":1474,"meta":{"rank":26,"sector":"ConsumerNonDurables"}}
 {"id":"03baec9a05d0e5be","ts":"2026-08-11T11:10:35.566Z","date":"2026-08-11","source":"stocktwits","ticker":"FLY","kind":"attention","value":9328,"meta":{"rank":30,"sector":"ElectronicTechnology"}}
 {"id":"f588d8be6958133d","ts":"2026-08-11T11:10:37.840Z","date":"2026-08-11","source":"apewisdom","ticker":"PS","kind":"attention","value":12,"meta":{"rank":50,"upvotes":80,"prev24h":6}}
+{"id":"0d0bfd0f62fbb093","ts":"2026-08-11T12:03:30.260Z","date":"2026-08-11","source":"stocktwits","ticker":"WOLF","kind":"attention","value":20125,"meta":{"rank":21,"sector":"ElectronicTechnology"}}
+{"id":"b1108a3ecb9212ff","ts":"2026-08-11T12:03:30.260Z","date":"2026-08-11","source":"stocktwits","ticker":"LEGN","kind":"attention","value":1351,"meta":{"rank":22,"sector":"HealthTechnology"}}
+{"id":"1598831aa319c303","ts":"2026-08-11T12:03:30.260Z","date":"2026-08-11","source":"stocktwits","ticker":"AUR","kind":"attention","value":9265,"meta":{"rank":23,"sector":"TechnologyServices"}}
+{"id":"a1936fb7ea07d184","ts":"2026-08-11T12:03:30.261Z","date":"2026-08-11","source":"stocktwits","ticker":"NDAQ","kind":"attention","value":6389,"meta":{"rank":24,"sector":"Finance"}}
+{"id":"d18a879e6281254e","ts":"2026-08-11T12:03:30.261Z","date":"2026-08-11","source":"stocktwits","ticker":"BETR","kind":"attention","value":5796,"meta":{"rank":25,"sector":"Finance"}}
+{"id":"fb01ed632ea213b1","ts":"2026-08-11T12:03:30.261Z","date":"2026-08-11","source":"stocktwits","ticker":"DJT","kind":"attention","value":115592,"meta":{"rank":27,"sector":"Finance"}}
+{"id":"d0129ac654a72ae8","ts":"2026-08-11T12:03:30.261Z","date":"2026-08-11","source":"stocktwits","ticker":"CCL","kind":"attention","value":89316,"meta":{"rank":29,"sector":"ConsumerServices"}}
+{"id":"41cb3abe62d4dfb8","ts":"2026-08-11T12:03:32.515Z","date":"2026-08-11","source":"apewisdom","ticker":"DC","kind":"attention","value":12,"meta":{"rank":49,"upvotes":628,"prev24h":2}}
