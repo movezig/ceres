@@ -11797,3 +11797,13 @@
 {"id":"fe2b2b7e0a13f1a5","ts":"2026-08-11T17:24:12.163Z","date":"2026-08-11","source":"stocktwits","ticker":"SCHW","kind":"attention","value":11643,"meta":{"rank":30,"sector":"Finance"}}
 {"id":"f3dec600257f1ac0","ts":"2026-08-11T17:24:14.823Z","date":"2026-08-11","source":"apewisdom","ticker":"WEN","kind":"attention","value":15,"meta":{"rank":38,"upvotes":32,"prev24h":8}}
 {"id":"2181319ac91276ab","ts":"2026-08-11T17:24:14.823Z","date":"2026-08-11","source":"apewisdom","ticker":"RXT","kind":"attention","value":14,"meta":{"rank":44,"upvotes":15,"prev24h":1}}
+{"id":"eef377d31a08745f","ts":"2026-08-11T19:31:06.269Z","date":"2026-08-11","source":"stocktwits","ticker":"AAPL","kind":"attention","value":988116,"meta":{"rank":9,"sector":"ElectronicTechnology"}}
+{"id":"1c01a0d5b3e38c51","ts":"2026-08-11T19:31:06.269Z","date":"2026-08-11","source":"stocktwits","ticker":"ABBV","kind":"attention","value":32816,"meta":{"rank":14,"sector":"HealthTechnology"}}
+{"id":"fb56106dfc893e67","ts":"2026-08-11T19:31:06.269Z","date":"2026-08-11","source":"stocktwits","ticker":"MELI","kind":"attention","value":22376,"meta":{"rank":18,"sector":"RetailTrade"}}
+{"id":"a0059d65688ba1d2","ts":"2026-08-11T19:31:06.269Z","date":"2026-08-11","source":"stocktwits","ticker":"UVIX","kind":"attention","value":7230,"meta":{"rank":20,"sector":"Miscellaneous"}}
+{"id":"55fdd069bb366d22","ts":"2026-08-11T19:31:06.270Z","date":"2026-08-11","source":"stocktwits","ticker":"MDB","kind":"attention","value":21159,"meta":{"rank":21,"sector":"TechnologyServices"}}
+{"id":"a3105d907fc844c0","ts":"2026-08-11T19:31:06.270Z","date":"2026-08-11","source":"stocktwits","ticker":"GOOGL","kind":"attention","value":224739,"meta":{"rank":24,"sector":"TechnologyServices"}}
+{"id":"7226bf4032dfa8fe","ts":"2026-08-11T19:31:06.270Z","date":"2026-08-11","source":"stocktwits","ticker":"LITE","kind":"attention","value":14438,"meta":{"rank":25,"sector":"ProducerManufacturing"}}
+{"id":"4f0a38dc11a145b4","ts":"2026-08-11T19:31:06.270Z","date":"2026-08-11","source":"stocktwits","ticker":"RILY","kind":"attention","value":6516,"meta":{"rank":29,"sector":"Finance"}}
+{"id":"ecd1ba98377ba9b6","ts":"2026-08-11T19:31:08.664Z","date":"2026-08-11","source":"apewisdom","ticker":"UP","kind":"attention","value":12,"meta":{"rank":46,"upvotes":26,"prev24h":9}}
+{"id":"bc6a94e63cedeb01","ts":"2026-08-11T19:31:08.665Z","date":"2026-08-11","source":"apewisdom","ticker":"HOOD","kind":"attention","value":11,"meta":{"rank":50,"upvotes":33,"prev24h":8}}
