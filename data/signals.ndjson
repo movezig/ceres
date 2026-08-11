@@ -12116,3 +12116,6 @@
 {"id":"68017d2048dda1ec","ts":"2026-08-11T22:09:50.267Z","date":"2026-08-11","source":"stocktwits","ticker":"NUVB","kind":"attention","value":3415,"meta":{"rank":25,"sector":"HealthTechnology"}}
 {"id":"6e2603e8015fa4f9","ts":"2026-08-11T22:09:50.267Z","date":"2026-08-11","source":"stocktwits","ticker":"CRMD","kind":"attention","value":23403,"meta":{"rank":29,"sector":"HealthTechnology"}}
 {"id":"b80cbe95f5167965","ts":"2026-08-11T22:09:52.386Z","date":"2026-08-11","source":"apewisdom","ticker":"CAVA","kind":"attention","value":13,"meta":{"rank":42,"upvotes":33,"prev24h":1}}
+{"id":"1a49ba1b2f2afa95","ts":"2026-08-11T23:08:41.117Z","date":"2026-08-11","source":"stocktwits","ticker":"UMAC","kind":"attention","value":11901,"meta":{"rank":23,"sector":"ElectronicTechnology"}}
+{"id":"9d6198842d067a1d","ts":"2026-08-11T23:08:41.117Z","date":"2026-08-11","source":"stocktwits","ticker":"NEGG","kind":"attention","value":12208,"meta":{"rank":29,"sector":"RetailTrade"}}
+{"id":"1f93abbe2bb2e18b","ts":"2026-08-11T23:08:41.117Z","date":"2026-08-11","source":"stocktwits","ticker":"AVAV","kind":"attention","value":13014,"meta":{"rank":30,"sector":"ElectronicTechnology"}}
