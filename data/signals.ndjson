@@ -12626,3 +12626,13 @@
 {"id":"796c488a48bcfaf5","ts":"2026-08-12T22:08:13.218Z","date":"2026-08-12","source":"stocktwits","ticker":"AGNC","kind":"attention","value":12894,"meta":{"rank":28,"sector":"Finance"}}
 {"id":"11fccf2226896762","ts":"2026-08-12T22:08:13.218Z","date":"2026-08-12","source":"stocktwits","ticker":"STDN","kind":"attention","value":342,"meta":{"rank":30,"sector":"ProcessIndustries"}}
 {"id":"9f04eb8a3173cdac","ts":"2026-08-12T22:08:15.105Z","date":"2026-08-12","source":"apewisdom","ticker":"IREN","kind":"attention","value":15,"meta":{"rank":43,"upvotes":96,"prev24h":5}}
+{"id":"8e46ed7fcd9b7a62","ts":"2026-08-12T23:07:46.954Z","date":"2026-08-12","source":"stocktwits","ticker":"CURLF","kind":"attention","value":8948,"meta":{"rank":13,"sector":"ProcessIndustries"}}
+{"id":"e89a5bd966670426","ts":"2026-08-12T23:07:46.954Z","date":"2026-08-12","source":"stocktwits","ticker":"KOPN","kind":"attention","value":12875,"meta":{"rank":15,"sector":"ElectronicTechnology"}}
+{"id":"fefe277aaecb3643","ts":"2026-08-12T23:07:46.954Z","date":"2026-08-12","source":"stocktwits","ticker":"CAR","kind":"attention","value":11409,"meta":{"rank":19,"sector":"Finance"}}
+{"id":"2dc406769b5faff9","ts":"2026-08-12T23:07:46.954Z","date":"2026-08-12","source":"stocktwits","ticker":"MS","kind":"attention","value":15118,"meta":{"rank":21,"sector":"Finance"}}
+{"id":"9408b005d1ed73f6","ts":"2026-08-12T23:07:46.955Z","date":"2026-08-12","source":"stocktwits","ticker":"PZZA","kind":"attention","value":5240,"meta":{"rank":23,"sector":"ConsumerServices"}}
+{"id":"ffb4527d7b10ff92","ts":"2026-08-12T23:07:46.955Z","date":"2026-08-12","source":"stocktwits","ticker":"GTBIF","kind":"attention","value":6295,"meta":{"rank":26,"sector":"ProcessIndustries"}}
+{"id":"5be19d3557881983","ts":"2026-08-12T23:07:46.955Z","date":"2026-08-12","source":"stocktwits","ticker":"OKLO","kind":"attention","value":39169,"meta":{"rank":28,"sector":"Finance"}}
+{"id":"49c77eb615b54c85","ts":"2026-08-12T23:07:46.955Z","date":"2026-08-12","source":"stocktwits","ticker":"CIFR","kind":"attention","value":22693,"meta":{"rank":30,"sector":"TechnologyServices"}}
+{"id":"6dee257294de35c0","ts":"2026-08-12T23:07:47.326Z","date":"2026-08-12","source":"stocktwits","ticker":"CRWV","kind":"sentiment","value":73,"meta":{"bull":8,"bear":3}}
+{"id":"ec439350b9860563","ts":"2026-08-12T23:07:49.310Z","date":"2026-08-12","source":"apewisdom","ticker":"OPEN","kind":"attention","value":13,"meta":{"rank":50,"upvotes":11,"prev24h":4}}
