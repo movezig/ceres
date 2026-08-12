@@ -12264,3 +12264,12 @@
 {"id":"5d7886f4717970fc","ts":"2026-08-12T12:04:19.733Z","date":"2026-08-12","source":"stocktwits","ticker":"ANNX","kind":"attention","value":1221,"meta":{"rank":26,"sector":"HealthTechnology"}}
 {"id":"6be7a9cc8f6a7b9d","ts":"2026-08-12T12:04:21.836Z","date":"2026-08-12","source":"apewisdom","ticker":"LINK","kind":"attention","value":10,"meta":{"rank":49,"upvotes":24,"prev24h":6}}
 {"id":"64f32c0753e1792d","ts":"2026-08-12T12:04:21.836Z","date":"2026-08-12","source":"apewisdom","ticker":"FLY","kind":"attention","value":10,"meta":{"rank":50,"upvotes":12,"prev24h":1}}
+{"id":"84d63a3bac9eedb0","ts":"2026-08-12T13:53:48.087Z","date":"2026-08-12","source":"stocktwits","ticker":"QS","kind":"attention","value":66717,"meta":{"rank":10,"sector":"ProducerManufacturing"}}
+{"id":"1d0e65dfbe307753","ts":"2026-08-12T13:53:48.088Z","date":"2026-08-12","source":"stocktwits","ticker":"BE","kind":"attention","value":32640,"meta":{"rank":14,"sector":"ElectronicTechnology"}}
+{"id":"2771362028323d64","ts":"2026-08-12T13:53:48.088Z","date":"2026-08-12","source":"stocktwits","ticker":"B","kind":"attention","value":32208,"meta":{"rank":16,"sector":"NonEnergyMinerals"}}
+{"id":"6e6df50d8a84bc90","ts":"2026-08-12T13:53:48.088Z","date":"2026-08-12","source":"stocktwits","ticker":"QUBT","kind":"attention","value":33460,"meta":{"rank":20,"sector":"TechnologyServices"}}
+{"id":"f15409c822d09728","ts":"2026-08-12T13:53:48.088Z","date":"2026-08-12","source":"stocktwits","ticker":"LUNR","kind":"attention","value":38535,"meta":{"rank":29,"sector":"ElectronicTechnology"}}
+{"id":"7c841688b3dc3af6","ts":"2026-08-12T13:53:48.088Z","date":"2026-08-12","source":"stocktwits","ticker":"NOK","kind":"attention","value":114214,"meta":{"rank":30,"sector":"ElectronicTechnology"}}
+{"id":"771a3f9bb50c6ac2","ts":"2026-08-12T13:53:50.028Z","date":"2026-08-12","source":"apewisdom","ticker":"IBKR","kind":"attention","value":13,"meta":{"rank":41,"upvotes":21,"prev24h":3}}
+{"id":"29fa4e43a09ab06f","ts":"2026-08-12T13:53:50.028Z","date":"2026-08-12","source":"apewisdom","ticker":"PUMP","kind":"attention","value":11,"meta":{"rank":47,"upvotes":40,"prev24h":4}}
+{"id":"b5654cc6d74e7148","ts":"2026-08-12T13:53:50.029Z","date":"2026-08-12","source":"apewisdom","ticker":"LENZ","kind":"attention","value":10,"meta":{"rank":50,"upvotes":2,"prev24h":0}}
