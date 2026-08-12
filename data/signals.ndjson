@@ -12255,3 +12255,12 @@
 {"id":"1ed12718a0053893","ts":"2026-08-12T10:31:55.773Z","date":"2026-08-12","source":"stocktwits","ticker":"LULU","kind":"attention","value":48947,"meta":{"rank":30,"sector":"ConsumerNonDurables"}}
 {"id":"5e5d8a9ec9a7066b","ts":"2026-08-12T10:31:57.844Z","date":"2026-08-12","source":"apewisdom","ticker":"CBRS","kind":"attention","value":11,"meta":{"rank":45,"upvotes":21,"prev24h":1}}
 {"id":"ad29d5a7289492c0","ts":"2026-08-12T10:31:57.844Z","date":"2026-08-12","source":"apewisdom","ticker":"ONON","kind":"attention","value":11,"meta":{"rank":47,"upvotes":23,"prev24h":1}}
+{"id":"9aca330fd795c655","ts":"2026-08-12T12:04:19.732Z","date":"2026-08-12","source":"stocktwits","ticker":"WYFI","kind":"attention","value":6918,"meta":{"rank":9,"sector":"TechnologyServices"}}
+{"id":"9bfdfd3f21432400","ts":"2026-08-12T12:04:19.732Z","date":"2026-08-12","source":"stocktwits","ticker":"WRD","kind":"attention","value":4513,"meta":{"rank":12,"sector":"TechnologyServices"}}
+{"id":"fa6d66165f102332","ts":"2026-08-12T12:04:19.732Z","date":"2026-08-12","source":"stocktwits","ticker":"GRRR","kind":"attention","value":25193,"meta":{"rank":13,"sector":"TechnologyServices"}}
+{"id":"49dd916cc6c830f2","ts":"2026-08-12T12:04:19.732Z","date":"2026-08-12","source":"stocktwits","ticker":"UVIX","kind":"attention","value":7229,"meta":{"rank":14,"sector":"Miscellaneous"}}
+{"id":"f1a3f6ae6afc3947","ts":"2026-08-12T12:04:19.733Z","date":"2026-08-12","source":"stocktwits","ticker":"NVDA","kind":"attention","value":658476,"meta":{"rank":18,"sector":"ElectronicTechnology"}}
+{"id":"970cacec262bce37","ts":"2026-08-12T12:04:19.733Z","date":"2026-08-12","source":"stocktwits","ticker":"AVAV","kind":"attention","value":13014,"meta":{"rank":20,"sector":"ElectronicTechnology"}}
+{"id":"5d7886f4717970fc","ts":"2026-08-12T12:04:19.733Z","date":"2026-08-12","source":"stocktwits","ticker":"ANNX","kind":"attention","value":1221,"meta":{"rank":26,"sector":"HealthTechnology"}}
+{"id":"6be7a9cc8f6a7b9d","ts":"2026-08-12T12:04:21.836Z","date":"2026-08-12","source":"apewisdom","ticker":"LINK","kind":"attention","value":10,"meta":{"rank":49,"upvotes":24,"prev24h":6}}
+{"id":"64f32c0753e1792d","ts":"2026-08-12T12:04:21.836Z","date":"2026-08-12","source":"apewisdom","ticker":"FLY","kind":"attention","value":10,"meta":{"rank":50,"upvotes":12,"prev24h":1}}
