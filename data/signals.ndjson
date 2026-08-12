@@ -12306,3 +12306,13 @@
 {"id":"ef2c0e92ae7d3ce3","ts":"2026-08-12T17:24:28.777Z","date":"2026-08-12","source":"apewisdom","ticker":"DNUT","kind":"attention","value":25,"meta":{"rank":26,"upvotes":264,"prev24h":1}}
 {"id":"e5a47771a5aabd08","ts":"2026-08-12T17:24:28.777Z","date":"2026-08-12","source":"apewisdom","ticker":"ES","kind":"attention","value":14,"meta":{"rank":42,"upvotes":21,"prev24h":12}}
 {"id":"5bfa84ed8b82c622","ts":"2026-08-12T17:24:28.777Z","date":"2026-08-12","source":"apewisdom","ticker":"SOFI","kind":"attention","value":12,"meta":{"rank":49,"upvotes":18,"prev24h":3}}
+{"id":"d3293ee8ad1cf1bb","ts":"2026-08-12T19:32:11.384Z","date":"2026-08-12","source":"stocktwits","ticker":"MELI","kind":"attention","value":22388,"meta":{"rank":14,"sector":"RetailTrade"}}
+{"id":"8722456a157625fa","ts":"2026-08-12T19:32:11.385Z","date":"2026-08-12","source":"stocktwits","ticker":"LEGN","kind":"attention","value":1358,"meta":{"rank":21,"sector":"HealthTechnology"}}
+{"id":"4eadbdb3a859301e","ts":"2026-08-12T19:32:11.385Z","date":"2026-08-12","source":"stocktwits","ticker":"VKTX","kind":"attention","value":38372,"meta":{"rank":24,"sector":"HealthTechnology"}}
+{"id":"0574b65f0d7492f2","ts":"2026-08-12T19:32:11.385Z","date":"2026-08-12","source":"stocktwits","ticker":"IREN","kind":"attention","value":48026,"meta":{"rank":25,"sector":"TechnologyServices"}}
+{"id":"c666959833122885","ts":"2026-08-12T19:32:11.385Z","date":"2026-08-12","source":"stocktwits","ticker":"CVNA","kind":"attention","value":41530,"meta":{"rank":28,"sector":"RetailTrade"}}
+{"id":"b21ab2b44ee9f7e3","ts":"2026-08-12T19:32:11.385Z","date":"2026-08-12","source":"stocktwits","ticker":"HOOD","kind":"attention","value":99720,"meta":{"rank":30,"sector":"Finance"}}
+{"id":"167ef0268b8108da","ts":"2026-08-12T19:32:13.063Z","date":"2026-08-12","source":"apewisdom","ticker":"CSCO","kind":"attention","value":22,"meta":{"rank":28,"upvotes":94,"prev24h":1}}
+{"id":"96943f36fbe720f1","ts":"2026-08-12T19:32:13.063Z","date":"2026-08-12","source":"apewisdom","ticker":"ON","kind":"attention","value":14,"meta":{"rank":44,"upvotes":100,"prev24h":7}}
+{"id":"4e43ee47dabf16ca","ts":"2026-08-12T19:32:13.063Z","date":"2026-08-12","source":"apewisdom","ticker":"UBER","kind":"attention","value":13,"meta":{"rank":46,"upvotes":18,"prev24h":1}}
+{"id":"6e604294f6e9f29a","ts":"2026-08-12T19:32:13.063Z","date":"2026-08-12","source":"apewisdom","ticker":"APLD","kind":"attention","value":13,"meta":{"rank":48,"upvotes":27,"prev24h":1}}
