@@ -13136,3 +13136,12 @@
 {"id":"1a22744246081060","ts":"2026-08-13T22:07:46.425Z","date":"2026-08-13","source":"stocktwits","ticker":"TRLV","kind":"attention","value":7681,"meta":{"rank":27,"sector":"ProcessIndustries"}}
 {"id":"58b153cf603152f6","ts":"2026-08-13T22:07:46.425Z","date":"2026-08-13","source":"stocktwits","ticker":"TTWO","kind":"attention","value":23237,"meta":{"rank":28,"sector":"TechnologyServices"}}
 {"id":"599f8ac99e92f9f7","ts":"2026-08-13T22:07:46.425Z","date":"2026-08-13","source":"stocktwits","ticker":"LPTH","kind":"attention","value":8498,"meta":{"rank":30,"sector":"ElectronicTechnology"}}
+{"id":"7952d4fb2121a4cb","ts":"2026-08-13T23:09:08.327Z","date":"2026-08-13","source":"stocktwits","ticker":"RCAT","kind":"attention","value":28229,"meta":{"rank":13,"sector":"TechnologyServices"}}
+{"id":"373d3428265865c8","ts":"2026-08-13T23:09:08.327Z","date":"2026-08-13","source":"stocktwits","ticker":"BRUN","kind":"attention","value":2282,"meta":{"rank":14,"sector":"CommercialServices"}}
+{"id":"a8e7cbbb43e025d6","ts":"2026-08-13T23:09:08.327Z","date":"2026-08-13","source":"stocktwits","ticker":"CHTR","kind":"attention","value":4206,"meta":{"rank":15,"sector":"ConsumerServices"}}
+{"id":"9a87aa9d561f165a","ts":"2026-08-13T23:09:08.328Z","date":"2026-08-13","source":"stocktwits","ticker":"PENN","kind":"attention","value":36444,"meta":{"rank":23,"sector":"ConsumerServices"}}
+{"id":"40f6c662b6e35776","ts":"2026-08-13T23:09:08.328Z","date":"2026-08-13","source":"stocktwits","ticker":"DJT","kind":"attention","value":115533,"meta":{"rank":25,"sector":"Finance"}}
+{"id":"dca00b583d67d8b0","ts":"2026-08-13T23:09:08.328Z","date":"2026-08-13","source":"stocktwits","ticker":"FLUT","kind":"attention","value":2004,"meta":{"rank":27,"sector":"ConsumerServices"}}
+{"id":"eaf9825a71bf6c79","ts":"2026-08-13T23:09:08.328Z","date":"2026-08-13","source":"stocktwits","ticker":"KLAR","kind":"attention","value":6886,"meta":{"rank":28,"sector":"CommercialServices"}}
+{"id":"fa2543de2c0103a7","ts":"2026-08-13T23:09:08.328Z","date":"2026-08-13","source":"stocktwits","ticker":"BSX","kind":"attention","value":8355,"meta":{"rank":29,"sector":"HealthTechnology"}}
+{"id":"427a5d90fea62f0c","ts":"2026-08-13T23:09:08.328Z","date":"2026-08-13","source":"stocktwits","ticker":"SHAK","kind":"attention","value":14158,"meta":{"rank":30,"sector":"ConsumerServices"}}
