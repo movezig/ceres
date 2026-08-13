@@ -12763,3 +12763,12 @@
 {"id":"3a3ebe5584c25a4e","ts":"2026-08-13T10:33:52.420Z","date":"2026-08-13","source":"stocktwits","ticker":"SE","kind":"sentiment","value":100,"meta":{"bull":9,"bear":0}}
 {"id":"ac521e218d4647e5","ts":"2026-08-13T10:33:54.272Z","date":"2026-08-13","source":"apewisdom","ticker":"DELL","kind":"attention","value":17,"meta":{"rank":41,"upvotes":29,"prev24h":7}}
 {"id":"f5db19d4ced086ff","ts":"2026-08-13T10:33:54.272Z","date":"2026-08-13","source":"apewisdom","ticker":"NOW","kind":"attention","value":14,"meta":{"rank":47,"upvotes":102,"prev24h":16}}
+{"id":"0dfd9aec059c1cd2","ts":"2026-08-13T12:04:42.125Z","date":"2026-08-13","source":"stocktwits","ticker":"SGML","kind":"attention","value":3644,"meta":{"rank":14,"sector":"NonEnergyMinerals"}}
+{"id":"5ca6c34e0e892270","ts":"2026-08-13T12:04:42.125Z","date":"2026-08-13","source":"stocktwits","ticker":"ABEO","kind":"attention","value":11012,"meta":{"rank":16,"sector":"HealthTechnology"}}
+{"id":"f0df49e197d1b765","ts":"2026-08-13T12:04:42.125Z","date":"2026-08-13","source":"stocktwits","ticker":"CADL","kind":"attention","value":9912,"meta":{"rank":18,"sector":"HealthTechnology"}}
+{"id":"150c3f49d9ac356d","ts":"2026-08-13T12:04:42.125Z","date":"2026-08-13","source":"stocktwits","ticker":"RKT","kind":"attention","value":58318,"meta":{"rank":22,"sector":"Finance"}}
+{"id":"3d7a9cd4ad56a0af","ts":"2026-08-13T12:04:42.125Z","date":"2026-08-13","source":"stocktwits","ticker":"VST","kind":"attention","value":13714,"meta":{"rank":24,"sector":"Utilities"}}
+{"id":"a3d37acd1836b63e","ts":"2026-08-13T12:04:42.125Z","date":"2026-08-13","source":"stocktwits","ticker":"SPY","kind":"attention","value":635951,"meta":{"rank":25,"sector":"Miscellaneous"}}
+{"id":"1858ee12c33d0742","ts":"2026-08-13T12:04:42.126Z","date":"2026-08-13","source":"stocktwits","ticker":"OSS","kind":"attention","value":7356,"meta":{"rank":28,"sector":"ElectronicTechnology"}}
+{"id":"59be4278df820849","ts":"2026-08-13T12:04:42.126Z","date":"2026-08-13","source":"stocktwits","ticker":"HROW","kind":"attention","value":3458,"meta":{"rank":29,"sector":"HealthTechnology"}}
+{"id":"81099c98e09af60a","ts":"2026-08-13T12:04:43.792Z","date":"2026-08-13","source":"apewisdom","ticker":"SNAP","kind":"attention","value":13,"meta":{"rank":50,"upvotes":12,"prev24h":1}}
