@@ -12772,3 +12772,13 @@
 {"id":"1858ee12c33d0742","ts":"2026-08-13T12:04:42.126Z","date":"2026-08-13","source":"stocktwits","ticker":"OSS","kind":"attention","value":7356,"meta":{"rank":28,"sector":"ElectronicTechnology"}}
 {"id":"59be4278df820849","ts":"2026-08-13T12:04:42.126Z","date":"2026-08-13","source":"stocktwits","ticker":"HROW","kind":"attention","value":3458,"meta":{"rank":29,"sector":"HealthTechnology"}}
 {"id":"81099c98e09af60a","ts":"2026-08-13T12:04:43.792Z","date":"2026-08-13","source":"apewisdom","ticker":"SNAP","kind":"attention","value":13,"meta":{"rank":50,"upvotes":12,"prev24h":1}}
+{"id":"91947cd30228a507","ts":"2026-08-13T13:54:28.111Z","date":"2026-08-13","source":"stocktwits","ticker":"IREN","kind":"attention","value":48170,"meta":{"rank":5,"sector":"TechnologyServices"}}
+{"id":"bec1f68fb9c94e97","ts":"2026-08-13T13:54:28.111Z","date":"2026-08-13","source":"stocktwits","ticker":"CRMD","kind":"attention","value":23443,"meta":{"rank":6,"sector":"HealthTechnology"}}
+{"id":"bee5f3284a1992a9","ts":"2026-08-13T13:54:28.112Z","date":"2026-08-13","source":"stocktwits","ticker":"PANW","kind":"attention","value":38923,"meta":{"rank":15,"sector":"TechnologyServices"}}
+{"id":"d939b244a0b51af1","ts":"2026-08-13T13:54:28.112Z","date":"2026-08-13","source":"stocktwits","ticker":"DXYZ","kind":"attention","value":8889,"meta":{"rank":17,"sector":null}}
+{"id":"d1938e3136eef302","ts":"2026-08-13T13:54:28.112Z","date":"2026-08-13","source":"stocktwits","ticker":"PSFE","kind":"attention","value":37378,"meta":{"rank":18,"sector":"CommercialServices"}}
+{"id":"a5adec9047b5b6f4","ts":"2026-08-13T13:54:28.112Z","date":"2026-08-13","source":"stocktwits","ticker":"ZIM","kind":"attention","value":15316,"meta":{"rank":20,"sector":"Transportation"}}
+{"id":"6c4704d3ae2f9806","ts":"2026-08-13T13:54:28.112Z","date":"2026-08-13","source":"stocktwits","ticker":"TGT","kind":"attention","value":50030,"meta":{"rank":21,"sector":"RetailTrade"}}
+{"id":"4117f744ab6b4009","ts":"2026-08-13T13:54:28.112Z","date":"2026-08-13","source":"stocktwits","ticker":"TSSI","kind":"attention","value":6100,"meta":{"rank":24,"sector":"TechnologyServices"}}
+{"id":"3444abeb6d53fdc9","ts":"2026-08-13T13:54:28.112Z","date":"2026-08-13","source":"stocktwits","ticker":"GSAT","kind":"attention","value":50684,"meta":{"rank":29,"sector":"Communications"}}
+{"id":"eab029aeb8f6e92f","ts":"2026-08-13T13:54:28.112Z","date":"2026-08-13","source":"stocktwits","ticker":"IMRX","kind":"attention","value":3103,"meta":{"rank":30,"sector":"HealthTechnology"}}
