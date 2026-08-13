@@ -12789,3 +12789,14 @@
 {"id":"0dac533fa5ebb49a","ts":"2026-08-13T15:28:23.910Z","date":"2026-08-13","source":"stocktwits","ticker":"MARA","kind":"attention","value":158030,"meta":{"rank":22,"sector":"TechnologyServices"}}
 {"id":"7c8e577394874707","ts":"2026-08-13T15:28:23.910Z","date":"2026-08-13","source":"stocktwits","ticker":"CRWV","kind":"attention","value":47792,"meta":{"rank":26,"sector":"TechnologyServices"}}
 {"id":"f1ca220b44a8bc9a","ts":"2026-08-13T15:28:26.375Z","date":"2026-08-13","source":"apewisdom","ticker":"ORCL","kind":"attention","value":16,"meta":{"rank":45,"upvotes":45,"prev24h":4}}
+{"id":"7bfad7bef0f62bc4","ts":"2026-08-13T17:25:05.918Z","date":"2026-08-12","source":"houseclerk","ticker":null,"kind":"ptr_filed","value":1,"meta":{"member":"Rob Bresnahan","district":"PA08","url":"https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035216.pdf"}}
+{"id":"c748e8b5979b0754","ts":"2026-08-13T17:25:05.920Z","date":"2026-08-12","source":"houseclerk","ticker":null,"kind":"ptr_filed","value":1,"meta":{"member":"Kevin Hern","district":"OK01","url":"https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035196.pdf"}}
+{"id":"f7c391ad23421304","ts":"2026-08-13T17:25:05.920Z","date":"2026-08-12","source":"houseclerk","ticker":null,"kind":"ptr_filed","value":1,"meta":{"member":"Mike Kelly","district":"PA16","url":"https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035209.pdf"}}
+{"id":"3683ef893315f93c","ts":"2026-08-13T17:25:06.391Z","date":"2026-08-13","source":"stocktwits","ticker":"SNDK","kind":"attention","value":33144,"meta":{"rank":6,"sector":"ElectronicTechnology"}}
+{"id":"839727aea5167a0b","ts":"2026-08-13T17:25:06.391Z","date":"2026-08-13","source":"stocktwits","ticker":"MDB","kind":"attention","value":21159,"meta":{"rank":18,"sector":"TechnologyServices"}}
+{"id":"73f3f0f5ac5f3279","ts":"2026-08-13T17:25:06.392Z","date":"2026-08-13","source":"stocktwits","ticker":"DNA","kind":"attention","value":12509,"meta":{"rank":19,"sector":"HealthServices"}}
+{"id":"1af908c7d8fc784d","ts":"2026-08-13T17:25:06.392Z","date":"2026-08-13","source":"stocktwits","ticker":"NVAX","kind":"attention","value":107543,"meta":{"rank":24,"sector":"HealthTechnology"}}
+{"id":"1a7c8eda744802e2","ts":"2026-08-13T17:25:06.392Z","date":"2026-08-13","source":"stocktwits","ticker":"BULL","kind":"attention","value":24225,"meta":{"rank":26,"sector":"Finance"}}
+{"id":"629f1f82fa413aca","ts":"2026-08-13T17:25:08.279Z","date":"2026-08-13","source":"apewisdom","ticker":"AMAT","kind":"attention","value":25,"meta":{"rank":35,"upvotes":40,"prev24h":4}}
+{"id":"f439d9a86912f6b4","ts":"2026-08-13T17:25:08.279Z","date":"2026-08-13","source":"apewisdom","ticker":"NXXT","kind":"attention","value":16,"meta":{"rank":45,"upvotes":38,"prev24h":8}}
+{"id":"0773b7dcf4fd033d","ts":"2026-08-13T17:25:08.279Z","date":"2026-08-13","source":"apewisdom","ticker":"HOOD","kind":"attention","value":16,"meta":{"rank":46,"upvotes":51,"prev24h":16}}
