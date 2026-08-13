@@ -12782,3 +12782,10 @@
 {"id":"4117f744ab6b4009","ts":"2026-08-13T13:54:28.112Z","date":"2026-08-13","source":"stocktwits","ticker":"TSSI","kind":"attention","value":6100,"meta":{"rank":24,"sector":"TechnologyServices"}}
 {"id":"3444abeb6d53fdc9","ts":"2026-08-13T13:54:28.112Z","date":"2026-08-13","source":"stocktwits","ticker":"GSAT","kind":"attention","value":50684,"meta":{"rank":29,"sector":"Communications"}}
 {"id":"eab029aeb8f6e92f","ts":"2026-08-13T13:54:28.112Z","date":"2026-08-13","source":"stocktwits","ticker":"IMRX","kind":"attention","value":3103,"meta":{"rank":30,"sector":"HealthTechnology"}}
+{"id":"d8462d3bd501afe7","ts":"2026-08-13T15:28:23.898Z","date":"2026-08-13","source":"stocktwits","ticker":"NLST","kind":"attention","value":25725,"meta":{"rank":7,"sector":"ElectronicTechnology"}}
+{"id":"9868f771052bd4e5","ts":"2026-08-13T15:28:23.909Z","date":"2026-08-13","source":"stocktwits","ticker":"PSKY","kind":"attention","value":26599,"meta":{"rank":13,"sector":"ConsumerServices"}}
+{"id":"982dc6ca7ff7712e","ts":"2026-08-13T15:28:23.910Z","date":"2026-08-13","source":"stocktwits","ticker":"CMG","kind":"attention","value":62212,"meta":{"rank":18,"sector":"ConsumerServices"}}
+{"id":"9cfec4d1f642d10d","ts":"2026-08-13T15:28:23.910Z","date":"2026-08-13","source":"stocktwits","ticker":"BRK-B","kind":"attention","value":47379,"meta":{"rank":21,"sector":"Finance"}}
+{"id":"0dac533fa5ebb49a","ts":"2026-08-13T15:28:23.910Z","date":"2026-08-13","source":"stocktwits","ticker":"MARA","kind":"attention","value":158030,"meta":{"rank":22,"sector":"TechnologyServices"}}
+{"id":"7c8e577394874707","ts":"2026-08-13T15:28:23.910Z","date":"2026-08-13","source":"stocktwits","ticker":"CRWV","kind":"attention","value":47792,"meta":{"rank":26,"sector":"TechnologyServices"}}
+{"id":"f1ca220b44a8bc9a","ts":"2026-08-13T15:28:26.375Z","date":"2026-08-13","source":"apewisdom","ticker":"ORCL","kind":"attention","value":16,"meta":{"rank":45,"upvotes":45,"prev24h":4}}
