@@ -13312,3 +13312,11 @@
 {"id":"bef3443431d3acfa","ts":"2026-08-14T16:10:45.373Z","date":"2026-08-14","source":"stocktwits","ticker":"CBRS","kind":"attention","value":12278,"meta":{"rank":29,"sector":"TechnologyServices"}}
 {"id":"f039f2cb182f6c96","ts":"2026-08-14T16:10:45.373Z","date":"2026-08-14","source":"stocktwits","ticker":"ABEO","kind":"attention","value":11025,"meta":{"rank":30,"sector":"HealthTechnology"}}
 {"id":"8e8b961e0e7a0c00","ts":"2026-08-14T16:10:47.920Z","date":"2026-08-14","source":"apewisdom","ticker":"CC","kind":"attention","value":17,"meta":{"rank":47,"upvotes":30,"prev24h":12}}
+{"id":"e11fcbcffc0c41da","ts":"2026-08-14T17:18:01.356Z","date":"2026-08-14","source":"stocktwits","ticker":"FUBO","kind":"attention","value":67926,"meta":{"rank":3,"sector":"TechnologyServices"}}
+{"id":"cbbfa89e3f38c144","ts":"2026-08-14T17:18:01.356Z","date":"2026-08-14","source":"stocktwits","ticker":"CIFR","kind":"attention","value":22757,"meta":{"rank":4,"sector":"TechnologyServices"}}
+{"id":"ea76d19a308da310","ts":"2026-08-14T17:18:01.356Z","date":"2026-08-14","source":"stocktwits","ticker":"NBIS","kind":"attention","value":50529,"meta":{"rank":6,"sector":"TechnologyServices"}}
+{"id":"7c9feb01ff5d835e","ts":"2026-08-14T17:18:01.356Z","date":"2026-08-14","source":"stocktwits","ticker":"USAR","kind":"attention","value":19427,"meta":{"rank":13,"sector":"Finance"}}
+{"id":"0e961093edbbc178","ts":"2026-08-14T17:18:01.357Z","date":"2026-08-14","source":"stocktwits","ticker":"GENI","kind":"attention","value":6958,"meta":{"rank":22,"sector":"TechnologyServices"}}
+{"id":"f62bf704c52c08ca","ts":"2026-08-14T17:18:01.357Z","date":"2026-08-14","source":"stocktwits","ticker":"UUUU","kind":"attention","value":23231,"meta":{"rank":27,"sector":"NonEnergyMinerals"}}
+{"id":"bdb6337ac224d042","ts":"2026-08-14T17:18:01.357Z","date":"2026-08-14","source":"stocktwits","ticker":"JPM","kind":"attention","value":98147,"meta":{"rank":29,"sector":"Finance"}}
+{"id":"12f025920cb1d34e","ts":"2026-08-14T17:18:01.357Z","date":"2026-08-14","source":"stocktwits","ticker":"WING","kind":"attention","value":5011,"meta":{"rank":30,"sector":"ConsumerServices"}}
