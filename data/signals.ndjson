@@ -13326,3 +13326,13 @@
 {"id":"f5b114b60b7df89a","ts":"2026-08-14T18:12:08.526Z","date":"2026-08-14","source":"stocktwits","ticker":"UPS","kind":"attention","value":29470,"meta":{"rank":30,"sector":"Transportation"}}
 {"id":"fda99fba6eba2e1a","ts":"2026-08-14T18:12:10.624Z","date":"2026-08-14","source":"apewisdom","ticker":"NOK","kind":"attention","value":16,"meta":{"rank":48,"upvotes":34,"prev24h":4}}
 {"id":"fbdc3c04cea85481","ts":"2026-08-14T18:12:10.624Z","date":"2026-08-14","source":"apewisdom","ticker":"HR","kind":"attention","value":15,"meta":{"rank":50,"upvotes":187,"prev24h":3}}
+{"id":"9e82c27f53537617","ts":"2026-08-14T19:24:58.296Z","date":"2026-08-14","source":"stocktwits","ticker":"GRRR","kind":"attention","value":25183,"meta":{"rank":6,"sector":"TechnologyServices"}}
+{"id":"b9e821a7c86ffa50","ts":"2026-08-14T19:24:58.296Z","date":"2026-08-14","source":"stocktwits","ticker":"DELL","kind":"attention","value":29285,"meta":{"rank":8,"sector":"ElectronicTechnology"}}
+{"id":"eb3dd98a085a32b8","ts":"2026-08-14T19:24:58.297Z","date":"2026-08-14","source":"stocktwits","ticker":"FNMA","kind":"attention","value":17807,"meta":{"rank":14,"sector":"Finance"}}
+{"id":"3aca288fa3c61718","ts":"2026-08-14T19:24:58.297Z","date":"2026-08-14","source":"stocktwits","ticker":"ORCL","kind":"attention","value":68589,"meta":{"rank":16,"sector":"TechnologyServices"}}
+{"id":"16bfd3416ead2ea9","ts":"2026-08-14T19:24:58.297Z","date":"2026-08-14","source":"stocktwits","ticker":"CAG","kind":"attention","value":4226,"meta":{"rank":18,"sector":"ConsumerNonDurables"}}
+{"id":"c9a4e437f4d75591","ts":"2026-08-14T19:24:58.297Z","date":"2026-08-14","source":"stocktwits","ticker":"IOVA","kind":"attention","value":19642,"meta":{"rank":21,"sector":"HealthTechnology"}}
+{"id":"ab285e25debb9527","ts":"2026-08-14T19:24:58.297Z","date":"2026-08-14","source":"stocktwits","ticker":"DIA","kind":"attention","value":76538,"meta":{"rank":22,"sector":"Miscellaneous"}}
+{"id":"3e280a47292e1562","ts":"2026-08-14T19:24:58.297Z","date":"2026-08-14","source":"stocktwits","ticker":"VOYG","kind":"attention","value":10153,"meta":{"rank":25,"sector":"TechnologyServices"}}
+{"id":"4fd9736f93c39cba","ts":"2026-08-14T19:24:58.297Z","date":"2026-08-14","source":"stocktwits","ticker":"SMR","kind":"attention","value":24696,"meta":{"rank":28,"sector":"ProducerManufacturing"}}
+{"id":"e8b685f3b68e393c","ts":"2026-08-14T19:25:00.406Z","date":"2026-08-14","source":"apewisdom","ticker":"AAOI","kind":"attention","value":20,"meta":{"rank":33,"upvotes":19,"prev24h":4}}
