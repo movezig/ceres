@@ -13320,3 +13320,9 @@
 {"id":"f62bf704c52c08ca","ts":"2026-08-14T17:18:01.357Z","date":"2026-08-14","source":"stocktwits","ticker":"UUUU","kind":"attention","value":23231,"meta":{"rank":27,"sector":"NonEnergyMinerals"}}
 {"id":"bdb6337ac224d042","ts":"2026-08-14T17:18:01.357Z","date":"2026-08-14","source":"stocktwits","ticker":"JPM","kind":"attention","value":98147,"meta":{"rank":29,"sector":"Finance"}}
 {"id":"12f025920cb1d34e","ts":"2026-08-14T17:18:01.357Z","date":"2026-08-14","source":"stocktwits","ticker":"WING","kind":"attention","value":5011,"meta":{"rank":30,"sector":"ConsumerServices"}}
+{"id":"b41b330637c7b923","ts":"2026-08-14T18:12:08.526Z","date":"2026-08-14","source":"stocktwits","ticker":"WULF","kind":"attention","value":30817,"meta":{"rank":15,"sector":"TechnologyServices"}}
+{"id":"23b54a3b8553200b","ts":"2026-08-14T18:12:08.526Z","date":"2026-08-14","source":"stocktwits","ticker":"TU","kind":"attention","value":1538,"meta":{"rank":25,"sector":"Communications"}}
+{"id":"80c48ca8b29ecd73","ts":"2026-08-14T18:12:08.526Z","date":"2026-08-14","source":"stocktwits","ticker":"BW","kind":"attention","value":6905,"meta":{"rank":28,"sector":"ElectronicTechnology"}}
+{"id":"f5b114b60b7df89a","ts":"2026-08-14T18:12:08.526Z","date":"2026-08-14","source":"stocktwits","ticker":"UPS","kind":"attention","value":29470,"meta":{"rank":30,"sector":"Transportation"}}
+{"id":"fda99fba6eba2e1a","ts":"2026-08-14T18:12:10.624Z","date":"2026-08-14","source":"apewisdom","ticker":"NOK","kind":"attention","value":16,"meta":{"rank":48,"upvotes":34,"prev24h":4}}
+{"id":"fbdc3c04cea85481","ts":"2026-08-14T18:12:10.624Z","date":"2026-08-14","source":"apewisdom","ticker":"HR","kind":"attention","value":15,"meta":{"rank":50,"upvotes":187,"prev24h":3}}
