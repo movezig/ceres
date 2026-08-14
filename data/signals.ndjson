@@ -13274,3 +13274,13 @@
 {"id":"927c7769bf54aec7","ts":"2026-08-14T12:02:55.627Z","date":"2026-08-14","source":"stocktwits","ticker":"SPRY","kind":"attention","value":2485,"meta":{"rank":28,"sector":"HealthTechnology"}}
 {"id":"8e1f0cb6871b14c8","ts":"2026-08-14T12:02:55.627Z","date":"2026-08-14","source":"stocktwits","ticker":"WU","kind":"attention","value":2757,"meta":{"rank":29,"sector":"Finance"}}
 {"id":"0bb727e8e2222465","ts":"2026-08-14T12:02:57.591Z","date":"2026-08-14","source":"apewisdom","ticker":"CAPR","kind":"attention","value":18,"meta":{"rank":49,"upvotes":32,"prev24h":1}}
+{"id":"77485af44a2bc802","ts":"2026-08-14T13:50:19.860Z","date":"2026-08-14","source":"stocktwits","ticker":"AMPX","kind":"attention","value":9046,"meta":{"rank":5,"sector":"ProducerManufacturing"}}
+{"id":"c99cef20320683a2","ts":"2026-08-14T13:50:19.860Z","date":"2026-08-14","source":"stocktwits","ticker":"SGML","kind":"attention","value":3659,"meta":{"rank":8,"sector":"NonEnergyMinerals"}}
+{"id":"74878fc2325a5fcd","ts":"2026-08-14T13:50:19.861Z","date":"2026-08-14","source":"stocktwits","ticker":"TGT","kind":"attention","value":50034,"meta":{"rank":16,"sector":"RetailTrade"}}
+{"id":"c968f9df20c7e455","ts":"2026-08-14T13:50:19.861Z","date":"2026-08-14","source":"stocktwits","ticker":"REGN","kind":"attention","value":17553,"meta":{"rank":17,"sector":"HealthTechnology"}}
+{"id":"b32198580fb7145d","ts":"2026-08-14T13:50:19.861Z","date":"2026-08-14","source":"stocktwits","ticker":"NNE","kind":"attention","value":12842,"meta":{"rank":21,"sector":"ProducerManufacturing"}}
+{"id":"09a363c0122fe44c","ts":"2026-08-14T13:50:19.861Z","date":"2026-08-14","source":"stocktwits","ticker":"SMCI","kind":"attention","value":92332,"meta":{"rank":22,"sector":"ElectronicTechnology"}}
+{"id":"1de54a85c78e5ff0","ts":"2026-08-14T13:50:19.861Z","date":"2026-08-14","source":"stocktwits","ticker":"AEM","kind":"attention","value":4931,"meta":{"rank":23,"sector":"NonEnergyMinerals"}}
+{"id":"df21ba9bfd690d0a","ts":"2026-08-14T13:50:19.861Z","date":"2026-08-14","source":"stocktwits","ticker":"AFRM","kind":"attention","value":39498,"meta":{"rank":25,"sector":"Finance"}}
+{"id":"efd844a2bfb1d342","ts":"2026-08-14T13:50:19.861Z","date":"2026-08-14","source":"stocktwits","ticker":"QNT","kind":"attention","value":2822,"meta":{"rank":26,"sector":"ElectronicTechnology"}}
+{"id":"cbd94c9685c68703","ts":"2026-08-14T13:50:19.861Z","date":"2026-08-14","source":"stocktwits","ticker":"NEM","kind":"attention","value":13361,"meta":{"rank":28,"sector":"NonEnergyMinerals"}}
