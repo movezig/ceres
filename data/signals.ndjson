@@ -14170,3 +14170,12 @@
 {"id":"8214f1a96726f5ff","ts":"2026-08-17T17:51:04.636Z","date":"2026-08-17","source":"stocktwits","ticker":"BKKT","kind":"attention","value":25358,"meta":{"rank":26,"sector":"CommercialServices"}}
 {"id":"155491ef4597067b","ts":"2026-08-17T17:51:04.636Z","date":"2026-08-17","source":"stocktwits","ticker":"ON","kind":"attention","value":12977,"meta":{"rank":29,"sector":"ElectronicTechnology"}}
 {"id":"520b92895f5f180e","ts":"2026-08-17T17:51:04.636Z","date":"2026-08-17","source":"stocktwits","ticker":"CLSK","kind":"attention","value":56782,"meta":{"rank":30,"sector":"TechnologyServices"}}
+{"id":"c9e4f6b32025ff5c","ts":"2026-08-17T19:05:15.381Z","date":"2026-08-17","source":"stocktwits","ticker":"NCLH","kind":"attention","value":39382,"meta":{"rank":6,"sector":"ConsumerServices"}}
+{"id":"8345f7eec8d8cdce","ts":"2026-08-17T19:05:15.382Z","date":"2026-08-17","source":"stocktwits","ticker":"HD","kind":"attention","value":45788,"meta":{"rank":15,"sector":"RetailTrade"}}
+{"id":"09a474bee1372089","ts":"2026-08-17T19:05:15.382Z","date":"2026-08-17","source":"stocktwits","ticker":"CRSR","kind":"attention","value":24322,"meta":{"rank":17,"sector":"TechnologyServices"}}
+{"id":"12fedeeda3b9d253","ts":"2026-08-17T19:05:15.382Z","date":"2026-08-17","source":"stocktwits","ticker":"UNG","kind":"attention","value":17626,"meta":{"rank":18,"sector":"Miscellaneous"}}
+{"id":"1405e4c2c56c6a1e","ts":"2026-08-17T19:05:15.382Z","date":"2026-08-17","source":"stocktwits","ticker":"FUBO","kind":"attention","value":67917,"meta":{"rank":19,"sector":"TechnologyServices"}}
+{"id":"4148ac7e63dc4de2","ts":"2026-08-17T19:05:15.382Z","date":"2026-08-17","source":"stocktwits","ticker":"LKNCY","kind":"attention","value":40141,"meta":{"rank":20,"sector":"ConsumerNonDurables"}}
+{"id":"a873d7490b63530a","ts":"2026-08-17T19:05:15.382Z","date":"2026-08-17","source":"stocktwits","ticker":"CAT","kind":"attention","value":35569,"meta":{"rank":25,"sector":"ProducerManufacturing"}}
+{"id":"791e596636d6d72b","ts":"2026-08-17T19:05:15.382Z","date":"2026-08-17","source":"stocktwits","ticker":"KHC","kind":"attention","value":16149,"meta":{"rank":26,"sector":"ConsumerNonDurables"}}
+{"id":"c70c65997f9e49bc","ts":"2026-08-17T19:05:17.791Z","date":"2026-08-17","source":"apewisdom","ticker":"USO","kind":"attention","value":14,"meta":{"rank":40,"upvotes":103,"prev24h":6}}
