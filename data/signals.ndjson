@@ -14179,3 +14179,5 @@
 {"id":"a873d7490b63530a","ts":"2026-08-17T19:05:15.382Z","date":"2026-08-17","source":"stocktwits","ticker":"CAT","kind":"attention","value":35569,"meta":{"rank":25,"sector":"ProducerManufacturing"}}
 {"id":"791e596636d6d72b","ts":"2026-08-17T19:05:15.382Z","date":"2026-08-17","source":"stocktwits","ticker":"KHC","kind":"attention","value":16149,"meta":{"rank":26,"sector":"ConsumerNonDurables"}}
 {"id":"c70c65997f9e49bc","ts":"2026-08-17T19:05:17.791Z","date":"2026-08-17","source":"apewisdom","ticker":"USO","kind":"attention","value":14,"meta":{"rank":40,"upvotes":103,"prev24h":6}}
+{"id":"9f867ab77ab8f087","ts":"2026-08-17T19:47:47.006Z","date":"2026-08-17","source":"stocktwits","ticker":"PR","kind":"attention","value":14942,"meta":{"rank":20,"sector":"EnergyMinerals"}}
+{"id":"81d5e67a55b852a7","ts":"2026-08-17T19:47:47.007Z","date":"2026-08-17","source":"stocktwits","ticker":"MRAM","kind":"attention","value":8853,"meta":{"rank":27,"sector":"ElectronicTechnology"}}
