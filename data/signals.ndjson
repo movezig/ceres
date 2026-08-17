@@ -14108,3 +14108,16 @@
 {"id":"373f0f53b68a04e9","ts":"2026-08-17T13:12:39.081Z","date":"2026-08-17","source":"stocktwits","ticker":"CRML","kind":"attention","value":13895,"meta":{"rank":30,"sector":"Finance"}}
 {"id":"ea84ba1025345aae","ts":"2026-08-17T13:12:41.293Z","date":"2026-08-17","source":"apewisdom","ticker":"KEEL","kind":"attention","value":11,"meta":{"rank":28,"upvotes":40,"prev24h":1}}
 {"id":"469e465731014918","ts":"2026-08-17T13:12:41.293Z","date":"2026-08-17","source":"apewisdom","ticker":"HIVE","kind":"attention","value":7,"meta":{"rank":50,"upvotes":20,"prev24h":1}}
+{"id":"23595b388acef3e4","ts":"2026-08-17T13:57:48.474Z","date":"2026-08-17","source":"stocktwits","ticker":"SCHW","kind":"attention","value":11645,"meta":{"rank":5,"sector":"Finance"}}
+{"id":"10bf6ff4c96b6dcf","ts":"2026-08-17T13:57:48.475Z","date":"2026-08-17","source":"stocktwits","ticker":"RIVN","kind":"attention","value":88416,"meta":{"rank":7,"sector":"ConsumerDurables"}}
+{"id":"1720395eebc4bb14","ts":"2026-08-17T13:57:48.475Z","date":"2026-08-17","source":"stocktwits","ticker":"TOYO","kind":"attention","value":1726,"meta":{"rank":13,"sector":"ElectronicTechnology"}}
+{"id":"db6e69842ec304e8","ts":"2026-08-17T13:57:48.475Z","date":"2026-08-17","source":"stocktwits","ticker":"FLO","kind":"attention","value":1501,"meta":{"rank":14,"sector":"ConsumerNonDurables"}}
+{"id":"28eb91e101fd21bf","ts":"2026-08-17T13:57:48.475Z","date":"2026-08-17","source":"stocktwits","ticker":"CHWY","kind":"attention","value":31140,"meta":{"rank":16,"sector":"RetailTrade"}}
+{"id":"2d27fac951285379","ts":"2026-08-17T13:57:48.475Z","date":"2026-08-17","source":"stocktwits","ticker":"SERV","kind":"attention","value":17468,"meta":{"rank":17,"sector":"ProducerManufacturing"}}
+{"id":"79786dbbf6b43a9d","ts":"2026-08-17T13:57:48.475Z","date":"2026-08-17","source":"stocktwits","ticker":"WRD","kind":"attention","value":4519,"meta":{"rank":18,"sector":"TechnologyServices"}}
+{"id":"1876bb9549cfeed3","ts":"2026-08-17T13:57:48.475Z","date":"2026-08-17","source":"stocktwits","ticker":"PURR","kind":"attention","value":25064,"meta":{"rank":19,"sector":"Finance"}}
+{"id":"25f4180d7b0ff4fd","ts":"2026-08-17T13:57:48.475Z","date":"2026-08-17","source":"stocktwits","ticker":"MELI","kind":"attention","value":22408,"meta":{"rank":23,"sector":"RetailTrade"}}
+{"id":"5db60ddc0e437688","ts":"2026-08-17T13:57:48.475Z","date":"2026-08-17","source":"stocktwits","ticker":"UBER","kind":"attention","value":130276,"meta":{"rank":25,"sector":"Transportation"}}
+{"id":"5ceb60640a552bbb","ts":"2026-08-17T13:57:48.475Z","date":"2026-08-17","source":"stocktwits","ticker":"BTGO","kind":"attention","value":791,"meta":{"rank":26,"sector":"TechnologyServices"}}
+{"id":"ae6ae5de195dd22f","ts":"2026-08-17T13:57:50.537Z","date":"2026-08-17","source":"apewisdom","ticker":"ET","kind":"attention","value":9,"meta":{"rank":36,"upvotes":15,"prev24h":4}}
+{"id":"4babcf53f7075b16","ts":"2026-08-17T13:57:50.538Z","date":"2026-08-17","source":"apewisdom","ticker":"EU","kind":"attention","value":9,"meta":{"rank":39,"upvotes":44,"prev24h":1}}
