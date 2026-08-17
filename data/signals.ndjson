@@ -14498,3 +14498,11 @@
 {"id":"c466d8c8318a34b7","ts":"2026-08-17T22:46:25.163Z","date":"2026-08-17","source":"stocktwits","ticker":"WMT","kind":"attention","value":137442,"meta":{"rank":28,"sector":"RetailTrade"}}
 {"id":"4eb3e06dded3af94","ts":"2026-08-17T22:46:25.163Z","date":"2026-08-17","source":"stocktwits","ticker":"ANNX","kind":"attention","value":1223,"meta":{"rank":29,"sector":"HealthTechnology"}}
 {"id":"33b4a25414806525","ts":"2026-08-17T22:46:25.163Z","date":"2026-08-17","source":"stocktwits","ticker":"WOLF","kind":"attention","value":20160,"meta":{"rank":30,"sector":"ElectronicTechnology"}}
+{"id":"b6132f10ead8d19e","ts":"2026-08-17T23:42:42.227Z","date":"2026-08-17","source":"stocktwits","ticker":"HYMC","kind":"attention","value":20693,"meta":{"rank":15,"sector":"NonEnergyMinerals"}}
+{"id":"9825d48dfcfe1f68","ts":"2026-08-17T23:42:42.227Z","date":"2026-08-17","source":"stocktwits","ticker":"COST","kind":"attention","value":64696,"meta":{"rank":18,"sector":"RetailTrade"}}
+{"id":"3f11aa1ca86cae7b","ts":"2026-08-17T23:42:42.227Z","date":"2026-08-17","source":"stocktwits","ticker":"SE","kind":"attention","value":28328,"meta":{"rank":22,"sector":"RetailTrade"}}
+{"id":"c65295207ae45412","ts":"2026-08-17T23:42:42.227Z","date":"2026-08-17","source":"stocktwits","ticker":"PSN","kind":"attention","value":1480,"meta":{"rank":25,"sector":"TechnologyServices"}}
+{"id":"3f63c0a18459c40a","ts":"2026-08-17T23:42:42.228Z","date":"2026-08-17","source":"stocktwits","ticker":"RVI","kind":"attention","value":3098,"meta":{"rank":26,"sector":"Miscellaneous"}}
+{"id":"a1df349eb05fdf4f","ts":"2026-08-17T23:42:42.228Z","date":"2026-08-17","source":"stocktwits","ticker":"NDAQ","kind":"attention","value":6422,"meta":{"rank":27,"sector":"Finance"}}
+{"id":"8bea2fb7dda16a1e","ts":"2026-08-17T23:42:42.228Z","date":"2026-08-17","source":"stocktwits","ticker":"ETON","kind":"attention","value":5739,"meta":{"rank":30,"sector":"HealthTechnology"}}
+{"id":"df598981a09ba705","ts":"2026-08-17T23:42:44.146Z","date":"2026-08-17","source":"apewisdom","ticker":"INTC","kind":"attention","value":11,"meta":{"rank":50,"upvotes":13,"prev24h":1}}
