@@ -14181,3 +14181,9 @@
 {"id":"c70c65997f9e49bc","ts":"2026-08-17T19:05:17.791Z","date":"2026-08-17","source":"apewisdom","ticker":"USO","kind":"attention","value":14,"meta":{"rank":40,"upvotes":103,"prev24h":6}}
 {"id":"9f867ab77ab8f087","ts":"2026-08-17T19:47:47.006Z","date":"2026-08-17","source":"stocktwits","ticker":"PR","kind":"attention","value":14942,"meta":{"rank":20,"sector":"EnergyMinerals"}}
 {"id":"81d5e67a55b852a7","ts":"2026-08-17T19:47:47.007Z","date":"2026-08-17","source":"stocktwits","ticker":"MRAM","kind":"attention","value":8853,"meta":{"rank":27,"sector":"ElectronicTechnology"}}
+{"id":"a6831426374298e8","ts":"2026-08-17T20:50:28.824Z","date":"2026-08-17","source":"stocktwits","ticker":"RDDT","kind":"attention","value":36341,"meta":{"rank":9,"sector":"TechnologyServices"}}
+{"id":"42d2a887405efb28","ts":"2026-08-17T20:50:28.824Z","date":"2026-08-17","source":"stocktwits","ticker":"PZZA","kind":"attention","value":5247,"meta":{"rank":12,"sector":"ConsumerServices"}}
+{"id":"64bcec9b93db0c20","ts":"2026-08-17T20:50:28.825Z","date":"2026-08-17","source":"stocktwits","ticker":"KLAR","kind":"attention","value":6946,"meta":{"rank":19,"sector":"CommercialServices"}}
+{"id":"3ee72284c620af7a","ts":"2026-08-17T20:50:28.825Z","date":"2026-08-17","source":"stocktwits","ticker":"LMND","kind":"attention","value":27515,"meta":{"rank":24,"sector":"Finance"}}
+{"id":"f753583ac570f7b7","ts":"2026-08-17T20:50:28.825Z","date":"2026-08-17","source":"stocktwits","ticker":"NU","kind":"attention","value":16323,"meta":{"rank":26,"sector":"Finance"}}
+{"id":"f6fafb6c0925e076","ts":"2026-08-17T20:50:28.825Z","date":"2026-08-17","source":"stocktwits","ticker":"AMLX","kind":"attention","value":2172,"meta":{"rank":29,"sector":"HealthTechnology"}}
