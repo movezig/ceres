@@ -14492,3 +14492,9 @@
 {"id":"26697f72fc6a2c23","ts":"2026-08-17T21:46:35.792Z","date":"2026-08-17","source":"stocktwits","ticker":"BETA","kind":"attention","value":1193,"meta":{"rank":29,"sector":"ElectronicTechnology"}}
 {"id":"59b2803d280df740","ts":"2026-08-17T21:46:35.792Z","date":"2026-08-17","source":"stocktwits","ticker":"WYFI","kind":"attention","value":7004,"meta":{"rank":30,"sector":"TechnologyServices"}}
 {"id":"57a8835b1f13d2e8","ts":"2026-08-17T21:46:37.739Z","date":"2026-08-17","source":"apewisdom","ticker":"AGI","kind":"attention","value":13,"meta":{"rank":45,"upvotes":20,"prev24h":5}}
+{"id":"168e7ea516949654","ts":"2026-08-17T22:46:25.148Z","date":"2026-08-17","source":"stocktwits","ticker":"KURA","kind":"attention","value":3733,"meta":{"rank":4,"sector":"HealthTechnology"}}
+{"id":"8eb141bc60e3a53c","ts":"2026-08-17T22:46:25.162Z","date":"2026-08-17","source":"stocktwits","ticker":"ABBV","kind":"attention","value":32817,"meta":{"rank":14,"sector":"HealthTechnology"}}
+{"id":"570c28e29be1d3d2","ts":"2026-08-17T22:46:25.163Z","date":"2026-08-17","source":"stocktwits","ticker":"JNJ","kind":"attention","value":49089,"meta":{"rank":24,"sector":"HealthTechnology"}}
+{"id":"c466d8c8318a34b7","ts":"2026-08-17T22:46:25.163Z","date":"2026-08-17","source":"stocktwits","ticker":"WMT","kind":"attention","value":137442,"meta":{"rank":28,"sector":"RetailTrade"}}
+{"id":"4eb3e06dded3af94","ts":"2026-08-17T22:46:25.163Z","date":"2026-08-17","source":"stocktwits","ticker":"ANNX","kind":"attention","value":1223,"meta":{"rank":29,"sector":"HealthTechnology"}}
+{"id":"33b4a25414806525","ts":"2026-08-17T22:46:25.163Z","date":"2026-08-17","source":"stocktwits","ticker":"WOLF","kind":"attention","value":20160,"meta":{"rank":30,"sector":"ElectronicTechnology"}}
