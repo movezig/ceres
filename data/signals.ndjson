@@ -14121,3 +14121,14 @@
 {"id":"5ceb60640a552bbb","ts":"2026-08-17T13:57:48.475Z","date":"2026-08-17","source":"stocktwits","ticker":"BTGO","kind":"attention","value":791,"meta":{"rank":26,"sector":"TechnologyServices"}}
 {"id":"ae6ae5de195dd22f","ts":"2026-08-17T13:57:50.537Z","date":"2026-08-17","source":"apewisdom","ticker":"ET","kind":"attention","value":9,"meta":{"rank":36,"upvotes":15,"prev24h":4}}
 {"id":"4babcf53f7075b16","ts":"2026-08-17T13:57:50.538Z","date":"2026-08-17","source":"apewisdom","ticker":"EU","kind":"attention","value":9,"meta":{"rank":39,"upvotes":44,"prev24h":1}}
+{"id":"09aa0c1a4fb472b4","ts":"2026-08-17T14:50:12.290Z","date":"2026-08-17","source":"stocktwits","ticker":"NKE","kind":"attention","value":137387,"meta":{"rank":4,"sector":"ConsumerNonDurables"}}
+{"id":"c176bf1f18427b66","ts":"2026-08-17T14:50:12.291Z","date":"2026-08-17","source":"stocktwits","ticker":"STLA","kind":"attention","value":11679,"meta":{"rank":15,"sector":"ConsumerDurables"}}
+{"id":"b4ba82622a075cbe","ts":"2026-08-17T14:50:12.291Z","date":"2026-08-17","source":"stocktwits","ticker":"QXO","kind":"attention","value":4585,"meta":{"rank":18,"sector":"DistributionServices"}}
+{"id":"90525df44c5e6eca","ts":"2026-08-17T14:50:12.291Z","date":"2026-08-17","source":"stocktwits","ticker":"CBRS","kind":"attention","value":12396,"meta":{"rank":24,"sector":"TechnologyServices"}}
+{"id":"ce1d6279c8c068e5","ts":"2026-08-17T14:50:12.291Z","date":"2026-08-17","source":"stocktwits","ticker":"BTDR","kind":"attention","value":3933,"meta":{"rank":26,"sector":"TechnologyServices"}}
+{"id":"a28509ec68cb691b","ts":"2026-08-17T14:50:12.291Z","date":"2026-08-17","source":"stocktwits","ticker":"RBRK","kind":"attention","value":5884,"meta":{"rank":29,"sector":"TechnologyServices"}}
+{"id":"633bfe6182c40746","ts":"2026-08-17T14:50:12.291Z","date":"2026-08-17","source":"stocktwits","ticker":"SMCI","kind":"attention","value":92456,"meta":{"rank":30,"sector":"ElectronicTechnology"}}
+{"id":"a16431f66b51bba9","ts":"2026-08-17T14:50:14.206Z","date":"2026-08-17","source":"apewisdom","ticker":"WDC","kind":"attention","value":12,"meta":{"rank":29,"upvotes":36,"prev24h":1}}
+{"id":"e468047fdb4d5f25","ts":"2026-08-17T14:50:14.206Z","date":"2026-08-17","source":"apewisdom","ticker":"CSCO","kind":"attention","value":11,"meta":{"rank":34,"upvotes":22,"prev24h":1}}
+{"id":"8e93c0accb2de43a","ts":"2026-08-17T14:50:14.206Z","date":"2026-08-17","source":"apewisdom","ticker":"CBRS","kind":"attention","value":10,"meta":{"rank":44,"upvotes":20,"prev24h":1}}
+{"id":"faded03755c11e1a","ts":"2026-08-17T14:50:14.206Z","date":"2026-08-17","source":"apewisdom","ticker":"ON","kind":"attention","value":9,"meta":{"rank":45,"upvotes":41,"prev24h":3}}
