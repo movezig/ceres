@@ -14160,3 +14160,13 @@
 {"id":"75894c5147f5087e","ts":"2026-08-17T16:51:19.884Z","date":"2026-08-17","source":"stocktwits","ticker":"AFRM","kind":"attention","value":39496,"meta":{"rank":27,"sector":"Finance"}}
 {"id":"ada4d54e280da4bf","ts":"2026-08-17T16:51:19.884Z","date":"2026-08-17","source":"stocktwits","ticker":"XPEV","kind":"attention","value":56900,"meta":{"rank":29,"sector":"ConsumerDurables"}}
 {"id":"e95fb9e48fb06a39","ts":"2026-08-17T16:51:22.324Z","date":"2026-08-17","source":"apewisdom","ticker":"CRWV","kind":"attention","value":10,"meta":{"rank":49,"upvotes":20,"prev24h":1}}
+{"id":"a0faee64934e448d","ts":"2026-08-17T17:51:03.923Z","date":"2026-08-14","source":"houseclerk","ticker":null,"kind":"ptr_filed","value":1,"meta":{"member":"Michael Patrick Guest","district":"MS03","url":"https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035130.pdf"}}
+{"id":"c539f83e23ef5969","ts":"2026-08-17T17:51:03.925Z","date":"2026-08-14","source":"houseclerk","ticker":null,"kind":"ptr_filed","value":1,"meta":{"member":"Richard Dean Dr Mccormick","district":"GA06","url":"https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035204.pdf"}}
+{"id":"4bbbccdde500b08b","ts":"2026-08-17T17:51:04.635Z","date":"2026-08-17","source":"stocktwits","ticker":"DIA","kind":"attention","value":76555,"meta":{"rank":13,"sector":"Miscellaneous"}}
+{"id":"e8503f2acb523841","ts":"2026-08-17T17:51:04.635Z","date":"2026-08-17","source":"stocktwits","ticker":"AMZN","kind":"attention","value":699093,"meta":{"rank":14,"sector":"RetailTrade"}}
+{"id":"96bf466d0dd5accc","ts":"2026-08-17T17:51:04.636Z","date":"2026-08-17","source":"stocktwits","ticker":"AAOI","kind":"attention","value":24920,"meta":{"rank":19,"sector":"ElectronicTechnology"}}
+{"id":"fbe738150f3f1cfb","ts":"2026-08-17T17:51:04.636Z","date":"2026-08-17","source":"stocktwits","ticker":"AXTI","kind":"attention","value":7594,"meta":{"rank":21,"sector":"ElectronicTechnology"}}
+{"id":"a2c81413dcccd101","ts":"2026-08-17T17:51:04.636Z","date":"2026-08-17","source":"stocktwits","ticker":"DIS","kind":"attention","value":290195,"meta":{"rank":24,"sector":"ConsumerServices"}}
+{"id":"8214f1a96726f5ff","ts":"2026-08-17T17:51:04.636Z","date":"2026-08-17","source":"stocktwits","ticker":"BKKT","kind":"attention","value":25358,"meta":{"rank":26,"sector":"CommercialServices"}}
+{"id":"155491ef4597067b","ts":"2026-08-17T17:51:04.636Z","date":"2026-08-17","source":"stocktwits","ticker":"ON","kind":"attention","value":12977,"meta":{"rank":29,"sector":"ElectronicTechnology"}}
+{"id":"520b92895f5f180e","ts":"2026-08-17T17:51:04.636Z","date":"2026-08-17","source":"stocktwits","ticker":"CLSK","kind":"attention","value":56782,"meta":{"rank":30,"sector":"TechnologyServices"}}
