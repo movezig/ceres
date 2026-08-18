@@ -14671,3 +14671,8 @@
 {"id":"9828b9943290bf63","ts":"2026-08-18T15:53:08.111Z","date":"2026-08-18","source":"stocktwits","ticker":"CBRS","kind":"attention","value":12483,"meta":{"rank":24,"sector":"TechnologyServices"}}
 {"id":"595cf0cd66a20f9e","ts":"2026-08-18T15:53:08.111Z","date":"2026-08-18","source":"stocktwits","ticker":"GS","kind":"attention","value":34206,"meta":{"rank":27,"sector":"Miscellaneous"}}
 {"id":"e27fb4bd0fcc96a1","ts":"2026-08-18T15:53:08.111Z","date":"2026-08-18","source":"stocktwits","ticker":"LUMN","kind":"attention","value":19031,"meta":{"rank":29,"sector":"Communications"}}
+{"id":"d649a92b7a8481b5","ts":"2026-08-18T16:54:09.227Z","date":"2026-08-18","source":"stocktwits","ticker":"SLS","kind":"attention","value":60209,"meta":{"rank":13,"sector":"HealthTechnology"}}
+{"id":"8a3040523d4dac5b","ts":"2026-08-18T16:54:09.228Z","date":"2026-08-18","source":"stocktwits","ticker":"ABNB","kind":"attention","value":55104,"meta":{"rank":19,"sector":"ConsumerServices"}}
+{"id":"422dd466ba1279be","ts":"2026-08-18T16:54:09.228Z","date":"2026-08-18","source":"stocktwits","ticker":"CIEN","kind":"attention","value":6932,"meta":{"rank":27,"sector":"ElectronicTechnology"}}
+{"id":"76705bef64c8f794","ts":"2026-08-18T16:54:11.069Z","date":"2026-08-18","source":"apewisdom","ticker":"AG","kind":"attention","value":11,"meta":{"rank":49,"upvotes":1524,"prev24h":1}}
+{"id":"2b4c7ed660d4cece","ts":"2026-08-18T16:54:11.069Z","date":"2026-08-18","source":"apewisdom","ticker":"BE","kind":"attention","value":11,"meta":{"rank":50,"upvotes":88,"prev24h":9}}
