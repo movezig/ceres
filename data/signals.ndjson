@@ -14664,3 +14664,11 @@
 {"id":"c0eb9e490e154659","ts":"2026-08-18T19:04:13.456Z","date":"2026-08-18","source":"stocktwits","ticker":"GLXY","kind":"attention","value":19005,"meta":{"rank":25,"sector":"Finance"}}
 {"id":"16bf96087f57f771","ts":"2026-08-18T19:04:13.456Z","date":"2026-08-18","source":"stocktwits","ticker":"BRUN","kind":"attention","value":2639,"meta":{"rank":27,"sector":"CommercialServices"}}
 {"id":"41365bdd06f8d375","ts":"2026-08-18T19:04:15.404Z","date":"2026-08-18","source":"apewisdom","ticker":"STX","kind":"attention","value":15,"meta":{"rank":41,"upvotes":23,"prev24h":3}}
+{"id":"a76df60d4e693e85","ts":"2026-08-18T19:46:32.861Z","date":"2026-08-18","source":"stocktwits","ticker":"CRDO","kind":"attention","value":11303,"meta":{"rank":11,"sector":"TechnologyServices"}}
+{"id":"17f2d14cb20a9317","ts":"2026-08-18T19:46:32.862Z","date":"2026-08-18","source":"stocktwits","ticker":"CEG","kind":"attention","value":11661,"meta":{"rank":14,"sector":"Utilities"}}
+{"id":"b055cf1b63e2a02b","ts":"2026-08-18T19:46:32.862Z","date":"2026-08-18","source":"stocktwits","ticker":"TTWO","kind":"attention","value":23254,"meta":{"rank":17,"sector":"TechnologyServices"}}
+{"id":"0e63196d3604ad41","ts":"2026-08-18T19:46:32.862Z","date":"2026-08-18","source":"stocktwits","ticker":"RUN","kind":"attention","value":22937,"meta":{"rank":22,"sector":"ElectronicTechnology"}}
+{"id":"6abced90e6dceb9e","ts":"2026-08-18T19:46:32.862Z","date":"2026-08-18","source":"stocktwits","ticker":"UAA","kind":"attention","value":46593,"meta":{"rank":27,"sector":"ConsumerNonDurables"}}
+{"id":"a59b721382eab92e","ts":"2026-08-18T19:46:32.862Z","date":"2026-08-18","source":"stocktwits","ticker":"WBD","kind":"attention","value":10096,"meta":{"rank":28,"sector":"ConsumerServices"}}
+{"id":"e3ccc8768a7eddbd","ts":"2026-08-18T19:46:32.862Z","date":"2026-08-18","source":"stocktwits","ticker":"HUT","kind":"attention","value":29555,"meta":{"rank":29,"sector":"TechnologyServices"}}
+{"id":"1e5726b8994659d6","ts":"2026-08-18T19:46:32.862Z","date":"2026-08-18","source":"stocktwits","ticker":"GME","kind":"attention","value":307371,"meta":{"rank":30,"sector":"RetailTrade"}}
