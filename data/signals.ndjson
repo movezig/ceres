@@ -14665,3 +14665,9 @@
 {"id":"54910dfb296543ee","ts":"2026-08-18T14:58:16.118Z","date":"2026-08-18","source":"apewisdom","ticker":"JNJ","kind":"attention","value":12,"meta":{"rank":44,"upvotes":153,"prev24h":1}}
 {"id":"fd7e659ac4f9132f","ts":"2026-08-18T14:58:16.118Z","date":"2026-08-18","source":"apewisdom","ticker":"IT","kind":"attention","value":12,"meta":{"rank":47,"upvotes":50,"prev24h":6}}
 {"id":"e99fe832e9348dde","ts":"2026-08-18T14:58:16.118Z","date":"2026-08-18","source":"apewisdom","ticker":"IQ","kind":"attention","value":12,"meta":{"rank":48,"upvotes":58,"prev24h":7}}
+{"id":"01b084b14265941d","ts":"2026-08-18T15:53:08.097Z","date":"2026-08-18","source":"stocktwits","ticker":"ANGX","kind":"attention","value":1241,"meta":{"rank":14,"sector":"Finance"}}
+{"id":"f01fc263da50767e","ts":"2026-08-18T15:53:08.110Z","date":"2026-08-18","source":"stocktwits","ticker":"CHWY","kind":"attention","value":31130,"meta":{"rank":20,"sector":"RetailTrade"}}
+{"id":"2a4580605d425ae2","ts":"2026-08-18T15:53:08.111Z","date":"2026-08-18","source":"stocktwits","ticker":"NFLX","kind":"attention","value":521143,"meta":{"rank":21,"sector":"TechnologyServices"}}
+{"id":"9828b9943290bf63","ts":"2026-08-18T15:53:08.111Z","date":"2026-08-18","source":"stocktwits","ticker":"CBRS","kind":"attention","value":12483,"meta":{"rank":24,"sector":"TechnologyServices"}}
+{"id":"595cf0cd66a20f9e","ts":"2026-08-18T15:53:08.111Z","date":"2026-08-18","source":"stocktwits","ticker":"GS","kind":"attention","value":34206,"meta":{"rank":27,"sector":"Miscellaneous"}}
+{"id":"e27fb4bd0fcc96a1","ts":"2026-08-18T15:53:08.111Z","date":"2026-08-18","source":"stocktwits","ticker":"LUMN","kind":"attention","value":19031,"meta":{"rank":29,"sector":"Communications"}}
