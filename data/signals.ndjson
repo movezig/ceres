@@ -14672,3 +14672,11 @@
 {"id":"a59b721382eab92e","ts":"2026-08-18T19:46:32.862Z","date":"2026-08-18","source":"stocktwits","ticker":"WBD","kind":"attention","value":10096,"meta":{"rank":28,"sector":"ConsumerServices"}}
 {"id":"e3ccc8768a7eddbd","ts":"2026-08-18T19:46:32.862Z","date":"2026-08-18","source":"stocktwits","ticker":"HUT","kind":"attention","value":29555,"meta":{"rank":29,"sector":"TechnologyServices"}}
 {"id":"1e5726b8994659d6","ts":"2026-08-18T19:46:32.862Z","date":"2026-08-18","source":"stocktwits","ticker":"GME","kind":"attention","value":307371,"meta":{"rank":30,"sector":"RetailTrade"}}
+{"id":"3593225279ce9a98","ts":"2026-08-18T20:46:13.177Z","date":"2026-08-18","source":"stocktwits","ticker":"RDDT","kind":"attention","value":36380,"meta":{"rank":13,"sector":"TechnologyServices"}}
+{"id":"653ac11bf9de8efe","ts":"2026-08-18T20:46:13.177Z","date":"2026-08-18","source":"stocktwits","ticker":"HTFL","kind":"attention","value":310,"meta":{"rank":16,"sector":"TechnologyServices"}}
+{"id":"800266e2134fd8b6","ts":"2026-08-18T20:46:13.177Z","date":"2026-08-18","source":"stocktwits","ticker":"FMCC","kind":"attention","value":6712,"meta":{"rank":20,"sector":"Finance"}}
+{"id":"083556efe1830622","ts":"2026-08-18T20:46:13.177Z","date":"2026-08-18","source":"stocktwits","ticker":"XERS","kind":"attention","value":10713,"meta":{"rank":21,"sector":"HealthTechnology"}}
+{"id":"aacd81ee95bec7a2","ts":"2026-08-18T20:46:13.177Z","date":"2026-08-18","source":"stocktwits","ticker":"PURR","kind":"attention","value":25103,"meta":{"rank":25,"sector":"Finance"}}
+{"id":"97a3275c30648847","ts":"2026-08-18T20:46:13.177Z","date":"2026-08-18","source":"stocktwits","ticker":"XOM","kind":"attention","value":99568,"meta":{"rank":26,"sector":"EnergyMinerals"}}
+{"id":"fc7799508ade7ad2","ts":"2026-08-18T20:46:13.178Z","date":"2026-08-18","source":"stocktwits","ticker":"MS","kind":"attention","value":15121,"meta":{"rank":28,"sector":"Finance"}}
+{"id":"770a5dff7b3f0e33","ts":"2026-08-18T20:46:15.490Z","date":"2026-08-18","source":"apewisdom","ticker":"CAST","kind":"attention","value":12,"meta":{"rank":48,"upvotes":25,"prev24h":0}}
