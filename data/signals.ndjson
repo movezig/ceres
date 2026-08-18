@@ -14636,3 +14636,11 @@
 {"id":"1b7b5b5a660f0030","ts":"2026-08-18T10:52:02.237Z","date":"2026-08-18","source":"stocktwits","ticker":"DIA","kind":"attention","value":76559,"meta":{"rank":30,"sector":"Miscellaneous"}}
 {"id":"3816e865b83972b7","ts":"2026-08-18T10:52:04.377Z","date":"2026-08-18","source":"apewisdom","ticker":"MSTR","kind":"attention","value":15,"meta":{"rank":43,"upvotes":30,"prev24h":14}}
 {"id":"7d5c5dd7182204c5","ts":"2026-08-18T10:52:04.378Z","date":"2026-08-18","source":"apewisdom","ticker":"ES","kind":"attention","value":12,"meta":{"rank":50,"upvotes":28,"prev24h":6}}
+{"id":"0ecb0ceb1eae9546","ts":"2026-08-18T11:46:36.276Z","date":"2026-08-18","source":"stocktwits","ticker":"AMPX","kind":"attention","value":9106,"meta":{"rank":10,"sector":"ProducerManufacturing"}}
+{"id":"a843705e30af1ce7","ts":"2026-08-18T11:46:36.277Z","date":"2026-08-18","source":"stocktwits","ticker":"ONDS","kind":"attention","value":36287,"meta":{"rank":15,"sector":"ElectronicTechnology"}}
+{"id":"09c2bf1f49ab58f1","ts":"2026-08-18T11:46:36.277Z","date":"2026-08-18","source":"stocktwits","ticker":"ACI","kind":"attention","value":5971,"meta":{"rank":18,"sector":"RetailTrade"}}
+{"id":"53b1c208c4114abc","ts":"2026-08-18T11:46:36.277Z","date":"2026-08-18","source":"stocktwits","ticker":"DUOL","kind":"attention","value":9510,"meta":{"rank":20,"sector":"TechnologyServices"}}
+{"id":"e6dad93a5bae1991","ts":"2026-08-18T11:46:36.277Z","date":"2026-08-18","source":"stocktwits","ticker":"BAC","kind":"attention","value":146820,"meta":{"rank":22,"sector":"Finance"}}
+{"id":"586d5e51bee83b58","ts":"2026-08-18T11:46:36.277Z","date":"2026-08-18","source":"stocktwits","ticker":"RUM","kind":"attention","value":34641,"meta":{"rank":24,"sector":"TechnologyServices"}}
+{"id":"a42ab53e4546eceb","ts":"2026-08-18T11:46:36.277Z","date":"2026-08-18","source":"stocktwits","ticker":"TOYO","kind":"attention","value":1728,"meta":{"rank":26,"sector":"ElectronicTechnology"}}
+{"id":"e24a8edea5abeffd","ts":"2026-08-18T11:46:36.277Z","date":"2026-08-18","source":"stocktwits","ticker":"AMGN","kind":"attention","value":14888,"meta":{"rank":30,"sector":"HealthTechnology"}}
