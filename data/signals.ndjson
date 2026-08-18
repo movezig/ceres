@@ -14644,3 +14644,13 @@
 {"id":"586d5e51bee83b58","ts":"2026-08-18T11:46:36.277Z","date":"2026-08-18","source":"stocktwits","ticker":"RUM","kind":"attention","value":34641,"meta":{"rank":24,"sector":"TechnologyServices"}}
 {"id":"a42ab53e4546eceb","ts":"2026-08-18T11:46:36.277Z","date":"2026-08-18","source":"stocktwits","ticker":"TOYO","kind":"attention","value":1728,"meta":{"rank":26,"sector":"ElectronicTechnology"}}
 {"id":"e24a8edea5abeffd","ts":"2026-08-18T11:46:36.277Z","date":"2026-08-18","source":"stocktwits","ticker":"AMGN","kind":"attention","value":14888,"meta":{"rank":30,"sector":"HealthTechnology"}}
+{"id":"1ce4c54d4888651d","ts":"2026-08-18T13:14:53.830Z","date":"2026-08-18","source":"stocktwits","ticker":"PATH","kind":"attention","value":33092,"meta":{"rank":8,"sector":"TechnologyServices"}}
+{"id":"864309146dd60b78","ts":"2026-08-18T13:14:53.831Z","date":"2026-08-18","source":"stocktwits","ticker":"AFRM","kind":"attention","value":39498,"meta":{"rank":12,"sector":"Finance"}}
+{"id":"5fc16397682bd5f7","ts":"2026-08-18T13:14:53.831Z","date":"2026-08-18","source":"stocktwits","ticker":"LASR","kind":"attention","value":2894,"meta":{"rank":14,"sector":"ElectronicTechnology"}}
+{"id":"937521f19e449fed","ts":"2026-08-18T13:14:53.831Z","date":"2026-08-18","source":"stocktwits","ticker":"FN","kind":"attention","value":2964,"meta":{"rank":15,"sector":"ElectronicTechnology"}}
+{"id":"0a76ca745e24f51f","ts":"2026-08-18T13:14:53.831Z","date":"2026-08-18","source":"stocktwits","ticker":"MELI","kind":"attention","value":22412,"meta":{"rank":17,"sector":"RetailTrade"}}
+{"id":"9e41df7b05888fcf","ts":"2026-08-18T13:14:53.831Z","date":"2026-08-18","source":"stocktwits","ticker":"RIVN","kind":"attention","value":88430,"meta":{"rank":19,"sector":"ConsumerDurables"}}
+{"id":"314256c04ffa3e74","ts":"2026-08-18T13:14:53.831Z","date":"2026-08-18","source":"stocktwits","ticker":"CCXI","kind":"attention","value":12481,"meta":{"rank":21,"sector":"Finance"}}
+{"id":"8bddcbc1fd3727b2","ts":"2026-08-18T13:14:53.832Z","date":"2026-08-18","source":"stocktwits","ticker":"AEHR","kind":"attention","value":14808,"meta":{"rank":28,"sector":"ElectronicTechnology"}}
+{"id":"3d9bfe4c74650a27","ts":"2026-08-18T13:14:56.845Z","date":"2026-08-18","source":"apewisdom","ticker":"API","kind":"attention","value":13,"meta":{"rank":49,"upvotes":354,"prev24h":9}}
+{"id":"c0625cbfac55d7d0","ts":"2026-08-18T13:14:56.845Z","date":"2026-08-18","source":"apewisdom","ticker":"HD","kind":"attention","value":12,"meta":{"rank":50,"upvotes":31,"prev24h":1}}
