@@ -14984,3 +14984,10 @@
 {"id":"b3d6d34496887cab","ts":"2026-08-18T21:43:13.796Z","date":"2026-08-18","source":"stocktwits","ticker":"SCHW","kind":"attention","value":11671,"meta":{"rank":19,"sector":"Finance"}}
 {"id":"f164889a4256132b","ts":"2026-08-18T21:43:13.796Z","date":"2026-08-18","source":"stocktwits","ticker":"CVX","kind":"attention","value":36857,"meta":{"rank":26,"sector":"EnergyMinerals"}}
 {"id":"c6558886a05f0aef","ts":"2026-08-18T21:43:13.796Z","date":"2026-08-18","source":"stocktwits","ticker":"BMNR","kind":"attention","value":28839,"meta":{"rank":28,"sector":"Finance"}}
+{"id":"8332336629a1841e","ts":"2026-08-18T22:46:36.893Z","date":"2026-08-18","source":"stocktwits","ticker":"CURLF","kind":"attention","value":8966,"meta":{"rank":12,"sector":"ProcessIndustries"}}
+{"id":"23afa1c15b1cac9d","ts":"2026-08-18T22:46:36.893Z","date":"2026-08-18","source":"stocktwits","ticker":"HIMX","kind":"attention","value":18672,"meta":{"rank":14,"sector":"ElectronicTechnology"}}
+{"id":"83025e38efa057ee","ts":"2026-08-18T22:46:36.894Z","date":"2026-08-18","source":"stocktwits","ticker":"WRD","kind":"attention","value":4514,"meta":{"rank":16,"sector":"TechnologyServices"}}
+{"id":"b6230836042d5737","ts":"2026-08-18T22:46:36.894Z","date":"2026-08-18","source":"stocktwits","ticker":"FOUR","kind":"attention","value":4813,"meta":{"rank":20,"sector":"CommercialServices"}}
+{"id":"99e2ae1addc9a465","ts":"2026-08-18T22:46:36.894Z","date":"2026-08-18","source":"stocktwits","ticker":"GILD","kind":"attention","value":77631,"meta":{"rank":21,"sector":"HealthTechnology"}}
+{"id":"31ab42130b3f3c62","ts":"2026-08-18T22:46:36.894Z","date":"2026-08-18","source":"stocktwits","ticker":"LLY","kind":"attention","value":34437,"meta":{"rank":25,"sector":"HealthTechnology"}}
+{"id":"9a88e0b758da76a6","ts":"2026-08-18T22:46:36.894Z","date":"2026-08-18","source":"stocktwits","ticker":"VICR","kind":"attention","value":1887,"meta":{"rank":29,"sector":"ElectronicTechnology"}}
