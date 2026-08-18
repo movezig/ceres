@@ -14654,3 +14654,14 @@
 {"id":"8bddcbc1fd3727b2","ts":"2026-08-18T13:14:53.832Z","date":"2026-08-18","source":"stocktwits","ticker":"AEHR","kind":"attention","value":14808,"meta":{"rank":28,"sector":"ElectronicTechnology"}}
 {"id":"3d9bfe4c74650a27","ts":"2026-08-18T13:14:56.845Z","date":"2026-08-18","source":"apewisdom","ticker":"API","kind":"attention","value":13,"meta":{"rank":49,"upvotes":354,"prev24h":9}}
 {"id":"c0625cbfac55d7d0","ts":"2026-08-18T13:14:56.845Z","date":"2026-08-18","source":"apewisdom","ticker":"HD","kind":"attention","value":12,"meta":{"rank":50,"upvotes":31,"prev24h":1}}
+{"id":"19610b65efdaeff7","ts":"2026-08-18T14:58:12.542Z","date":"2026-08-18","source":"stocktwits","ticker":"AAPL","kind":"attention","value":989230,"meta":{"rank":15,"sector":"ElectronicTechnology"}}
+{"id":"82d279b8705dd852","ts":"2026-08-18T14:58:12.543Z","date":"2026-08-18","source":"stocktwits","ticker":"PDI","kind":"attention","value":1797,"meta":{"rank":19,"sector":"Miscellaneous"}}
+{"id":"32a9dee74bc00746","ts":"2026-08-18T14:58:12.543Z","date":"2026-08-18","source":"stocktwits","ticker":"SENS","kind":"attention","value":48330,"meta":{"rank":20,"sector":"ElectronicTechnology"}}
+{"id":"29530ce3aca10f68","ts":"2026-08-18T14:58:12.543Z","date":"2026-08-18","source":"stocktwits","ticker":"AUR","kind":"attention","value":9317,"meta":{"rank":21,"sector":"TechnologyServices"}}
+{"id":"4ddcbbb1a0a4eeec","ts":"2026-08-18T14:58:12.543Z","date":"2026-08-18","source":"stocktwits","ticker":"IBIT","kind":"attention","value":20135,"meta":{"rank":23,"sector":"Miscellaneous"}}
+{"id":"91759614fc299b2f","ts":"2026-08-18T14:58:12.543Z","date":"2026-08-18","source":"stocktwits","ticker":"DASH","kind":"attention","value":18529,"meta":{"rank":27,"sector":"Transportation"}}
+{"id":"c5b5302e58f9c721","ts":"2026-08-18T14:58:12.543Z","date":"2026-08-18","source":"stocktwits","ticker":"AIRJ","kind":"attention","value":1445,"meta":{"rank":29,"sector":"Finance"}}
+{"id":"f29ac4af4196bb14","ts":"2026-08-18T14:58:12.543Z","date":"2026-08-18","source":"stocktwits","ticker":"CORZ","kind":"attention","value":14266,"meta":{"rank":30,"sector":"TechnologyServices"}}
+{"id":"54910dfb296543ee","ts":"2026-08-18T14:58:16.118Z","date":"2026-08-18","source":"apewisdom","ticker":"JNJ","kind":"attention","value":12,"meta":{"rank":44,"upvotes":153,"prev24h":1}}
+{"id":"fd7e659ac4f9132f","ts":"2026-08-18T14:58:16.118Z","date":"2026-08-18","source":"apewisdom","ticker":"IT","kind":"attention","value":12,"meta":{"rank":47,"upvotes":50,"prev24h":6}}
+{"id":"e99fe832e9348dde","ts":"2026-08-18T14:58:16.118Z","date":"2026-08-18","source":"apewisdom","ticker":"IQ","kind":"attention","value":12,"meta":{"rank":48,"upvotes":58,"prev24h":7}}
