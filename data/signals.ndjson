@@ -14991,3 +14991,5 @@
 {"id":"99e2ae1addc9a465","ts":"2026-08-18T22:46:36.894Z","date":"2026-08-18","source":"stocktwits","ticker":"GILD","kind":"attention","value":77631,"meta":{"rank":21,"sector":"HealthTechnology"}}
 {"id":"31ab42130b3f3c62","ts":"2026-08-18T22:46:36.894Z","date":"2026-08-18","source":"stocktwits","ticker":"LLY","kind":"attention","value":34437,"meta":{"rank":25,"sector":"HealthTechnology"}}
 {"id":"9a88e0b758da76a6","ts":"2026-08-18T22:46:36.894Z","date":"2026-08-18","source":"stocktwits","ticker":"VICR","kind":"attention","value":1887,"meta":{"rank":29,"sector":"ElectronicTechnology"}}
+{"id":"56ddab732c79f4e7","ts":"2026-08-18T23:42:32.335Z","date":"2026-08-18","source":"stocktwits","ticker":"XRP","kind":"attention","value":1503,"meta":{"rank":6,"sector":"Unknown"}}
+{"id":"234cdbd467ebeb43","ts":"2026-08-18T23:42:32.335Z","date":"2026-08-18","source":"stocktwits","ticker":"DIS","kind":"attention","value":290191,"meta":{"rank":25,"sector":"ConsumerServices"}}
