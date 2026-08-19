@@ -15169,3 +15169,10 @@
 {"id":"d03f78cec54042a3","ts":"2026-08-19T17:46:21.990Z","date":"2026-08-19","source":"stocktwits","ticker":"NCLH","kind":"attention","value":39408,"meta":{"rank":25,"sector":"ConsumerServices"}}
 {"id":"47bbc49d1a4bde1a","ts":"2026-08-19T17:46:21.990Z","date":"2026-08-19","source":"stocktwits","ticker":"CSIQ","kind":"attention","value":14800,"meta":{"rank":26,"sector":"ElectronicTechnology"}}
 {"id":"a154a7523d5243b2","ts":"2026-08-19T17:46:24.350Z","date":"2026-08-19","source":"apewisdom","ticker":"HBM","kind":"attention","value":13,"meta":{"rank":48,"upvotes":97,"prev24h":3}}
+{"id":"16297d54326fb3a4","ts":"2026-08-19T18:58:53.323Z","date":"2026-08-19","source":"stocktwits","ticker":"WEN","kind":"attention","value":16085,"meta":{"rank":6,"sector":"ConsumerServices"}}
+{"id":"507781877e38c6fd","ts":"2026-08-19T18:58:53.324Z","date":"2026-08-19","source":"stocktwits","ticker":"AAOI","kind":"attention","value":25026,"meta":{"rank":22,"sector":"ElectronicTechnology"}}
+{"id":"45c608a670c92074","ts":"2026-08-19T18:58:53.324Z","date":"2026-08-19","source":"stocktwits","ticker":"CDE","kind":"attention","value":6895,"meta":{"rank":25,"sector":"NonEnergyMinerals"}}
+{"id":"530f2ef7c6fdea11","ts":"2026-08-19T18:58:53.324Z","date":"2026-08-19","source":"stocktwits","ticker":"BB","kind":"attention","value":150535,"meta":{"rank":26,"sector":"TechnologyServices"}}
+{"id":"8c7d52a9e3945783","ts":"2026-08-19T18:58:53.324Z","date":"2026-08-19","source":"stocktwits","ticker":"C","kind":"attention","value":39032,"meta":{"rank":28,"sector":"Finance"}}
+{"id":"e596c32b7b3b7296","ts":"2026-08-19T18:58:53.324Z","date":"2026-08-19","source":"stocktwits","ticker":"CSGP","kind":"attention","value":1673,"meta":{"rank":29,"sector":"TechnologyServices"}}
+{"id":"0f8cc707f5805d80","ts":"2026-08-19T18:58:53.324Z","date":"2026-08-19","source":"stocktwits","ticker":"IEP","kind":"attention","value":6636,"meta":{"rank":30,"sector":"EnergyMinerals"}}
