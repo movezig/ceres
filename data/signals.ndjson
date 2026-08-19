@@ -15176,3 +15176,12 @@
 {"id":"8c7d52a9e3945783","ts":"2026-08-19T18:58:53.324Z","date":"2026-08-19","source":"stocktwits","ticker":"C","kind":"attention","value":39032,"meta":{"rank":28,"sector":"Finance"}}
 {"id":"e596c32b7b3b7296","ts":"2026-08-19T18:58:53.324Z","date":"2026-08-19","source":"stocktwits","ticker":"CSGP","kind":"attention","value":1673,"meta":{"rank":29,"sector":"TechnologyServices"}}
 {"id":"0f8cc707f5805d80","ts":"2026-08-19T18:58:53.324Z","date":"2026-08-19","source":"stocktwits","ticker":"IEP","kind":"attention","value":6636,"meta":{"rank":30,"sector":"EnergyMinerals"}}
+{"id":"41627715df77b0d1","ts":"2026-08-19T19:46:58.992Z","date":"2026-08-19","source":"stocktwits","ticker":"WMT","kind":"attention","value":137519,"meta":{"rank":12,"sector":"RetailTrade"}}
+{"id":"dfacbe49b0332a31","ts":"2026-08-19T19:46:58.992Z","date":"2026-08-19","source":"stocktwits","ticker":"BKKT","kind":"attention","value":25359,"meta":{"rank":14,"sector":"CommercialServices"}}
+{"id":"58bff5a5400e2e95","ts":"2026-08-19T19:46:58.992Z","date":"2026-08-19","source":"stocktwits","ticker":"VKTX","kind":"attention","value":38383,"meta":{"rank":15,"sector":"HealthTechnology"}}
+{"id":"63a516d531a985e3","ts":"2026-08-19T19:46:58.992Z","date":"2026-08-19","source":"stocktwits","ticker":"NTLA","kind":"attention","value":15152,"meta":{"rank":20,"sector":"HealthTechnology"}}
+{"id":"a898ef1092c76e8e","ts":"2026-08-19T19:46:58.992Z","date":"2026-08-19","source":"stocktwits","ticker":"GT","kind":"attention","value":5899,"meta":{"rank":21,"sector":"ConsumerDurables"}}
+{"id":"2e80520f76627d84","ts":"2026-08-19T19:46:58.992Z","date":"2026-08-19","source":"stocktwits","ticker":"UBER","kind":"attention","value":130360,"meta":{"rank":27,"sector":"Transportation"}}
+{"id":"0e69ab616a3e6b76","ts":"2026-08-19T19:46:58.992Z","date":"2026-08-19","source":"stocktwits","ticker":"COHR","kind":"attention","value":10350,"meta":{"rank":28,"sector":"ElectronicTechnology"}}
+{"id":"198f9ae1922fa545","ts":"2026-08-19T19:46:58.993Z","date":"2026-08-19","source":"stocktwits","ticker":"APPS","kind":"attention","value":25090,"meta":{"rank":30,"sector":"TechnologyServices"}}
+{"id":"8d3ccbb135ff64e1","ts":"2026-08-19T19:47:01.570Z","date":"2026-08-19","source":"apewisdom","ticker":"ALL","kind":"attention","value":12,"meta":{"rank":50,"upvotes":31,"prev24h":5}}
