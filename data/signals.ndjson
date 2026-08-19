@@ -15164,3 +15164,8 @@
 {"id":"77693e220e9a3729","ts":"2026-08-19T16:52:34.726Z","date":"2026-08-19","source":"stocktwits","ticker":"PFE","kind":"attention","value":106265,"meta":{"rank":30,"sector":"HealthTechnology"}}
 {"id":"da46fc6a643432ee","ts":"2026-08-19T16:52:37.196Z","date":"2026-08-19","source":"apewisdom","ticker":"HOOD","kind":"attention","value":17,"meta":{"rank":42,"upvotes":57,"prev24h":4}}
 {"id":"e30d64412814ff88","ts":"2026-08-19T16:52:37.196Z","date":"2026-08-19","source":"apewisdom","ticker":"CC","kind":"attention","value":13,"meta":{"rank":50,"upvotes":30,"prev24h":7}}
+{"id":"4ee1d9aeac649d44","ts":"2026-08-19T17:46:21.989Z","date":"2026-08-19","source":"stocktwits","ticker":"UNH","kind":"attention","value":55787,"meta":{"rank":10,"sector":"HealthServices"}}
+{"id":"2e8f5c58dc127b12","ts":"2026-08-19T17:46:21.990Z","date":"2026-08-19","source":"stocktwits","ticker":"OMER","kind":"attention","value":11690,"meta":{"rank":15,"sector":"HealthTechnology"}}
+{"id":"d03f78cec54042a3","ts":"2026-08-19T17:46:21.990Z","date":"2026-08-19","source":"stocktwits","ticker":"NCLH","kind":"attention","value":39408,"meta":{"rank":25,"sector":"ConsumerServices"}}
+{"id":"47bbc49d1a4bde1a","ts":"2026-08-19T17:46:21.990Z","date":"2026-08-19","source":"stocktwits","ticker":"CSIQ","kind":"attention","value":14800,"meta":{"rank":26,"sector":"ElectronicTechnology"}}
+{"id":"a154a7523d5243b2","ts":"2026-08-19T17:46:24.350Z","date":"2026-08-19","source":"apewisdom","ticker":"HBM","kind":"attention","value":13,"meta":{"rank":48,"upvotes":97,"prev24h":3}}
