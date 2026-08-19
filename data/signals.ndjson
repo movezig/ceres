@@ -15143,3 +15143,12 @@
 {"id":"d5c25c800dafa233","ts":"2026-08-19T13:16:34.618Z","date":"2026-08-19","source":"apewisdom","ticker":"RNA","kind":"attention","value":31,"meta":{"rank":24,"upvotes":661,"prev24h":1}}
 {"id":"e03531b5407e6740","ts":"2026-08-19T14:02:37.590Z","date":"2026-08-19","source":"apewisdom","ticker":"TJX","kind":"attention","value":13,"meta":{"rank":45,"upvotes":29,"prev24h":1}}
 {"id":"8ff5838a65aa260c","ts":"2026-08-19T14:02:37.590Z","date":"2026-08-19","source":"apewisdom","ticker":"MSS","kind":"attention","value":12,"meta":{"rank":47,"upvotes":36,"prev24h":1}}
+{"id":"4df8b5cd9eeb2c00","ts":"2026-08-19T14:58:26.099Z","date":"2026-08-19","source":"stocktwits","ticker":"CADL","kind":"attention","value":10143,"meta":{"rank":5,"sector":"HealthTechnology"}}
+{"id":"339e861e98371e58","ts":"2026-08-19T14:58:26.100Z","date":"2026-08-19","source":"stocktwits","ticker":"WULF","kind":"attention","value":31046,"meta":{"rank":11,"sector":"TechnologyServices"}}
+{"id":"544cf4d3c97d7e88","ts":"2026-08-19T14:58:26.100Z","date":"2026-08-19","source":"stocktwits","ticker":"DIA","kind":"attention","value":76574,"meta":{"rank":13,"sector":"Miscellaneous"}}
+{"id":"a93ff16c10f08f78","ts":"2026-08-19T14:58:26.100Z","date":"2026-08-19","source":"stocktwits","ticker":"GLD","kind":"attention","value":95987,"meta":{"rank":14,"sector":"Miscellaneous"}}
+{"id":"1fb46fec310cae37","ts":"2026-08-19T14:58:26.100Z","date":"2026-08-19","source":"stocktwits","ticker":"SLV","kind":"attention","value":61617,"meta":{"rank":17,"sector":"Miscellaneous"}}
+{"id":"3358267458b47c25","ts":"2026-08-19T14:58:26.100Z","date":"2026-08-19","source":"stocktwits","ticker":"ABUS","kind":"attention","value":16769,"meta":{"rank":18,"sector":"HealthTechnology"}}
+{"id":"6211c277c9d83fb9","ts":"2026-08-19T14:58:26.100Z","date":"2026-08-19","source":"stocktwits","ticker":"MBLY","kind":"attention","value":12655,"meta":{"rank":24,"sector":"TechnologyServices"}}
+{"id":"ada2b724e856a37d","ts":"2026-08-19T14:58:26.100Z","date":"2026-08-19","source":"stocktwits","ticker":"CRSP","kind":"attention","value":41646,"meta":{"rank":27,"sector":"HealthTechnology"}}
+{"id":"ec1c86131c5507f9","ts":"2026-08-19T14:58:28.100Z","date":"2026-08-19","source":"apewisdom","ticker":"SLS","kind":"attention","value":13,"meta":{"rank":48,"upvotes":28,"prev24h":3}}
