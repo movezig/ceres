@@ -15159,3 +15159,8 @@
 {"id":"853da07628b70f99","ts":"2026-08-19T15:52:39.599Z","date":"2026-08-19","source":"stocktwits","ticker":"CRCL","kind":"attention","value":22678,"meta":{"rank":23,"sector":"TechnologyServices"}}
 {"id":"e71b58a6b20022a2","ts":"2026-08-19T15:52:39.599Z","date":"2026-08-19","source":"stocktwits","ticker":"HOOD","kind":"attention","value":99784,"meta":{"rank":26,"sector":"Finance"}}
 {"id":"c7e6f0fb3060695c","ts":"2026-08-19T15:52:39.599Z","date":"2026-08-19","source":"stocktwits","ticker":"SRPT","kind":"attention","value":26663,"meta":{"rank":29,"sector":"HealthTechnology"}}
+{"id":"530aff0a3ab1fccc","ts":"2026-08-19T16:52:34.725Z","date":"2026-08-19","source":"stocktwits","ticker":"PURR","kind":"attention","value":25104,"meta":{"rank":23,"sector":"Finance"}}
+{"id":"a95e3817791d3b70","ts":"2026-08-19T16:52:34.726Z","date":"2026-08-19","source":"stocktwits","ticker":"BTC","kind":"attention","value":4646,"meta":{"rank":26,"sector":"Unknown"}}
+{"id":"77693e220e9a3729","ts":"2026-08-19T16:52:34.726Z","date":"2026-08-19","source":"stocktwits","ticker":"PFE","kind":"attention","value":106265,"meta":{"rank":30,"sector":"HealthTechnology"}}
+{"id":"da46fc6a643432ee","ts":"2026-08-19T16:52:37.196Z","date":"2026-08-19","source":"apewisdom","ticker":"HOOD","kind":"attention","value":17,"meta":{"rank":42,"upvotes":57,"prev24h":4}}
+{"id":"e30d64412814ff88","ts":"2026-08-19T16:52:37.196Z","date":"2026-08-19","source":"apewisdom","ticker":"CC","kind":"attention","value":13,"meta":{"rank":50,"upvotes":30,"prev24h":7}}
