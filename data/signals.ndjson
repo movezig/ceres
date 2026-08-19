@@ -15152,3 +15152,10 @@
 {"id":"6211c277c9d83fb9","ts":"2026-08-19T14:58:26.100Z","date":"2026-08-19","source":"stocktwits","ticker":"MBLY","kind":"attention","value":12655,"meta":{"rank":24,"sector":"TechnologyServices"}}
 {"id":"ada2b724e856a37d","ts":"2026-08-19T14:58:26.100Z","date":"2026-08-19","source":"stocktwits","ticker":"CRSP","kind":"attention","value":41646,"meta":{"rank":27,"sector":"HealthTechnology"}}
 {"id":"ec1c86131c5507f9","ts":"2026-08-19T14:58:28.100Z","date":"2026-08-19","source":"apewisdom","ticker":"SLS","kind":"attention","value":13,"meta":{"rank":48,"upvotes":28,"prev24h":3}}
+{"id":"4f95f3061c503f64","ts":"2026-08-19T15:52:39.598Z","date":"2026-08-19","source":"stocktwits","ticker":"BMNR","kind":"attention","value":28851,"meta":{"rank":5,"sector":"Finance"}}
+{"id":"d4d1348b034da663","ts":"2026-08-19T15:52:39.598Z","date":"2026-08-19","source":"stocktwits","ticker":"COIN","kind":"attention","value":137998,"meta":{"rank":7,"sector":"Finance"}}
+{"id":"908ca9ba78294590","ts":"2026-08-19T15:52:39.599Z","date":"2026-08-19","source":"stocktwits","ticker":"MARA","kind":"attention","value":158098,"meta":{"rank":13,"sector":"TechnologyServices"}}
+{"id":"58f9ffb0dc0f74ce","ts":"2026-08-19T15:52:39.599Z","date":"2026-08-19","source":"stocktwits","ticker":"ASST","kind":"attention","value":19367,"meta":{"rank":15,"sector":"Miscellaneous"}}
+{"id":"853da07628b70f99","ts":"2026-08-19T15:52:39.599Z","date":"2026-08-19","source":"stocktwits","ticker":"CRCL","kind":"attention","value":22678,"meta":{"rank":23,"sector":"TechnologyServices"}}
+{"id":"e71b58a6b20022a2","ts":"2026-08-19T15:52:39.599Z","date":"2026-08-19","source":"stocktwits","ticker":"HOOD","kind":"attention","value":99784,"meta":{"rank":26,"sector":"Finance"}}
+{"id":"c7e6f0fb3060695c","ts":"2026-08-19T15:52:39.599Z","date":"2026-08-19","source":"stocktwits","ticker":"SRPT","kind":"attention","value":26663,"meta":{"rank":29,"sector":"HealthTechnology"}}
