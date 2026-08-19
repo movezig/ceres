@@ -15492,3 +15492,6 @@
 {"id":"a341122fce1cc303","ts":"2026-08-19T21:46:43.104Z","date":"2026-08-19","source":"stocktwits","ticker":"B","kind":"attention","value":32224,"meta":{"rank":30,"sector":"NonEnergyMinerals"}}
 {"id":"497cec36986a74c6","ts":"2026-08-19T21:46:44.280Z","date":"2026-08-19","source":"stocktwits","ticker":"NET","kind":"sentiment","value":90,"meta":{"bull":9,"bear":1}}
 {"id":"f2de3b14285f8667","ts":"2026-08-19T21:46:45.288Z","date":"2026-08-19","source":"apewisdom","ticker":"GLP","kind":"attention","value":13,"meta":{"rank":47,"upvotes":108,"prev24h":4}}
+{"id":"4b62fcb0f7bb1ea2","ts":"2026-08-19T22:47:17.287Z","date":"2026-08-19","source":"stocktwits","ticker":"LLY","kind":"attention","value":34448,"meta":{"rank":19,"sector":"HealthTechnology"}}
+{"id":"751a405978c9eaa1","ts":"2026-08-19T22:47:17.288Z","date":"2026-08-19","source":"stocktwits","ticker":"OCUL","kind":"attention","value":12151,"meta":{"rank":23,"sector":"HealthTechnology"}}
+{"id":"26e3865324b612f0","ts":"2026-08-19T22:47:19.229Z","date":"2026-08-19","source":"stocktwits","ticker":"MRCY","kind":"sentiment","value":82,"meta":{"bull":9,"bear":2}}
