@@ -15495,3 +15495,8 @@
 {"id":"4b62fcb0f7bb1ea2","ts":"2026-08-19T22:47:17.287Z","date":"2026-08-19","source":"stocktwits","ticker":"LLY","kind":"attention","value":34448,"meta":{"rank":19,"sector":"HealthTechnology"}}
 {"id":"751a405978c9eaa1","ts":"2026-08-19T22:47:17.288Z","date":"2026-08-19","source":"stocktwits","ticker":"OCUL","kind":"attention","value":12151,"meta":{"rank":23,"sector":"HealthTechnology"}}
 {"id":"26e3865324b612f0","ts":"2026-08-19T22:47:19.229Z","date":"2026-08-19","source":"stocktwits","ticker":"MRCY","kind":"sentiment","value":82,"meta":{"bull":9,"bear":2}}
+{"id":"2a9754058e6cfd8d","ts":"2026-08-19T23:43:18.604Z","date":"2026-08-19","source":"stocktwits","ticker":"CLSK","kind":"attention","value":56777,"meta":{"rank":18,"sector":"TechnologyServices"}}
+{"id":"629279185e095adb","ts":"2026-08-19T23:43:18.605Z","date":"2026-08-19","source":"stocktwits","ticker":"HYMC","kind":"attention","value":20690,"meta":{"rank":20,"sector":"NonEnergyMinerals"}}
+{"id":"843f6681d5f0fe12","ts":"2026-08-19T23:43:18.605Z","date":"2026-08-19","source":"stocktwits","ticker":"EXK","kind":"attention","value":5572,"meta":{"rank":21,"sector":"NonEnergyMinerals"}}
+{"id":"5f481fcdf0f98c40","ts":"2026-08-19T23:43:18.605Z","date":"2026-08-19","source":"stocktwits","ticker":"RGTI","kind":"attention","value":51981,"meta":{"rank":24,"sector":"ElectronicTechnology"}}
+{"id":"fe69170796210f5d","ts":"2026-08-19T23:43:18.605Z","date":"2026-08-19","source":"stocktwits","ticker":"CORZ","kind":"attention","value":14286,"meta":{"rank":29,"sector":"TechnologyServices"}}
