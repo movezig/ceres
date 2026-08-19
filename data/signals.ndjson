@@ -15141,3 +15141,5 @@
 {"id":"ea9326cb39879ac5","ts":"2026-08-19T13:16:29.672Z","date":"2026-08-19","source":"stocktwits","ticker":"PSNL","kind":"attention","value":2891,"meta":{"rank":22,"sector":"HealthServices"}}
 {"id":"b48e8d7619a8340f","ts":"2026-08-19T13:16:29.672Z","date":"2026-08-19","source":"stocktwits","ticker":"DUOL","kind":"attention","value":9524,"meta":{"rank":28,"sector":"TechnologyServices"}}
 {"id":"d5c25c800dafa233","ts":"2026-08-19T13:16:34.618Z","date":"2026-08-19","source":"apewisdom","ticker":"RNA","kind":"attention","value":31,"meta":{"rank":24,"upvotes":661,"prev24h":1}}
+{"id":"e03531b5407e6740","ts":"2026-08-19T14:02:37.590Z","date":"2026-08-19","source":"apewisdom","ticker":"TJX","kind":"attention","value":13,"meta":{"rank":45,"upvotes":29,"prev24h":1}}
+{"id":"8ff5838a65aa260c","ts":"2026-08-19T14:02:37.590Z","date":"2026-08-19","source":"apewisdom","ticker":"MSS","kind":"attention","value":12,"meta":{"rank":47,"upvotes":36,"prev24h":1}}
