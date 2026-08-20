@@ -15973,3 +15973,7 @@
 {"id":"fe01b301abe4930f","ts":"2026-08-20T21:50:28.952Z","date":"2026-08-20","source":"apewisdom","ticker":"COST","kind":"attention","value":12,"meta":{"rank":47,"upvotes":170,"prev24h":1}}
 {"id":"abbf736a4f9d0861","ts":"2026-08-20T21:50:28.952Z","date":"2026-08-20","source":"apewisdom","ticker":"IOVA","kind":"attention","value":12,"meta":{"rank":48,"upvotes":13,"prev24h":2}}
 {"id":"afb925e18d014b10","ts":"2026-08-20T21:50:28.953Z","date":"2026-08-20","source":"apewisdom","ticker":"ONDS","kind":"attention","value":12,"meta":{"rank":50,"upvotes":24,"prev24h":6}}
+{"id":"59aaeac1dd82c2aa","ts":"2026-08-20T22:50:50.271Z","date":"2026-08-20","source":"stocktwits","ticker":"ETH","kind":"attention","value":2890,"meta":{"rank":8,"sector":"Miscellaneous"}}
+{"id":"aa10e429a5cf6b66","ts":"2026-08-20T22:50:50.271Z","date":"2026-08-20","source":"stocktwits","ticker":"ADUR","kind":"attention","value":4951,"meta":{"rank":26,"sector":"ProcessIndustries"}}
+{"id":"db7ef6478abcbcd9","ts":"2026-08-20T22:50:50.272Z","date":"2026-08-20","source":"stocktwits","ticker":"AAL","kind":"attention","value":109763,"meta":{"rank":27,"sector":"Transportation"}}
+{"id":"608b870ad34397a7","ts":"2026-08-20T22:50:51.921Z","date":"2026-08-20","source":"stocktwits","ticker":"EVCM","kind":"sentiment","value":89,"meta":{"bull":8,"bear":1}}
