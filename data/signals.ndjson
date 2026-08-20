@@ -15654,3 +15654,5 @@
 {"id":"f8ff42e4506de9a0","ts":"2026-08-20T19:07:28.052Z","date":"2026-08-20","source":"stocktwits","ticker":"BTC","kind":"attention","value":4659,"meta":{"rank":30,"sector":"Unknown"}}
 {"id":"030022e7f765db99","ts":"2026-08-20T19:07:30.083Z","date":"2026-08-20","source":"stocktwits","ticker":"AEIS","kind":"sentiment","value":93,"meta":{"bull":14,"bear":1}}
 {"id":"a56c37e3d2ef7d7a","ts":"2026-08-20T19:07:30.559Z","date":"2026-08-20","source":"apewisdom","ticker":"IQ","kind":"attention","value":12,"meta":{"rank":50,"upvotes":43,"prev24h":6}}
+{"id":"251c7696e61df57d","ts":"2026-08-20T19:51:41.607Z","date":"2026-08-20","source":"stocktwits","ticker":"JPM","kind":"attention","value":98162,"meta":{"rank":27,"sector":"Finance"}}
+{"id":"0343e009b2812b15","ts":"2026-08-20T19:51:43.565Z","date":"2026-08-20","source":"apewisdom","ticker":"TTWO","kind":"attention","value":12,"meta":{"rank":50,"upvotes":14,"prev24h":1}}
