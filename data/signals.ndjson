@@ -15636,3 +15636,10 @@
 {"id":"fcafbae9f9185497","ts":"2026-08-20T15:54:22.217Z","date":"2026-08-20","source":"stocktwits","ticker":"KLAR","kind":"attention","value":7682,"meta":{"rank":25,"sector":"CommercialServices"}}
 {"id":"5eb05157a199fa11","ts":"2026-08-20T15:54:22.217Z","date":"2026-08-20","source":"stocktwits","ticker":"PYPL","kind":"attention","value":166324,"meta":{"rank":26,"sector":"CommercialServices"}}
 {"id":"f316e7ba26b94094","ts":"2026-08-20T15:54:22.217Z","date":"2026-08-20","source":"stocktwits","ticker":"ADI","kind":"attention","value":4839,"meta":{"rank":29,"sector":"ElectronicTechnology"}}
+{"id":"2fd7a66602280265","ts":"2026-08-20T17:52:35.916Z","date":"2026-08-20","source":"stocktwits","ticker":"AAP","kind":"attention","value":5485,"meta":{"rank":10,"sector":"RetailTrade"}}
+{"id":"4aad9ebb4946d1d6","ts":"2026-08-20T17:52:35.925Z","date":"2026-08-20","source":"stocktwits","ticker":"AMPX","kind":"attention","value":9107,"meta":{"rank":14,"sector":"ProducerManufacturing"}}
+{"id":"910166329dea2553","ts":"2026-08-20T17:52:35.926Z","date":"2026-08-20","source":"stocktwits","ticker":"FCEL","kind":"attention","value":144034,"meta":{"rank":19,"sector":"ElectronicTechnology"}}
+{"id":"2095819d381f4dd0","ts":"2026-08-20T17:52:35.926Z","date":"2026-08-20","source":"stocktwits","ticker":"XRP","kind":"attention","value":1543,"meta":{"rank":20,"sector":"Unknown"}}
+{"id":"c5b71731e9be92c0","ts":"2026-08-20T17:52:35.926Z","date":"2026-08-20","source":"stocktwits","ticker":"ARCT","kind":"attention","value":5484,"meta":{"rank":22,"sector":"HealthTechnology"}}
+{"id":"acc3f298fe32989c","ts":"2026-08-20T17:52:35.926Z","date":"2026-08-20","source":"stocktwits","ticker":"SBUX","kind":"attention","value":118431,"meta":{"rank":25,"sector":"ConsumerServices"}}
+{"id":"58d66d59485607b1","ts":"2026-08-20T17:52:35.926Z","date":"2026-08-20","source":"stocktwits","ticker":"UNG","kind":"attention","value":17627,"meta":{"rank":29,"sector":"Miscellaneous"}}
