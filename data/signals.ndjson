@@ -15612,3 +15612,16 @@
 {"id":"7ea41789f399bb2f","ts":"2026-08-20T13:23:43.020Z","date":"2026-08-20","source":"stocktwits","ticker":"BAC","kind":"attention","value":146822,"meta":{"rank":27,"sector":"Finance"}}
 {"id":"c2faa0a0746ee084","ts":"2026-08-20T13:23:43.020Z","date":"2026-08-20","source":"stocktwits","ticker":"DVN","kind":"attention","value":14424,"meta":{"rank":30,"sector":"EnergyMinerals"}}
 {"id":"feec06aec493474d","ts":"2026-08-20T13:23:45.714Z","date":"2026-08-20","source":"apewisdom","ticker":"ALL","kind":"attention","value":14,"meta":{"rank":45,"upvotes":80,"prev24h":8}}
+{"id":"8d105725251aac6a","ts":"2026-08-20T14:08:01.492Z","date":"2026-08-20","source":"stocktwits","ticker":"TEM","kind":"attention","value":21278,"meta":{"rank":12,"sector":"TechnologyServices"}}
+{"id":"7e75d2530601433d","ts":"2026-08-20T14:08:01.493Z","date":"2026-08-20","source":"stocktwits","ticker":"TTWO","kind":"attention","value":23268,"meta":{"rank":14,"sector":"TechnologyServices"}}
+{"id":"40533a20dae89a78","ts":"2026-08-20T14:08:01.493Z","date":"2026-08-20","source":"stocktwits","ticker":"SMCI","kind":"attention","value":92460,"meta":{"rank":17,"sector":"ElectronicTechnology"}}
+{"id":"4ba19c7fa8fb2506","ts":"2026-08-20T14:08:01.493Z","date":"2026-08-20","source":"stocktwits","ticker":"PSNL","kind":"attention","value":2899,"meta":{"rank":18,"sector":"HealthServices"}}
+{"id":"df73a3a8368d89a4","ts":"2026-08-20T14:08:01.493Z","date":"2026-08-20","source":"stocktwits","ticker":"DASH","kind":"attention","value":18525,"meta":{"rank":20,"sector":"Transportation"}}
+{"id":"3d009df85a098615","ts":"2026-08-20T14:08:01.493Z","date":"2026-08-20","source":"stocktwits","ticker":"VKTX","kind":"attention","value":38403,"meta":{"rank":23,"sector":"HealthTechnology"}}
+{"id":"a920630114301d55","ts":"2026-08-20T14:08:01.493Z","date":"2026-08-20","source":"stocktwits","ticker":"SOC","kind":"attention","value":2330,"meta":{"rank":24,"sector":"Finance"}}
+{"id":"db0b933f667e7ba4","ts":"2026-08-20T14:08:01.493Z","date":"2026-08-20","source":"stocktwits","ticker":"FLY","kind":"attention","value":9478,"meta":{"rank":25,"sector":"ElectronicTechnology"}}
+{"id":"154614336a22919e","ts":"2026-08-20T14:08:01.494Z","date":"2026-08-20","source":"stocktwits","ticker":"SBET","kind":"attention","value":21589,"meta":{"rank":26,"sector":"TechnologyServices"}}
+{"id":"8ae00707a5375ac1","ts":"2026-08-20T14:08:01.494Z","date":"2026-08-20","source":"stocktwits","ticker":"UNH","kind":"attention","value":55778,"meta":{"rank":27,"sector":"HealthServices"}}
+{"id":"461ee014498c5ad0","ts":"2026-08-20T14:08:03.080Z","date":"2026-08-20","source":"stocktwits","ticker":"CRWD","kind":"sentiment","value":67,"meta":{"bull":4,"bear":2}}
+{"id":"54c238928726784b","ts":"2026-08-20T14:08:03.621Z","date":"2026-08-20","source":"apewisdom","ticker":"TEM","kind":"attention","value":16,"meta":{"rank":41,"upvotes":29,"prev24h":1}}
+{"id":"e1ec23f3bb2d09ed","ts":"2026-08-20T14:08:03.621Z","date":"2026-08-20","source":"apewisdom","ticker":"SMCI","kind":"attention","value":13,"meta":{"rank":50,"upvotes":24,"prev24h":4}}
