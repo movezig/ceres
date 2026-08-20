@@ -15977,3 +15977,12 @@
 {"id":"aa10e429a5cf6b66","ts":"2026-08-20T22:50:50.271Z","date":"2026-08-20","source":"stocktwits","ticker":"ADUR","kind":"attention","value":4951,"meta":{"rank":26,"sector":"ProcessIndustries"}}
 {"id":"db7ef6478abcbcd9","ts":"2026-08-20T22:50:50.272Z","date":"2026-08-20","source":"stocktwits","ticker":"AAL","kind":"attention","value":109763,"meta":{"rank":27,"sector":"Transportation"}}
 {"id":"608b870ad34397a7","ts":"2026-08-20T22:50:51.921Z","date":"2026-08-20","source":"stocktwits","ticker":"EVCM","kind":"sentiment","value":89,"meta":{"bull":8,"bear":1}}
+{"id":"272dd7eb262840f9","ts":"2026-08-20T23:45:58.505Z","date":"2026-08-20","source":"stocktwits","ticker":"BB","kind":"attention","value":150518,"meta":{"rank":9,"sector":"TechnologyServices"}}
+{"id":"d66f086a5a705f6d","ts":"2026-08-20T23:45:58.505Z","date":"2026-08-20","source":"stocktwits","ticker":"GLXY","kind":"attention","value":18997,"meta":{"rank":13,"sector":"Finance"}}
+{"id":"e1e537b126b6f017","ts":"2026-08-20T23:45:58.506Z","date":"2026-08-20","source":"stocktwits","ticker":"OXY","kind":"attention","value":43343,"meta":{"rank":17,"sector":"EnergyMinerals"}}
+{"id":"ea1c4dcaaac85cfc","ts":"2026-08-20T23:45:58.506Z","date":"2026-08-20","source":"stocktwits","ticker":"AVEX","kind":"attention","value":1654,"meta":{"rank":19,"sector":"ElectronicTechnology"}}
+{"id":"83e9906ffcfd2ae7","ts":"2026-08-20T23:45:58.506Z","date":"2026-08-20","source":"stocktwits","ticker":"AI","kind":"attention","value":49779,"meta":{"rank":22,"sector":"TechnologyServices"}}
+{"id":"ec79f3bd40ed10ce","ts":"2026-08-20T23:45:58.506Z","date":"2026-08-20","source":"stocktwits","ticker":"SENS","kind":"attention","value":48335,"meta":{"rank":27,"sector":"ElectronicTechnology"}}
+{"id":"c484233468727796","ts":"2026-08-20T23:45:58.506Z","date":"2026-08-20","source":"stocktwits","ticker":"ABVX","kind":"attention","value":2736,"meta":{"rank":30,"sector":"HealthTechnology"}}
+{"id":"c13bfa60dd4dd646","ts":"2026-08-20T23:45:59.361Z","date":"2026-08-20","source":"stocktwits","ticker":"TEAM","kind":"sentiment","value":100,"meta":{"bull":11,"bear":0}}
+{"id":"9a8f3d4747f5cdaf","ts":"2026-08-20T23:46:00.542Z","date":"2026-08-20","source":"apewisdom","ticker":"ES","kind":"attention","value":12,"meta":{"rank":49,"upvotes":28,"prev24h":9}}
