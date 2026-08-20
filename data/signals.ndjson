@@ -15625,3 +15625,14 @@
 {"id":"461ee014498c5ad0","ts":"2026-08-20T14:08:03.080Z","date":"2026-08-20","source":"stocktwits","ticker":"CRWD","kind":"sentiment","value":67,"meta":{"bull":4,"bear":2}}
 {"id":"54c238928726784b","ts":"2026-08-20T14:08:03.621Z","date":"2026-08-20","source":"apewisdom","ticker":"TEM","kind":"attention","value":16,"meta":{"rank":41,"upvotes":29,"prev24h":1}}
 {"id":"e1ec23f3bb2d09ed","ts":"2026-08-20T14:08:03.621Z","date":"2026-08-20","source":"apewisdom","ticker":"SMCI","kind":"attention","value":13,"meta":{"rank":50,"upvotes":24,"prev24h":4}}
+{"id":"89b44667bb2cc377","ts":"2026-08-20T15:54:22.202Z","date":"2026-08-20","source":"stocktwits","ticker":"IOVA","kind":"attention","value":19852,"meta":{"rank":4,"sector":"HealthTechnology"}}
+{"id":"7fd8af09ba568699","ts":"2026-08-20T15:54:22.203Z","date":"2026-08-20","source":"stocktwits","ticker":"UPST","kind":"attention","value":47644,"meta":{"rank":10,"sector":"Finance"}}
+{"id":"ed8915296568a79e","ts":"2026-08-20T15:54:22.203Z","date":"2026-08-20","source":"stocktwits","ticker":"AG","kind":"attention","value":19899,"meta":{"rank":11,"sector":"NonEnergyMinerals"}}
+{"id":"01a37c18114d23ef","ts":"2026-08-20T15:54:22.203Z","date":"2026-08-20","source":"stocktwits","ticker":"DE","kind":"attention","value":13465,"meta":{"rank":14,"sector":"ProducerManufacturing"}}
+{"id":"73b650e82fbf9aa8","ts":"2026-08-20T15:54:22.216Z","date":"2026-08-20","source":"stocktwits","ticker":"NLST","kind":"attention","value":26865,"meta":{"rank":15,"sector":"ElectronicTechnology"}}
+{"id":"e016f1c963358169","ts":"2026-08-20T15:54:22.216Z","date":"2026-08-20","source":"stocktwits","ticker":"ONDS","kind":"attention","value":36310,"meta":{"rank":17,"sector":"ElectronicTechnology"}}
+{"id":"fd7eb9a7b05def14","ts":"2026-08-20T15:54:22.216Z","date":"2026-08-20","source":"stocktwits","ticker":"BKKT","kind":"attention","value":25371,"meta":{"rank":19,"sector":"CommercialServices"}}
+{"id":"279fb42c8706a5f9","ts":"2026-08-20T15:54:22.217Z","date":"2026-08-20","source":"stocktwits","ticker":"DKNG","kind":"attention","value":120366,"meta":{"rank":24,"sector":"ConsumerServices"}}
+{"id":"fcafbae9f9185497","ts":"2026-08-20T15:54:22.217Z","date":"2026-08-20","source":"stocktwits","ticker":"KLAR","kind":"attention","value":7682,"meta":{"rank":25,"sector":"CommercialServices"}}
+{"id":"5eb05157a199fa11","ts":"2026-08-20T15:54:22.217Z","date":"2026-08-20","source":"stocktwits","ticker":"PYPL","kind":"attention","value":166324,"meta":{"rank":26,"sector":"CommercialServices"}}
+{"id":"f316e7ba26b94094","ts":"2026-08-20T15:54:22.217Z","date":"2026-08-20","source":"stocktwits","ticker":"ADI","kind":"attention","value":4839,"meta":{"rank":29,"sector":"ElectronicTechnology"}}
