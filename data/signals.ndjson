@@ -15656,3 +15656,12 @@
 {"id":"a56c37e3d2ef7d7a","ts":"2026-08-20T19:07:30.559Z","date":"2026-08-20","source":"apewisdom","ticker":"IQ","kind":"attention","value":12,"meta":{"rank":50,"upvotes":43,"prev24h":6}}
 {"id":"251c7696e61df57d","ts":"2026-08-20T19:51:41.607Z","date":"2026-08-20","source":"stocktwits","ticker":"JPM","kind":"attention","value":98162,"meta":{"rank":27,"sector":"Finance"}}
 {"id":"0343e009b2812b15","ts":"2026-08-20T19:51:43.565Z","date":"2026-08-20","source":"apewisdom","ticker":"TTWO","kind":"attention","value":12,"meta":{"rank":50,"upvotes":14,"prev24h":1}}
+{"id":"910ef0aa00c9849f","ts":"2026-08-20T20:52:32.429Z","date":"2026-08-20","source":"stocktwits","ticker":"FRMI","kind":"attention","value":5580,"meta":{"rank":6,"sector":"Finance"}}
+{"id":"311454317311d491","ts":"2026-08-20T20:52:32.429Z","date":"2026-08-20","source":"stocktwits","ticker":"MARA","kind":"attention","value":158148,"meta":{"rank":8,"sector":"TechnologyServices"}}
+{"id":"bb741f7511d84c0f","ts":"2026-08-20T20:52:32.429Z","date":"2026-08-20","source":"stocktwits","ticker":"EROC","kind":"attention","value":541,"meta":{"rank":17,"sector":"ProducerManufacturing"}}
+{"id":"a83398ac88aa1f5b","ts":"2026-08-20T20:52:32.429Z","date":"2026-08-20","source":"stocktwits","ticker":"KHC","kind":"attention","value":16149,"meta":{"rank":19,"sector":"ConsumerNonDurables"}}
+{"id":"d1e69720e08e8343","ts":"2026-08-20T20:52:32.429Z","date":"2026-08-20","source":"stocktwits","ticker":"ALM","kind":"attention","value":1144,"meta":{"rank":22,"sector":"NonEnergyMinerals"}}
+{"id":"9026cdc64f9082c0","ts":"2026-08-20T20:52:32.430Z","date":"2026-08-20","source":"stocktwits","ticker":"CVNA","kind":"attention","value":41552,"meta":{"rank":24,"sector":"RetailTrade"}}
+{"id":"6e9cec2155b2470b","ts":"2026-08-20T20:52:32.430Z","date":"2026-08-20","source":"stocktwits","ticker":"WFC","kind":"attention","value":54541,"meta":{"rank":28,"sector":"Finance"}}
+{"id":"3efe5b6fd1e3416e","ts":"2026-08-20T20:52:32.430Z","date":"2026-08-20","source":"stocktwits","ticker":"PDI","kind":"attention","value":1802,"meta":{"rank":30,"sector":"Miscellaneous"}}
+{"id":"cf61f5ca580d7ad4","ts":"2026-08-20T20:52:34.365Z","date":"2026-08-20","source":"apewisdom","ticker":"ON","kind":"attention","value":12,"meta":{"rank":50,"upvotes":41,"prev24h":5}}
