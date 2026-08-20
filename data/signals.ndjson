@@ -15597,3 +15597,9 @@
 {"id":"71f39639a5566fdd","ts":"2026-08-20T10:52:53.538Z","date":"2026-08-20","source":"apewisdom","ticker":"EU","kind":"attention","value":19,"meta":{"rank":37,"upvotes":56,"prev24h":5}}
 {"id":"0f112ced0f8da471","ts":"2026-08-20T10:52:53.539Z","date":"2026-08-20","source":"apewisdom","ticker":"USO","kind":"attention","value":14,"meta":{"rank":44,"upvotes":35,"prev24h":6}}
 {"id":"c8616f09ec59a01f","ts":"2026-08-20T10:52:53.539Z","date":"2026-08-20","source":"apewisdom","ticker":"HBM","kind":"attention","value":14,"meta":{"rank":46,"upvotes":117,"prev24h":5}}
+{"id":"66bef2012009cf43","ts":"2026-08-20T11:48:29.335Z","date":"2026-08-20","source":"stocktwits","ticker":"QQQ","kind":"attention","value":278616,"meta":{"rank":11,"sector":"Miscellaneous"}}
+{"id":"fb89cd3b0f8b5609","ts":"2026-08-20T11:48:29.335Z","date":"2026-08-20","source":"stocktwits","ticker":"SPY","kind":"attention","value":636259,"meta":{"rank":19,"sector":"Miscellaneous"}}
+{"id":"ddc8cdd10bc50492","ts":"2026-08-20T11:48:29.335Z","date":"2026-08-20","source":"stocktwits","ticker":"DIA","kind":"attention","value":76574,"meta":{"rank":24,"sector":"Miscellaneous"}}
+{"id":"f8a4d2635a08ff5d","ts":"2026-08-20T11:48:29.335Z","date":"2026-08-20","source":"stocktwits","ticker":"JNJ","kind":"attention","value":49107,"meta":{"rank":26,"sector":"HealthTechnology"}}
+{"id":"27fdf51b6323f025","ts":"2026-08-20T11:48:29.335Z","date":"2026-08-20","source":"stocktwits","ticker":"LASR","kind":"attention","value":2889,"meta":{"rank":28,"sector":"ElectronicTechnology"}}
+{"id":"e61fdfe84c9e6383","ts":"2026-08-20T11:48:29.336Z","date":"2026-08-20","source":"stocktwits","ticker":"MRVL","kind":"attention","value":50530,"meta":{"rank":30,"sector":"ElectronicTechnology"}}
