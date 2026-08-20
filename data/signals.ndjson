@@ -15603,3 +15603,12 @@
 {"id":"f8a4d2635a08ff5d","ts":"2026-08-20T11:48:29.335Z","date":"2026-08-20","source":"stocktwits","ticker":"JNJ","kind":"attention","value":49107,"meta":{"rank":26,"sector":"HealthTechnology"}}
 {"id":"27fdf51b6323f025","ts":"2026-08-20T11:48:29.335Z","date":"2026-08-20","source":"stocktwits","ticker":"LASR","kind":"attention","value":2889,"meta":{"rank":28,"sector":"ElectronicTechnology"}}
 {"id":"e61fdfe84c9e6383","ts":"2026-08-20T11:48:29.336Z","date":"2026-08-20","source":"stocktwits","ticker":"MRVL","kind":"attention","value":50530,"meta":{"rank":30,"sector":"ElectronicTechnology"}}
+{"id":"047b3b298bcafa14","ts":"2026-08-20T13:23:43.006Z","date":"2026-08-20","source":"stocktwits","ticker":"RARE","kind":"attention","value":3012,"meta":{"rank":15,"sector":"HealthTechnology"}}
+{"id":"0c470585f4a5181d","ts":"2026-08-20T13:23:43.019Z","date":"2026-08-20","source":"stocktwits","ticker":"NUVB","kind":"attention","value":3452,"meta":{"rank":16,"sector":"HealthTechnology"}}
+{"id":"131bb50d8f423549","ts":"2026-08-20T13:23:43.019Z","date":"2026-08-20","source":"stocktwits","ticker":"STLA","kind":"attention","value":11775,"meta":{"rank":19,"sector":"ConsumerDurables"}}
+{"id":"0da3a034acb4a12b","ts":"2026-08-20T13:23:43.019Z","date":"2026-08-20","source":"stocktwits","ticker":"AMTM","kind":"attention","value":2007,"meta":{"rank":21,"sector":"ElectronicTechnology"}}
+{"id":"b332cd6eecc2e30b","ts":"2026-08-20T13:23:43.019Z","date":"2026-08-20","source":"stocktwits","ticker":"INTU","kind":"attention","value":12213,"meta":{"rank":23,"sector":"TechnologyServices"}}
+{"id":"bd28f27b3c7b686c","ts":"2026-08-20T13:23:43.020Z","date":"2026-08-20","source":"stocktwits","ticker":"COST","kind":"attention","value":64722,"meta":{"rank":25,"sector":"RetailTrade"}}
+{"id":"7ea41789f399bb2f","ts":"2026-08-20T13:23:43.020Z","date":"2026-08-20","source":"stocktwits","ticker":"BAC","kind":"attention","value":146822,"meta":{"rank":27,"sector":"Finance"}}
+{"id":"c2faa0a0746ee084","ts":"2026-08-20T13:23:43.020Z","date":"2026-08-20","source":"stocktwits","ticker":"DVN","kind":"attention","value":14424,"meta":{"rank":30,"sector":"EnergyMinerals"}}
+{"id":"feec06aec493474d","ts":"2026-08-20T13:23:45.714Z","date":"2026-08-20","source":"apewisdom","ticker":"ALL","kind":"attention","value":14,"meta":{"rank":45,"upvotes":80,"prev24h":8}}
