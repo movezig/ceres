@@ -16154,3 +16154,13 @@
 {"id":"e0c19d4a85b23859","ts":"2026-08-21T19:43:57.626Z","date":"2026-08-21","source":"stocktwits","ticker":"GS","kind":"attention","value":34207,"meta":{"rank":22,"sector":"Finance"}}
 {"id":"3954ee1a9685e2b8","ts":"2026-08-21T19:43:57.626Z","date":"2026-08-21","source":"stocktwits","ticker":"USAR","kind":"attention","value":19670,"meta":{"rank":24,"sector":"Finance"}}
 {"id":"f4cdedc047ca0339","ts":"2026-08-21T19:43:57.626Z","date":"2026-08-21","source":"stocktwits","ticker":"CBRS","kind":"attention","value":12741,"meta":{"rank":30,"sector":"TechnologyServices"}}
+{"id":"c8303b0b1d2450ab","ts":"2026-08-21T20:46:46.759Z","date":"2026-08-21","source":"stocktwits","ticker":"GTBIF","kind":"attention","value":6294,"meta":{"rank":11,"sector":"ProcessIndustries"}}
+{"id":"c82f4e2730a189ea","ts":"2026-08-21T20:46:46.759Z","date":"2026-08-21","source":"stocktwits","ticker":"BRK-B","kind":"attention","value":47467,"meta":{"rank":12,"sector":"Finance"}}
+{"id":"eed5327e1253d1e1","ts":"2026-08-21T20:46:46.760Z","date":"2026-08-21","source":"stocktwits","ticker":"CCJ","kind":"attention","value":17346,"meta":{"rank":13,"sector":"NonEnergyMinerals"}}
+{"id":"c24a74e5e1dc0c7e","ts":"2026-08-21T20:46:46.760Z","date":"2026-08-21","source":"stocktwits","ticker":"UEC","kind":"attention","value":19033,"meta":{"rank":16,"sector":"NonEnergyMinerals"}}
+{"id":"f4c4330710b1aff4","ts":"2026-08-21T20:46:46.760Z","date":"2026-08-21","source":"stocktwits","ticker":"RGTI","kind":"attention","value":52003,"meta":{"rank":18,"sector":"ElectronicTechnology"}}
+{"id":"79e7d931509e0185","ts":"2026-08-21T20:46:46.760Z","date":"2026-08-21","source":"stocktwits","ticker":"ARCT","kind":"attention","value":5511,"meta":{"rank":22,"sector":"HealthTechnology"}}
+{"id":"4710c87ec047da42","ts":"2026-08-21T20:46:46.760Z","date":"2026-08-21","source":"stocktwits","ticker":"IMMX","kind":"attention","value":4587,"meta":{"rank":26,"sector":"HealthTechnology"}}
+{"id":"54e1654db8c86a59","ts":"2026-08-21T20:46:46.760Z","date":"2026-08-21","source":"stocktwits","ticker":"GOOGL","kind":"attention","value":226511,"meta":{"rank":29,"sector":"TechnologyServices"}}
+{"id":"09a326b7425db493","ts":"2026-08-21T20:46:47.830Z","date":"2026-08-21","source":"stocktwits","ticker":"UTHR","kind":"sentiment","value":90,"meta":{"bull":9,"bear":1}}
+{"id":"de44eea6af7b72b0","ts":"2026-08-21T20:46:48.742Z","date":"2026-08-21","source":"apewisdom","ticker":"AGI","kind":"attention","value":11,"meta":{"rank":47,"upvotes":50,"prev24h":3}}
