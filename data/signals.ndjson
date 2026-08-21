@@ -16116,3 +16116,7 @@
 {"id":"75597f2499f7ac07","ts":"2026-08-21T14:05:58.746Z","date":"2026-08-21","source":"apewisdom","ticker":"KEEL","kind":"attention","value":12,"meta":{"rank":45,"upvotes":24,"prev24h":4}}
 {"id":"5dadda0aab99118a","ts":"2026-08-21T14:05:58.746Z","date":"2026-08-21","source":"apewisdom","ticker":"NKE","kind":"attention","value":12,"meta":{"rank":48,"upvotes":90,"prev24h":11}}
 {"id":"275cafba547eaaa3","ts":"2026-08-21T14:05:58.746Z","date":"2026-08-21","source":"apewisdom","ticker":"MMA","kind":"attention","value":11,"meta":{"rank":50,"upvotes":18,"prev24h":0}}
+{"id":"704155383841bc53","ts":"2026-08-21T15:00:27.554Z","date":"2026-08-20","source":"houseclerk","ticker":null,"kind":"ptr_filed","value":1,"meta":{"member":"Tim Moore","district":"NC14","url":"https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035291.pdf"}}
+{"id":"70bb293015d785e9","ts":"2026-08-21T15:00:27.556Z","date":"2026-08-20","source":"houseclerk","ticker":null,"kind":"ptr_filed","value":1,"meta":{"member":"David J. Taylor","district":"OH02","url":"https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035289.pdf"}}
+{"id":"4f79c4a11199994e","ts":"2026-08-21T15:00:28.007Z","date":"2026-08-21","source":"stocktwits","ticker":"CIFR","kind":"attention","value":23171,"meta":{"rank":28,"sector":"TechnologyServices"}}
+{"id":"8f1e8c44617fff75","ts":"2026-08-21T15:00:30.845Z","date":"2026-08-21","source":"apewisdom","ticker":"BJ","kind":"attention","value":11,"meta":{"rank":50,"upvotes":27,"prev24h":1}}
