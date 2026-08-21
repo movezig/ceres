@@ -16144,3 +16144,9 @@
 {"id":"5d22e958f79ee6ce","ts":"2026-08-21T17:52:07.805Z","date":"2026-08-21","source":"stocktwits","ticker":"GLD","kind":"attention","value":96075,"meta":{"rank":23,"sector":"Miscellaneous"}}
 {"id":"a5b2184bfe887a8d","ts":"2026-08-21T17:52:07.805Z","date":"2026-08-21","source":"stocktwits","ticker":"LYFT","kind":"attention","value":42510,"meta":{"rank":27,"sector":"Transportation"}}
 {"id":"d6be648437cd6465","ts":"2026-08-21T17:52:07.805Z","date":"2026-08-21","source":"stocktwits","ticker":"IONQ","kind":"attention","value":59204,"meta":{"rank":30,"sector":"ElectronicTechnology"}}
+{"id":"643d5afff72206c8","ts":"2026-08-21T19:03:55.137Z","date":"2026-08-21","source":"stocktwits","ticker":"TRLV","kind":"attention","value":7692,"meta":{"rank":14,"sector":"ProcessIndustries"}}
+{"id":"921a3a2a3da84cd8","ts":"2026-08-21T19:03:55.137Z","date":"2026-08-21","source":"stocktwits","ticker":"INTC","kind":"attention","value":207079,"meta":{"rank":18,"sector":"ElectronicTechnology"}}
+{"id":"7d9b70f0239cb398","ts":"2026-08-21T19:03:55.137Z","date":"2026-08-21","source":"stocktwits","ticker":"ETHA","kind":"attention","value":4140,"meta":{"rank":24,"sector":"Unknown"}}
+{"id":"dac0fb97fb9506b1","ts":"2026-08-21T19:03:55.138Z","date":"2026-08-21","source":"stocktwits","ticker":"SEDG","kind":"attention","value":18475,"meta":{"rank":29,"sector":"ProducerManufacturing"}}
+{"id":"eadd055fcb9de109","ts":"2026-08-21T19:03:55.138Z","date":"2026-08-21","source":"stocktwits","ticker":"ENPH","kind":"attention","value":49207,"meta":{"rank":30,"sector":"ProducerManufacturing"}}
+{"id":"a755b3598681e455","ts":"2026-08-21T19:03:57.205Z","date":"2026-08-21","source":"apewisdom","ticker":"BABA","kind":"attention","value":10,"meta":{"rank":49,"upvotes":21,"prev24h":9}}
