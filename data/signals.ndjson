@@ -16139,3 +16139,8 @@
 {"id":"f7d76da795c609a1","ts":"2026-08-21T16:57:13.842Z","date":"2026-08-21","source":"stocktwits","ticker":"PLTR","kind":"attention","value":324480,"meta":{"rank":9,"sector":"TechnologyServices"}}
 {"id":"70519d0c8e81cd52","ts":"2026-08-21T16:57:13.843Z","date":"2026-08-21","source":"stocktwits","ticker":"LCID","kind":"attention","value":218315,"meta":{"rank":22,"sector":"ConsumerDurables"}}
 {"id":"67c2c460f05acd5e","ts":"2026-08-21T16:57:13.843Z","date":"2026-08-21","source":"stocktwits","ticker":"RIVN","kind":"attention","value":88392,"meta":{"rank":26,"sector":"ConsumerDurables"}}
+{"id":"f2ca803571bb4199","ts":"2026-08-21T17:52:07.805Z","date":"2026-08-21","source":"stocktwits","ticker":"GRRR","kind":"attention","value":25398,"meta":{"rank":17,"sector":"TechnologyServices"}}
+{"id":"b3a854000966440d","ts":"2026-08-21T17:52:07.805Z","date":"2026-08-21","source":"stocktwits","ticker":"DE","kind":"attention","value":13480,"meta":{"rank":22,"sector":"ProducerManufacturing"}}
+{"id":"5d22e958f79ee6ce","ts":"2026-08-21T17:52:07.805Z","date":"2026-08-21","source":"stocktwits","ticker":"GLD","kind":"attention","value":96075,"meta":{"rank":23,"sector":"Miscellaneous"}}
+{"id":"a5b2184bfe887a8d","ts":"2026-08-21T17:52:07.805Z","date":"2026-08-21","source":"stocktwits","ticker":"LYFT","kind":"attention","value":42510,"meta":{"rank":27,"sector":"Transportation"}}
+{"id":"d6be648437cd6465","ts":"2026-08-21T17:52:07.805Z","date":"2026-08-21","source":"stocktwits","ticker":"IONQ","kind":"attention","value":59204,"meta":{"rank":30,"sector":"ElectronicTechnology"}}
