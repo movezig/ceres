@@ -16465,3 +16465,9 @@
 {"id":"a11b979e36094e2a","ts":"2026-08-21T21:44:48.656Z","date":"2026-08-21","source":"apewisdom","ticker":"AAOI","kind":"attention","value":10,"meta":{"rank":50,"upvotes":18,"prev24h":5}}
 {"id":"67d336c6489aab2d","ts":"2026-08-21T22:46:38.293Z","date":"2026-08-21","source":"stocktwits","ticker":"SGML","kind":"attention","value":3664,"meta":{"rank":21,"sector":"NonEnergyMinerals"}}
 {"id":"fab79e52e3493a36","ts":"2026-08-21T22:46:38.294Z","date":"2026-08-21","source":"stocktwits","ticker":"TXN","kind":"attention","value":13186,"meta":{"rank":30,"sector":"ElectronicTechnology"}}
+{"id":"1909374585e5dcea","ts":"2026-08-21T23:44:10.458Z","date":"2026-08-21","source":"stocktwits","ticker":"FNMA","kind":"attention","value":17805,"meta":{"rank":19,"sector":"Finance"}}
+{"id":"69bdb43208d02fdd","ts":"2026-08-21T23:44:10.458Z","date":"2026-08-21","source":"stocktwits","ticker":"ONON","kind":"attention","value":6877,"meta":{"rank":24,"sector":"ConsumerNonDurables"}}
+{"id":"d306468e4ed63a50","ts":"2026-08-21T23:44:10.459Z","date":"2026-08-21","source":"stocktwits","ticker":"GE","kind":"attention","value":154885,"meta":{"rank":25,"sector":"ElectronicTechnology"}}
+{"id":"8b9f0bf9a1cad7f3","ts":"2026-08-21T23:44:10.459Z","date":"2026-08-21","source":"stocktwits","ticker":"LUMN","kind":"attention","value":19013,"meta":{"rank":29,"sector":"Communications"}}
+{"id":"a6049144d1334a0e","ts":"2026-08-21T23:44:11.747Z","date":"2026-08-21","source":"stocktwits","ticker":"ILMN","kind":"sentiment","value":100,"meta":{"bull":16,"bear":0}}
+{"id":"8c51816c67492471","ts":"2026-08-21T23:44:12.583Z","date":"2026-08-21","source":"apewisdom","ticker":"JPM","kind":"attention","value":9,"meta":{"rank":50,"upvotes":20,"prev24h":1}}
