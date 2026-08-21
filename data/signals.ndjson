@@ -16120,3 +16120,19 @@
 {"id":"70bb293015d785e9","ts":"2026-08-21T15:00:27.556Z","date":"2026-08-20","source":"houseclerk","ticker":null,"kind":"ptr_filed","value":1,"meta":{"member":"David J. Taylor","district":"OH02","url":"https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035289.pdf"}}
 {"id":"4f79c4a11199994e","ts":"2026-08-21T15:00:28.007Z","date":"2026-08-21","source":"stocktwits","ticker":"CIFR","kind":"attention","value":23171,"meta":{"rank":28,"sector":"TechnologyServices"}}
 {"id":"8f1e8c44617fff75","ts":"2026-08-21T15:00:30.845Z","date":"2026-08-21","source":"apewisdom","ticker":"BJ","kind":"attention","value":11,"meta":{"rank":50,"upvotes":27,"prev24h":1}}
+{"id":"9902a14dc685d943","ts":"2026-08-21T15:54:41.374Z","date":"2026-08-21","source":"stocktwits","ticker":"INFQ","kind":"attention","value":16250,"meta":{"rank":2,"sector":"ElectronicTechnology"}}
+{"id":"4f3dc72270eea120","ts":"2026-08-21T15:54:41.375Z","date":"2026-08-21","source":"stocktwits","ticker":"MRVL","kind":"attention","value":50652,"meta":{"rank":3,"sector":"ElectronicTechnology"}}
+{"id":"2f51782189d8d004","ts":"2026-08-21T15:54:41.375Z","date":"2026-08-21","source":"stocktwits","ticker":"HUT","kind":"attention","value":29601,"meta":{"rank":6,"sector":"TechnologyServices"}}
+{"id":"96eb6705660d5400","ts":"2026-08-21T15:54:41.375Z","date":"2026-08-21","source":"stocktwits","ticker":"WULF","kind":"attention","value":31105,"meta":{"rank":7,"sector":"TechnologyServices"}}
+{"id":"3b6a33f29f1f11f6","ts":"2026-08-21T15:54:41.375Z","date":"2026-08-21","source":"stocktwits","ticker":"IREN","kind":"attention","value":48727,"meta":{"rank":8,"sector":"TechnologyServices"}}
+{"id":"fee179f03e1311a3","ts":"2026-08-21T15:54:41.375Z","date":"2026-08-21","source":"stocktwits","ticker":"CRML","kind":"attention","value":13890,"meta":{"rank":12,"sector":"Finance"}}
+{"id":"9a07cb863f20875b","ts":"2026-08-21T15:54:41.376Z","date":"2026-08-21","source":"stocktwits","ticker":"OMER","kind":"attention","value":11696,"meta":{"rank":20,"sector":"HealthTechnology"}}
+{"id":"ba27ac54b04939b9","ts":"2026-08-21T15:54:41.376Z","date":"2026-08-21","source":"stocktwits","ticker":"PSNL","kind":"attention","value":2909,"meta":{"rank":23,"sector":"HealthServices"}}
+{"id":"5a1cd778894dbbec","ts":"2026-08-21T15:54:41.376Z","date":"2026-08-21","source":"stocktwits","ticker":"AXP","kind":"attention","value":20742,"meta":{"rank":26,"sector":"Finance"}}
+{"id":"c74a1d2933728dd1","ts":"2026-08-21T15:54:41.376Z","date":"2026-08-21","source":"stocktwits","ticker":"CRWD","kind":"attention","value":62028,"meta":{"rank":28,"sector":"TechnologyServices"}}
+{"id":"8bcd3b6d326f5eae","ts":"2026-08-21T15:54:41.376Z","date":"2026-08-21","source":"stocktwits","ticker":"FN","kind":"attention","value":3193,"meta":{"rank":29,"sector":"ElectronicTechnology"}}
+{"id":"71fb5745a701035f","ts":"2026-08-21T15:54:41.376Z","date":"2026-08-21","source":"stocktwits","ticker":"CRDO","kind":"attention","value":11325,"meta":{"rank":30,"sector":"TechnologyServices"}}
+{"id":"2391017990de0b8b","ts":"2026-08-21T15:54:43.414Z","date":"2026-08-21","source":"apewisdom","ticker":"IBKR","kind":"attention","value":12,"meta":{"rank":45,"upvotes":38,"prev24h":13}}
+{"id":"ae10c83f3b4e258e","ts":"2026-08-21T15:54:43.414Z","date":"2026-08-21","source":"apewisdom","ticker":"SOFI","kind":"attention","value":12,"meta":{"rank":46,"upvotes":17,"prev24h":8}}
+{"id":"e8020b6a3eb637ca","ts":"2026-08-21T15:54:43.414Z","date":"2026-08-21","source":"apewisdom","ticker":"PLTR","kind":"attention","value":11,"meta":{"rank":48,"upvotes":20,"prev24h":14}}
+{"id":"e4b86b86baee0cb5","ts":"2026-08-21T15:54:43.414Z","date":"2026-08-21","source":"apewisdom","ticker":"ES","kind":"attention","value":10,"meta":{"rank":50,"upvotes":17,"prev24h":7}}
