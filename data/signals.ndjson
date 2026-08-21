@@ -16136,3 +16136,6 @@
 {"id":"ae10c83f3b4e258e","ts":"2026-08-21T15:54:43.414Z","date":"2026-08-21","source":"apewisdom","ticker":"SOFI","kind":"attention","value":12,"meta":{"rank":46,"upvotes":17,"prev24h":8}}
 {"id":"e8020b6a3eb637ca","ts":"2026-08-21T15:54:43.414Z","date":"2026-08-21","source":"apewisdom","ticker":"PLTR","kind":"attention","value":11,"meta":{"rank":48,"upvotes":20,"prev24h":14}}
 {"id":"e4b86b86baee0cb5","ts":"2026-08-21T15:54:43.414Z","date":"2026-08-21","source":"apewisdom","ticker":"ES","kind":"attention","value":10,"meta":{"rank":50,"upvotes":17,"prev24h":7}}
+{"id":"f7d76da795c609a1","ts":"2026-08-21T16:57:13.842Z","date":"2026-08-21","source":"stocktwits","ticker":"PLTR","kind":"attention","value":324480,"meta":{"rank":9,"sector":"TechnologyServices"}}
+{"id":"70519d0c8e81cd52","ts":"2026-08-21T16:57:13.843Z","date":"2026-08-21","source":"stocktwits","ticker":"LCID","kind":"attention","value":218315,"meta":{"rank":22,"sector":"ConsumerDurables"}}
+{"id":"67c2c460f05acd5e","ts":"2026-08-21T16:57:13.843Z","date":"2026-08-21","source":"stocktwits","ticker":"RIVN","kind":"attention","value":88392,"meta":{"rank":26,"sector":"ConsumerDurables"}}
