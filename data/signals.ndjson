@@ -16463,3 +16463,5 @@
 {"id":"3e4ddb153ebec511","ts":"2026-08-21T21:44:46.450Z","date":"2026-08-21","source":"stocktwits","ticker":"GOF","kind":"attention","value":1357,"meta":{"rank":24,"sector":"Miscellaneous"}}
 {"id":"68a3e742cd4e483e","ts":"2026-08-21T21:44:46.450Z","date":"2026-08-21","source":"stocktwits","ticker":"EXK","kind":"attention","value":5575,"meta":{"rank":29,"sector":"NonEnergyMinerals"}}
 {"id":"a11b979e36094e2a","ts":"2026-08-21T21:44:48.656Z","date":"2026-08-21","source":"apewisdom","ticker":"AAOI","kind":"attention","value":10,"meta":{"rank":50,"upvotes":18,"prev24h":5}}
+{"id":"67d336c6489aab2d","ts":"2026-08-21T22:46:38.293Z","date":"2026-08-21","source":"stocktwits","ticker":"SGML","kind":"attention","value":3664,"meta":{"rank":21,"sector":"NonEnergyMinerals"}}
+{"id":"fab79e52e3493a36","ts":"2026-08-21T22:46:38.294Z","date":"2026-08-21","source":"stocktwits","ticker":"TXN","kind":"attention","value":13186,"meta":{"rank":30,"sector":"ElectronicTechnology"}}
