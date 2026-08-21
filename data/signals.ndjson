@@ -16101,3 +16101,9 @@
 {"id":"fabeb1617214ba87","ts":"2026-08-21T11:48:09.031Z","date":"2026-08-21","source":"stocktwits","ticker":"AG","kind":"attention","value":19897,"meta":{"rank":29,"sector":"NonEnergyMinerals"}}
 {"id":"865e889619b879b2","ts":"2026-08-21T11:48:09.031Z","date":"2026-08-21","source":"stocktwits","ticker":"RUM","kind":"attention","value":34625,"meta":{"rank":30,"sector":"TechnologyServices"}}
 {"id":"d60d607bccb5d0fc","ts":"2026-08-21T11:48:10.885Z","date":"2026-08-21","source":"apewisdom","ticker":"NOW","kind":"attention","value":11,"meta":{"rank":50,"upvotes":16,"prev24h":27}}
+{"id":"5fc1f4ceaefba7c9","ts":"2026-08-21T13:22:37.364Z","date":"2026-08-21","source":"stocktwits","ticker":"APP","kind":"attention","value":23329,"meta":{"rank":7,"sector":"TechnologyServices"}}
+{"id":"8838d2234f03924d","ts":"2026-08-21T13:22:37.364Z","date":"2026-08-21","source":"stocktwits","ticker":"FCX","kind":"attention","value":28309,"meta":{"rank":21,"sector":"NonEnergyMinerals"}}
+{"id":"1d52bca6b606e8f7","ts":"2026-08-21T13:22:37.365Z","date":"2026-08-21","source":"stocktwits","ticker":"UAL","kind":"attention","value":39873,"meta":{"rank":27,"sector":"Transportation"}}
+{"id":"f8c0a54e6969f5f1","ts":"2026-08-21T13:22:37.365Z","date":"2026-08-21","source":"stocktwits","ticker":"WEN","kind":"attention","value":16090,"meta":{"rank":29,"sector":"ConsumerServices"}}
+{"id":"511e0601a74a6f18","ts":"2026-08-21T13:22:37.365Z","date":"2026-08-21","source":"stocktwits","ticker":"TSSI","kind":"attention","value":6150,"meta":{"rank":30,"sector":"TechnologyServices"}}
+{"id":"5746d57961d33141","ts":"2026-08-21T13:22:41.605Z","date":"2026-08-21","source":"apewisdom","ticker":"ROST","kind":"attention","value":13,"meta":{"rank":40,"upvotes":506,"prev24h":0}}
