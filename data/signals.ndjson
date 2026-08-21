@@ -16150,3 +16150,7 @@
 {"id":"dac0fb97fb9506b1","ts":"2026-08-21T19:03:55.138Z","date":"2026-08-21","source":"stocktwits","ticker":"SEDG","kind":"attention","value":18475,"meta":{"rank":29,"sector":"ProducerManufacturing"}}
 {"id":"eadd055fcb9de109","ts":"2026-08-21T19:03:55.138Z","date":"2026-08-21","source":"stocktwits","ticker":"ENPH","kind":"attention","value":49207,"meta":{"rank":30,"sector":"ProducerManufacturing"}}
 {"id":"a755b3598681e455","ts":"2026-08-21T19:03:57.205Z","date":"2026-08-21","source":"apewisdom","ticker":"BABA","kind":"attention","value":10,"meta":{"rank":49,"upvotes":21,"prev24h":9}}
+{"id":"5a7bc8f083dc8dcd","ts":"2026-08-21T19:43:57.625Z","date":"2026-08-21","source":"stocktwits","ticker":"ABTC","kind":"attention","value":4168,"meta":{"rank":16,"sector":"TechnologyServices"}}
+{"id":"e0c19d4a85b23859","ts":"2026-08-21T19:43:57.626Z","date":"2026-08-21","source":"stocktwits","ticker":"GS","kind":"attention","value":34207,"meta":{"rank":22,"sector":"Finance"}}
+{"id":"3954ee1a9685e2b8","ts":"2026-08-21T19:43:57.626Z","date":"2026-08-21","source":"stocktwits","ticker":"USAR","kind":"attention","value":19670,"meta":{"rank":24,"sector":"Finance"}}
+{"id":"f4cdedc047ca0339","ts":"2026-08-21T19:43:57.626Z","date":"2026-08-21","source":"stocktwits","ticker":"CBRS","kind":"attention","value":12741,"meta":{"rank":30,"sector":"TechnologyServices"}}
