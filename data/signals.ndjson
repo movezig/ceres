@@ -16721,3 +16721,8 @@
 {"id":"d284d8cec8627f69","ts":"2026-08-24T16:00:58.522Z","date":"2026-08-24","source":"stocktwits","ticker":"BKKT","kind":"attention","value":25381,"meta":{"rank":29,"sector":"CommercialServices"}}
 {"id":"8cdcd358b94d379e","ts":"2026-08-24T16:00:58.522Z","date":"2026-08-24","source":"stocktwits","ticker":"COIN","kind":"attention","value":138252,"meta":{"rank":30,"sector":"Finance"}}
 {"id":"469d756168c1fa74","ts":"2026-08-24T16:01:01.105Z","date":"2026-08-24","source":"apewisdom","ticker":"ET","kind":"attention","value":9,"meta":{"rank":45,"upvotes":88,"prev24h":1}}
+{"id":"de313f20f781407a","ts":"2026-08-24T17:02:09.416Z","date":"2026-08-24","source":"stocktwits","ticker":"V","kind":"attention","value":96534,"meta":{"rank":19,"sector":"Finance"}}
+{"id":"0d448bd27fddea0e","ts":"2026-08-24T17:02:09.416Z","date":"2026-08-24","source":"stocktwits","ticker":"MBLY","kind":"attention","value":12652,"meta":{"rank":25,"sector":"TechnologyServices"}}
+{"id":"173ef1987512436b","ts":"2026-08-24T17:02:09.416Z","date":"2026-08-24","source":"stocktwits","ticker":"WFC","kind":"attention","value":54539,"meta":{"rank":27,"sector":"Finance"}}
+{"id":"3ad1263fb7f6e75b","ts":"2026-08-24T17:02:09.416Z","date":"2026-08-24","source":"stocktwits","ticker":"VCX","kind":"attention","value":7579,"meta":{"rank":28,"sector":"Miscellaneous"}}
+{"id":"57c65354285a8fc0","ts":"2026-08-24T17:02:11.570Z","date":"2026-08-24","source":"apewisdom","ticker":"IT","kind":"attention","value":9,"meta":{"rank":46,"upvotes":28,"prev24h":7}}
