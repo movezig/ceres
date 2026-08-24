@@ -16712,3 +16712,12 @@
 {"id":"4ada12de0d218f25","ts":"2026-08-24T15:05:56.017Z","date":"2026-08-24","source":"apewisdom","ticker":"GLP","kind":"attention","value":10,"meta":{"rank":42,"upvotes":1739,"prev24h":1}}
 {"id":"f7633951b993ca86","ts":"2026-08-24T15:05:56.017Z","date":"2026-08-24","source":"apewisdom","ticker":"BE","kind":"attention","value":9,"meta":{"rank":45,"upvotes":18,"prev24h":9}}
 {"id":"26a89ba2c5588c3b","ts":"2026-08-24T15:05:56.017Z","date":"2026-08-24","source":"apewisdom","ticker":"ALL","kind":"attention","value":8,"meta":{"rank":50,"upvotes":24,"prev24h":5}}
+{"id":"5ab4df787f808dd6","ts":"2026-08-24T16:00:58.521Z","date":"2026-08-24","source":"stocktwits","ticker":"BE","kind":"attention","value":33103,"meta":{"rank":8,"sector":"ElectronicTechnology"}}
+{"id":"c73218df384da63b","ts":"2026-08-24T16:00:58.521Z","date":"2026-08-24","source":"stocktwits","ticker":"SBET","kind":"attention","value":21641,"meta":{"rank":22,"sector":"TechnologyServices"}}
+{"id":"ba5e345155953521","ts":"2026-08-24T16:00:58.521Z","date":"2026-08-24","source":"stocktwits","ticker":"AAOI","kind":"attention","value":25318,"meta":{"rank":24,"sector":"ElectronicTechnology"}}
+{"id":"0dfb7b10928d30a8","ts":"2026-08-24T16:00:58.522Z","date":"2026-08-24","source":"stocktwits","ticker":"DIA","kind":"attention","value":76600,"meta":{"rank":25,"sector":"Miscellaneous"}}
+{"id":"156d4636013e4019","ts":"2026-08-24T16:00:58.522Z","date":"2026-08-24","source":"stocktwits","ticker":"SIMO","kind":"attention","value":3189,"meta":{"rank":27,"sector":"ElectronicTechnology"}}
+{"id":"8c8105e55c3ad17b","ts":"2026-08-24T16:00:58.522Z","date":"2026-08-24","source":"stocktwits","ticker":"CBRS","kind":"attention","value":12817,"meta":{"rank":28,"sector":"TechnologyServices"}}
+{"id":"d284d8cec8627f69","ts":"2026-08-24T16:00:58.522Z","date":"2026-08-24","source":"stocktwits","ticker":"BKKT","kind":"attention","value":25381,"meta":{"rank":29,"sector":"CommercialServices"}}
+{"id":"8cdcd358b94d379e","ts":"2026-08-24T16:00:58.522Z","date":"2026-08-24","source":"stocktwits","ticker":"COIN","kind":"attention","value":138252,"meta":{"rank":30,"sector":"Finance"}}
+{"id":"469d756168c1fa74","ts":"2026-08-24T16:01:01.105Z","date":"2026-08-24","source":"apewisdom","ticker":"ET","kind":"attention","value":9,"meta":{"rank":45,"upvotes":88,"prev24h":1}}
