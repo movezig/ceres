@@ -16726,3 +16726,15 @@
 {"id":"173ef1987512436b","ts":"2026-08-24T17:02:09.416Z","date":"2026-08-24","source":"stocktwits","ticker":"WFC","kind":"attention","value":54539,"meta":{"rank":27,"sector":"Finance"}}
 {"id":"3ad1263fb7f6e75b","ts":"2026-08-24T17:02:09.416Z","date":"2026-08-24","source":"stocktwits","ticker":"VCX","kind":"attention","value":7579,"meta":{"rank":28,"sector":"Miscellaneous"}}
 {"id":"57c65354285a8fc0","ts":"2026-08-24T17:02:11.570Z","date":"2026-08-24","source":"apewisdom","ticker":"IT","kind":"attention","value":9,"meta":{"rank":46,"upvotes":28,"prev24h":7}}
+{"id":"7dd524276b7ac84d","ts":"2026-08-24T17:53:28.084Z","date":"2026-08-24","source":"stocktwits","ticker":"ASTS","kind":"attention","value":70545,"meta":{"rank":2,"sector":"Communications"}}
+{"id":"de5edb60fe235eb4","ts":"2026-08-24T17:53:28.084Z","date":"2026-08-24","source":"stocktwits","ticker":"LCID","kind":"attention","value":218296,"meta":{"rank":11,"sector":"ConsumerDurables"}}
+{"id":"f9736ad48e363fde","ts":"2026-08-24T17:53:28.085Z","date":"2026-08-24","source":"stocktwits","ticker":"RFAI","kind":"attention","value":364,"meta":{"rank":13,"sector":"Finance"}}
+{"id":"23ec7059a5e4344c","ts":"2026-08-24T17:53:28.095Z","date":"2026-08-24","source":"stocktwits","ticker":"SPY","kind":"attention","value":636372,"meta":{"rank":17,"sector":"Miscellaneous"}}
+{"id":"59ea88a69d3011a8","ts":"2026-08-24T17:53:28.096Z","date":"2026-08-24","source":"stocktwits","ticker":"GLD","kind":"attention","value":96176,"meta":{"rank":19,"sector":"Miscellaneous"}}
+{"id":"35f1c668ba254477","ts":"2026-08-24T17:53:28.096Z","date":"2026-08-24","source":"stocktwits","ticker":"UPS","kind":"attention","value":29464,"meta":{"rank":20,"sector":"Transportation"}}
+{"id":"2e8a16f4151889be","ts":"2026-08-24T17:53:28.096Z","date":"2026-08-24","source":"stocktwits","ticker":"ALMU","kind":"attention","value":3068,"meta":{"rank":23,"sector":"CommercialServices"}}
+{"id":"6726d6e8bb598fdf","ts":"2026-08-24T17:53:28.096Z","date":"2026-08-24","source":"stocktwits","ticker":"ABUS","kind":"attention","value":16817,"meta":{"rank":24,"sector":"HealthTechnology"}}
+{"id":"b1584414a851bbb9","ts":"2026-08-24T17:53:28.096Z","date":"2026-08-24","source":"stocktwits","ticker":"MA","kind":"attention","value":31956,"meta":{"rank":25,"sector":"Finance"}}
+{"id":"6088a90370cc105c","ts":"2026-08-24T17:53:28.096Z","date":"2026-08-24","source":"stocktwits","ticker":"COST","kind":"attention","value":64766,"meta":{"rank":26,"sector":"RetailTrade"}}
+{"id":"a3dcea864d41db18","ts":"2026-08-24T17:53:28.096Z","date":"2026-08-24","source":"stocktwits","ticker":"B","kind":"attention","value":32233,"meta":{"rank":27,"sector":"NonEnergyMinerals"}}
+{"id":"6edf9dddc77d6b33","ts":"2026-08-24T17:53:30.322Z","date":"2026-08-24","source":"apewisdom","ticker":"CSCO","kind":"attention","value":9,"meta":{"rank":46,"upvotes":10,"prev24h":1}}
