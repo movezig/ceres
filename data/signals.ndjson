@@ -17072,3 +17072,10 @@
 {"id":"5b00e8abc99e037a","ts":"2026-08-24T22:51:42.770Z","date":"2026-08-24","source":"stocktwits","ticker":"GT","kind":"attention","value":5922,"meta":{"rank":27,"sector":"ConsumerDurables"}}
 {"id":"f5447b5ee7f22ec6","ts":"2026-08-24T22:51:42.770Z","date":"2026-08-24","source":"stocktwits","ticker":"XE","kind":"attention","value":3251,"meta":{"rank":30,"sector":"ProducerManufacturing"}}
 {"id":"b4f9467cf2f5f99a","ts":"2026-08-24T22:51:45.053Z","date":"2026-08-24","source":"apewisdom","ticker":"TTWO","kind":"attention","value":12,"meta":{"rank":40,"upvotes":14,"prev24h":5}}
+{"id":"484a2aa233cf7e4a","ts":"2026-08-24T23:42:55.440Z","date":"2026-08-24","source":"stocktwits","ticker":"AVEX","kind":"attention","value":1682,"meta":{"rank":3,"sector":"ElectronicTechnology"}}
+{"id":"621cc7858bbc5d88","ts":"2026-08-24T23:42:55.440Z","date":"2026-08-24","source":"stocktwits","ticker":"GE","kind":"attention","value":154881,"meta":{"rank":13,"sector":"ElectronicTechnology"}}
+{"id":"52b6898ccd846226","ts":"2026-08-24T23:42:55.440Z","date":"2026-08-24","source":"stocktwits","ticker":"LEGN","kind":"attention","value":1403,"meta":{"rank":15,"sector":"HealthTechnology"}}
+{"id":"9b30216b048e7971","ts":"2026-08-24T23:42:55.441Z","date":"2026-08-24","source":"stocktwits","ticker":"AVAV","kind":"attention","value":13132,"meta":{"rank":25,"sector":"ElectronicTechnology"}}
+{"id":"1151975e5b72be09","ts":"2026-08-24T23:42:55.441Z","date":"2026-08-24","source":"stocktwits","ticker":"BTDR","kind":"attention","value":4011,"meta":{"rank":27,"sector":"TechnologyServices"}}
+{"id":"8ed5fa9acece4431","ts":"2026-08-24T23:42:55.441Z","date":"2026-08-24","source":"stocktwits","ticker":"JMIA","kind":"attention","value":38657,"meta":{"rank":28,"sector":"TechnologyServices"}}
+{"id":"517f5d72843943fd","ts":"2026-08-24T23:42:56.394Z","date":"2026-08-24","source":"stocktwits","ticker":"CHYM","kind":"sentiment","value":100,"meta":{"bull":10,"bear":0}}
