@@ -16752,3 +16752,4 @@
 {"id":"eb7e8149283fc862","ts":"2026-08-24T19:07:43.297Z","date":"2026-08-24","source":"stocktwits","ticker":"INOD","kind":"attention","value":11081,"meta":{"rank":27,"sector":"TechnologyServices"}}
 {"id":"2d71fba5dc50d7d4","ts":"2026-08-24T19:07:43.297Z","date":"2026-08-24","source":"stocktwits","ticker":"AEM","kind":"attention","value":4988,"meta":{"rank":29,"sector":"NonEnergyMinerals"}}
 {"id":"e4d1ffcc0b8b6a91","ts":"2026-08-24T19:07:45.415Z","date":"2026-08-24","source":"apewisdom","ticker":"FOR","kind":"attention","value":12,"meta":{"rank":42,"upvotes":23,"prev24h":1}}
+{"id":"a5bed128518924cf","ts":"2026-08-24T19:50:25.951Z","date":"2026-08-24","source":"stocktwits","ticker":"HUT","kind":"attention","value":29654,"meta":{"rank":13,"sector":"TechnologyServices"}}
