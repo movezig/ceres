@@ -17064,3 +17064,11 @@
 {"id":"e8caa503701057a8","ts":"2026-08-24T21:50:30.809Z","date":"2026-08-24","source":"stocktwits","ticker":"EXK","kind":"attention","value":5579,"meta":{"rank":26,"sector":"NonEnergyMinerals"}}
 {"id":"acb9cc2b4c5bf673","ts":"2026-08-24T21:50:30.810Z","date":"2026-08-24","source":"stocktwits","ticker":"TJX","kind":"attention","value":8279,"meta":{"rank":27,"sector":"RetailTrade"}}
 {"id":"9eb134a911eba4d9","ts":"2026-08-24T21:50:30.810Z","date":"2026-08-24","source":"stocktwits","ticker":"OXLC","kind":"attention","value":5099,"meta":{"rank":30,"sector":"Finance"}}
+{"id":"f879a0294974b852","ts":"2026-08-24T22:51:42.770Z","date":"2026-08-24","source":"stocktwits","ticker":"GS","kind":"attention","value":34219,"meta":{"rank":12,"sector":"Finance"}}
+{"id":"0970383df62d5e7f","ts":"2026-08-24T22:51:42.770Z","date":"2026-08-24","source":"stocktwits","ticker":"TGT","kind":"attention","value":50178,"meta":{"rank":13,"sector":"RetailTrade"}}
+{"id":"a8b093587dfc83dd","ts":"2026-08-24T22:51:42.770Z","date":"2026-08-24","source":"stocktwits","ticker":"QS","kind":"attention","value":66639,"meta":{"rank":18,"sector":"ProducerManufacturing"}}
+{"id":"c285d16abeae7b9b","ts":"2026-08-24T22:51:42.770Z","date":"2026-08-24","source":"stocktwits","ticker":"JD","kind":"attention","value":66089,"meta":{"rank":24,"sector":"RetailTrade"}}
+{"id":"bc209d3b4b82dc9c","ts":"2026-08-24T22:51:42.770Z","date":"2026-08-24","source":"stocktwits","ticker":"CAG","kind":"attention","value":4217,"meta":{"rank":25,"sector":"ConsumerNonDurables"}}
+{"id":"5b00e8abc99e037a","ts":"2026-08-24T22:51:42.770Z","date":"2026-08-24","source":"stocktwits","ticker":"GT","kind":"attention","value":5922,"meta":{"rank":27,"sector":"ConsumerDurables"}}
+{"id":"f5447b5ee7f22ec6","ts":"2026-08-24T22:51:42.770Z","date":"2026-08-24","source":"stocktwits","ticker":"XE","kind":"attention","value":3251,"meta":{"rank":30,"sector":"ProducerManufacturing"}}
+{"id":"b4f9467cf2f5f99a","ts":"2026-08-24T22:51:45.053Z","date":"2026-08-24","source":"apewisdom","ticker":"TTWO","kind":"attention","value":12,"meta":{"rank":40,"upvotes":14,"prev24h":5}}
