@@ -17231,3 +17231,12 @@
 {"id":"32be45f59f57b27e","ts":"2026-08-25T15:10:44.950Z","date":"2026-08-25","source":"apewisdom","ticker":"CRM","kind":"attention","value":9,"meta":{"rank":47,"upvotes":10,"prev24h":2}}
 {"id":"7a6aeb0ec1574a84","ts":"2026-08-25T15:10:44.950Z","date":"2026-08-25","source":"apewisdom","ticker":"IBKR","kind":"attention","value":9,"meta":{"rank":50,"upvotes":10,"prev24h":2}}
 {"id":"8bf499962985b0e0","ts":"2026-08-25T16:05:06.552Z","date":"2026-08-25","source":"apewisdom","ticker":"INFQ","kind":"attention","value":10,"meta":{"rank":48,"upvotes":9,"prev24h":11}}
+{"id":"3ee52b689fd366c2","ts":"2026-08-25T17:02:00.595Z","date":"2026-08-25","source":"stocktwits","ticker":"IBRX","kind":"attention","value":30044,"meta":{"rank":13,"sector":"HealthTechnology"}}
+{"id":"97a1b37ed5e85f59","ts":"2026-08-25T17:02:00.596Z","date":"2026-08-25","source":"stocktwits","ticker":"TRLV","kind":"attention","value":7724,"meta":{"rank":14,"sector":"ProcessIndustries"}}
+{"id":"f2c1f6675bd8dac7","ts":"2026-08-25T17:02:00.596Z","date":"2026-08-25","source":"stocktwits","ticker":"RARE","kind":"attention","value":3129,"meta":{"rank":15,"sector":"HealthTechnology"}}
+{"id":"f9ab83ac68a59a20","ts":"2026-08-25T17:02:00.596Z","date":"2026-08-25","source":"stocktwits","ticker":"GLSI","kind":"attention","value":12607,"meta":{"rank":18,"sector":"HealthTechnology"}}
+{"id":"4cf82fe6f69d4957","ts":"2026-08-25T17:02:00.596Z","date":"2026-08-25","source":"stocktwits","ticker":"PYPL","kind":"attention","value":166275,"meta":{"rank":20,"sector":"CommercialServices"}}
+{"id":"845e0e3efdbaf997","ts":"2026-08-25T17:02:00.596Z","date":"2026-08-25","source":"stocktwits","ticker":"TWST","kind":"attention","value":4259,"meta":{"rank":26,"sector":"HealthTechnology"}}
+{"id":"3f98939aba1179e6","ts":"2026-08-25T17:02:00.596Z","date":"2026-08-25","source":"stocktwits","ticker":"CCJ","kind":"attention","value":17377,"meta":{"rank":29,"sector":"NonEnergyMinerals"}}
+{"id":"f59f0d25fe15335f","ts":"2026-08-25T17:02:00.596Z","date":"2026-08-25","source":"stocktwits","ticker":"UUUU","kind":"attention","value":23319,"meta":{"rank":30,"sector":"NonEnergyMinerals"}}
+{"id":"677cd39799648a2c","ts":"2026-08-25T17:02:03.281Z","date":"2026-08-25","source":"apewisdom","ticker":"SMCI","kind":"attention","value":9,"meta":{"rank":50,"upvotes":23,"prev24h":9}}
