@@ -17230,3 +17230,4 @@
 {"id":"5eeddacf699ecd1f","ts":"2026-08-25T15:10:44.950Z","date":"2026-08-25","source":"apewisdom","ticker":"PLTR","kind":"attention","value":15,"meta":{"rank":35,"upvotes":1595,"prev24h":7}}
 {"id":"32be45f59f57b27e","ts":"2026-08-25T15:10:44.950Z","date":"2026-08-25","source":"apewisdom","ticker":"CRM","kind":"attention","value":9,"meta":{"rank":47,"upvotes":10,"prev24h":2}}
 {"id":"7a6aeb0ec1574a84","ts":"2026-08-25T15:10:44.950Z","date":"2026-08-25","source":"apewisdom","ticker":"IBKR","kind":"attention","value":9,"meta":{"rank":50,"upvotes":10,"prev24h":2}}
+{"id":"8bf499962985b0e0","ts":"2026-08-25T16:05:06.552Z","date":"2026-08-25","source":"apewisdom","ticker":"INFQ","kind":"attention","value":10,"meta":{"rank":48,"upvotes":9,"prev24h":11}}
