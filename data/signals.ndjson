@@ -17254,3 +17254,16 @@
 {"id":"574eabbc8f16735f","ts":"2026-08-25T17:51:18.254Z","date":"2026-08-25","source":"stocktwits","ticker":"NNE","kind":"attention","value":12847,"meta":{"rank":29,"sector":"ProducerManufacturing"}}
 {"id":"f03497d388a0e2db","ts":"2026-08-25T17:51:21.541Z","date":"2026-08-25","source":"apewisdom","ticker":"IQ","kind":"attention","value":11,"meta":{"rank":43,"upvotes":57,"prev24h":3}}
 {"id":"96c8fca6e0aeb675","ts":"2026-08-25T17:51:21.541Z","date":"2026-08-25","source":"apewisdom","ticker":"NFLX","kind":"attention","value":10,"meta":{"rank":47,"upvotes":23,"prev24h":13}}
+{"id":"1d86cf329486fc03","ts":"2026-08-25T19:05:47.226Z","date":"2026-08-25","source":"stocktwits","ticker":"WEN","kind":"attention","value":16103,"meta":{"rank":2,"sector":"ConsumerServices"}}
+{"id":"e6b1ecdfef663476","ts":"2026-08-25T19:05:47.226Z","date":"2026-08-25","source":"stocktwits","ticker":"SNAP","kind":"attention","value":234285,"meta":{"rank":8,"sector":"TechnologyServices"}}
+{"id":"72f252b21cf51b2b","ts":"2026-08-25T19:05:47.226Z","date":"2026-08-25","source":"stocktwits","ticker":"SMR","kind":"attention","value":24751,"meta":{"rank":11,"sector":"ProducerManufacturing"}}
+{"id":"a7016e25ce9b923c","ts":"2026-08-25T19:05:47.227Z","date":"2026-08-25","source":"stocktwits","ticker":"GLXY","kind":"attention","value":18981,"meta":{"rank":13,"sector":"Finance"}}
+{"id":"7a704180c3cd8838","ts":"2026-08-25T19:05:47.227Z","date":"2026-08-25","source":"stocktwits","ticker":"LEU","kind":"attention","value":8599,"meta":{"rank":16,"sector":"NonEnergyMinerals"}}
+{"id":"3a204d4baec19129","ts":"2026-08-25T19:05:47.227Z","date":"2026-08-25","source":"stocktwits","ticker":"LQDA","kind":"attention","value":4413,"meta":{"rank":17,"sector":"HealthTechnology"}}
+{"id":"1a04412a4b76ac4a","ts":"2026-08-25T19:05:47.227Z","date":"2026-08-25","source":"stocktwits","ticker":"RBRK","kind":"attention","value":5904,"meta":{"rank":18,"sector":"TechnologyServices"}}
+{"id":"6dde7c620c3be754","ts":"2026-08-25T19:05:47.227Z","date":"2026-08-25","source":"stocktwits","ticker":"BULL","kind":"attention","value":24800,"meta":{"rank":20,"sector":"Finance"}}
+{"id":"fbe36ae7f6653550","ts":"2026-08-25T19:05:47.227Z","date":"2026-08-25","source":"stocktwits","ticker":"IONQ","kind":"attention","value":59240,"meta":{"rank":21,"sector":"ElectronicTechnology"}}
+{"id":"2522f73a48e682ec","ts":"2026-08-25T19:05:47.227Z","date":"2026-08-25","source":"stocktwits","ticker":"AVEX","kind":"attention","value":1704,"meta":{"rank":22,"sector":"ElectronicTechnology"}}
+{"id":"c787b5775234a54d","ts":"2026-08-25T19:05:47.227Z","date":"2026-08-25","source":"stocktwits","ticker":"QBTS","kind":"attention","value":55447,"meta":{"rank":24,"sector":"ElectronicTechnology"}}
+{"id":"393cf3950b934e19","ts":"2026-08-25T19:05:47.227Z","date":"2026-08-25","source":"stocktwits","ticker":"AI","kind":"attention","value":49745,"meta":{"rank":27,"sector":"TechnologyServices"}}
+{"id":"0a61789cfc3758a2","ts":"2026-08-25T19:05:49.243Z","date":"2026-08-25","source":"apewisdom","ticker":"RNA","kind":"attention","value":11,"meta":{"rank":46,"upvotes":10,"prev24h":2}}
