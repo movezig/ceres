@@ -17267,3 +17267,6 @@
 {"id":"c787b5775234a54d","ts":"2026-08-25T19:05:47.227Z","date":"2026-08-25","source":"stocktwits","ticker":"QBTS","kind":"attention","value":55447,"meta":{"rank":24,"sector":"ElectronicTechnology"}}
 {"id":"393cf3950b934e19","ts":"2026-08-25T19:05:47.227Z","date":"2026-08-25","source":"stocktwits","ticker":"AI","kind":"attention","value":49745,"meta":{"rank":27,"sector":"TechnologyServices"}}
 {"id":"0a61789cfc3758a2","ts":"2026-08-25T19:05:49.243Z","date":"2026-08-25","source":"apewisdom","ticker":"RNA","kind":"attention","value":11,"meta":{"rank":46,"upvotes":10,"prev24h":2}}
+{"id":"c7d80635c5520734","ts":"2026-08-25T19:51:26.511Z","date":"2026-08-25","source":"stocktwits","ticker":"LPTH","kind":"attention","value":8647,"meta":{"rank":23,"sector":"ElectronicTechnology"}}
+{"id":"b538b7a6b1ef0dfe","ts":"2026-08-25T19:51:33.126Z","date":"2026-08-25","source":"apewisdom","ticker":"ZM","kind":"attention","value":12,"meta":{"rank":43,"upvotes":18,"prev24h":0}}
+{"id":"4cad1077708e5ac9","ts":"2026-08-25T19:51:33.126Z","date":"2026-08-25","source":"apewisdom","ticker":"CIA","kind":"attention","value":11,"meta":{"rank":47,"upvotes":44,"prev24h":1}}
