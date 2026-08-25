@@ -17192,3 +17192,15 @@
 {"id":"0348cec543afb234","ts":"2026-08-25T10:56:14.210Z","date":"2026-08-25","source":"apewisdom","ticker":"AGI","kind":"attention","value":11,"meta":{"rank":43,"upvotes":24,"prev24h":5}}
 {"id":"01fb998c73ab4372","ts":"2026-08-25T10:56:14.210Z","date":"2026-08-25","source":"apewisdom","ticker":"BMO","kind":"attention","value":10,"meta":{"rank":47,"upvotes":59,"prev24h":0}}
 {"id":"785a1fe750a62961","ts":"2026-08-25T10:56:14.210Z","date":"2026-08-25","source":"apewisdom","ticker":"IP","kind":"attention","value":9,"meta":{"rank":50,"upvotes":14,"prev24h":1}}
+{"id":"6fc42f3d2cd671cb","ts":"2026-08-25T11:49:40.879Z","date":"2026-08-25","source":"stocktwits","ticker":"DKS","kind":"attention","value":7753,"meta":{"rank":1,"sector":"RetailTrade"}}
+{"id":"a48aa9b6e09d8c09","ts":"2026-08-25T11:49:40.893Z","date":"2026-08-25","source":"stocktwits","ticker":"NKE","kind":"attention","value":138345,"meta":{"rank":4,"sector":"ConsumerNonDurables"}}
+{"id":"b1ef0d6107023a08","ts":"2026-08-25T11:49:40.893Z","date":"2026-08-25","source":"stocktwits","ticker":"FCEL","kind":"attention","value":144024,"meta":{"rank":9,"sector":"ElectronicTechnology"}}
+{"id":"941f8d1743105d03","ts":"2026-08-25T11:49:40.893Z","date":"2026-08-25","source":"stocktwits","ticker":"PENN","kind":"attention","value":36423,"meta":{"rank":17,"sector":"ConsumerServices"}}
+{"id":"cfe7922b59e39515","ts":"2026-08-25T11:49:40.893Z","date":"2026-08-25","source":"stocktwits","ticker":"ONON","kind":"attention","value":6907,"meta":{"rank":19,"sector":"ConsumerNonDurables"}}
+{"id":"9d923dd4644e032c","ts":"2026-08-25T11:49:40.893Z","date":"2026-08-25","source":"stocktwits","ticker":"CAPR","kind":"attention","value":32865,"meta":{"rank":20,"sector":"HealthTechnology"}}
+{"id":"94ad8e56f4811403","ts":"2026-08-25T11:49:40.894Z","date":"2026-08-25","source":"stocktwits","ticker":"TDOC","kind":"attention","value":40381,"meta":{"rank":24,"sector":"HealthServices"}}
+{"id":"df1d50b11d3e8072","ts":"2026-08-25T11:49:40.894Z","date":"2026-08-25","source":"stocktwits","ticker":"BRK-B","kind":"attention","value":47505,"meta":{"rank":25,"sector":"Finance"}}
+{"id":"e5fa4be9d08b937f","ts":"2026-08-25T11:49:40.894Z","date":"2026-08-25","source":"stocktwits","ticker":"RIVN","kind":"attention","value":88406,"meta":{"rank":26,"sector":"ConsumerDurables"}}
+{"id":"33ddb86c1a8a91df","ts":"2026-08-25T11:49:40.894Z","date":"2026-08-25","source":"stocktwits","ticker":"DVN","kind":"attention","value":14425,"meta":{"rank":29,"sector":"EnergyMinerals"}}
+{"id":"ff6b6081e77fbf80","ts":"2026-08-25T11:49:40.894Z","date":"2026-08-25","source":"stocktwits","ticker":"LULU","kind":"attention","value":49108,"meta":{"rank":30,"sector":"ConsumerNonDurables"}}
+{"id":"236c55a017902405","ts":"2026-08-25T11:49:44.807Z","date":"2026-08-25","source":"apewisdom","ticker":"DKS","kind":"attention","value":10,"meta":{"rank":49,"upvotes":20,"prev24h":1}}
