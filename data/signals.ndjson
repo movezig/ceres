@@ -17577,3 +17577,12 @@
 {"id":"4a50c76d4b35d0b8","ts":"2026-08-25T21:49:38.660Z","date":"2026-08-25","source":"stocktwits","ticker":"GLD","kind":"attention","value":96217,"meta":{"rank":14,"sector":"Miscellaneous"}}
 {"id":"46f44b1039e9d575","ts":"2026-08-25T21:49:38.660Z","date":"2026-08-25","source":"stocktwits","ticker":"FCX","kind":"attention","value":28383,"meta":{"rank":17,"sector":"NonEnergyMinerals"}}
 {"id":"886d74a45e8615ea","ts":"2026-08-25T21:49:38.660Z","date":"2026-08-25","source":"stocktwits","ticker":"TTWO","kind":"attention","value":23386,"meta":{"rank":24,"sector":"TechnologyServices"}}
+{"id":"5f54a04108e3ee3e","ts":"2026-08-25T22:50:47.710Z","date":"2026-08-25","source":"stocktwits","ticker":"NOC","kind":"attention","value":11422,"meta":{"rank":10,"sector":"ElectronicTechnology"}}
+{"id":"184b8e14f75856ff","ts":"2026-08-25T22:50:47.710Z","date":"2026-08-25","source":"stocktwits","ticker":"LMT","kind":"attention","value":37242,"meta":{"rank":14,"sector":"ElectronicTechnology"}}
+{"id":"04f820b405c8200c","ts":"2026-08-25T22:50:47.710Z","date":"2026-08-25","source":"stocktwits","ticker":"CHWY","kind":"attention","value":31115,"meta":{"rank":18,"sector":"RetailTrade"}}
+{"id":"a8e9a4e6b4d17fa1","ts":"2026-08-25T22:50:47.710Z","date":"2026-08-25","source":"stocktwits","ticker":"ETHA","kind":"attention","value":4162,"meta":{"rank":24,"sector":"Unknown"}}
+{"id":"037fe11dcaa344d0","ts":"2026-08-25T22:50:47.710Z","date":"2026-08-25","source":"stocktwits","ticker":"XRP","kind":"attention","value":1654,"meta":{"rank":25,"sector":"Unknown"}}
+{"id":"a02416e4183fd04c","ts":"2026-08-25T22:50:47.710Z","date":"2026-08-25","source":"stocktwits","ticker":"JMKE","kind":"attention","value":767,"meta":{"rank":26,"sector":"ConsumerServices"}}
+{"id":"2138ce1c31b226a2","ts":"2026-08-25T22:50:47.710Z","date":"2026-08-25","source":"stocktwits","ticker":"BRUN","kind":"attention","value":2685,"meta":{"rank":27,"sector":"CommercialServices"}}
+{"id":"49bb95eb9990b41c","ts":"2026-08-25T22:50:47.710Z","date":"2026-08-25","source":"stocktwits","ticker":"AG","kind":"attention","value":19897,"meta":{"rank":28,"sector":"NonEnergyMinerals"}}
+{"id":"a1ad2ce4581ac408","ts":"2026-08-25T22:50:47.711Z","date":"2026-08-25","source":"stocktwits","ticker":"SE","kind":"attention","value":28338,"meta":{"rank":30,"sector":"RetailTrade"}}
