@@ -17204,3 +17204,11 @@
 {"id":"33ddb86c1a8a91df","ts":"2026-08-25T11:49:40.894Z","date":"2026-08-25","source":"stocktwits","ticker":"DVN","kind":"attention","value":14425,"meta":{"rank":29,"sector":"EnergyMinerals"}}
 {"id":"ff6b6081e77fbf80","ts":"2026-08-25T11:49:40.894Z","date":"2026-08-25","source":"stocktwits","ticker":"LULU","kind":"attention","value":49108,"meta":{"rank":30,"sector":"ConsumerNonDurables"}}
 {"id":"236c55a017902405","ts":"2026-08-25T11:49:44.807Z","date":"2026-08-25","source":"apewisdom","ticker":"DKS","kind":"attention","value":10,"meta":{"rank":49,"upvotes":20,"prev24h":1}}
+{"id":"c81fa1878202b7dc","ts":"2026-08-25T13:24:16.970Z","date":"2026-08-25","source":"stocktwits","ticker":"MAAS","kind":"attention","value":1040,"meta":{"rank":9,"sector":"TechnologyServices"}}
+{"id":"7ed302658f03b8b0","ts":"2026-08-25T13:24:16.970Z","date":"2026-08-25","source":"stocktwits","ticker":"INTU","kind":"attention","value":12292,"meta":{"rank":16,"sector":"TechnologyServices"}}
+{"id":"f9f19e62ece4ffc3","ts":"2026-08-25T13:24:16.971Z","date":"2026-08-25","source":"stocktwits","ticker":"XNDU","kind":"attention","value":6422,"meta":{"rank":17,"sector":"ElectronicTechnology"}}
+{"id":"5f9b5844fc29fd1f","ts":"2026-08-25T13:24:16.971Z","date":"2026-08-25","source":"stocktwits","ticker":"PEP","kind":"attention","value":23477,"meta":{"rank":18,"sector":"ConsumerNonDurables"}}
+{"id":"f5401360eaa4cee9","ts":"2026-08-25T13:24:16.971Z","date":"2026-08-25","source":"stocktwits","ticker":"PURR","kind":"attention","value":25866,"meta":{"rank":23,"sector":"Finance"}}
+{"id":"8caceb1993163ed9","ts":"2026-08-25T13:24:16.971Z","date":"2026-08-25","source":"stocktwits","ticker":"SMMT","kind":"attention","value":10053,"meta":{"rank":28,"sector":"HealthTechnology"}}
+{"id":"bc3a390c1a4cd8ef","ts":"2026-08-25T13:24:16.971Z","date":"2026-08-25","source":"stocktwits","ticker":"UAMY","kind":"attention","value":20260,"meta":{"rank":29,"sector":"NonEnergyMinerals"}}
+{"id":"7246aa90bf1a05e4","ts":"2026-08-25T13:24:16.971Z","date":"2026-08-25","source":"stocktwits","ticker":"SENS","kind":"attention","value":48330,"meta":{"rank":30,"sector":"ElectronicTechnology"}}
