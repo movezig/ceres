@@ -17762,3 +17762,21 @@
 {"id":"f910c4fe8d632303","ts":"2026-08-26T15:58:26.389Z","date":"2026-08-26","source":"apewisdom","ticker":"NOW","kind":"attention","value":13,"meta":{"rank":44,"upvotes":4,"prev24h":6}}
 {"id":"942f9803a9e630e7","ts":"2026-08-26T15:58:26.389Z","date":"2026-08-26","source":"apewisdom","ticker":"AG","kind":"attention","value":12,"meta":{"rank":47,"upvotes":778,"prev24h":0}}
 {"id":"330c50b184d84f73","ts":"2026-08-26T15:58:26.389Z","date":"2026-08-26","source":"apewisdom","ticker":"IQ","kind":"attention","value":11,"meta":{"rank":49,"upvotes":62,"prev24h":5}}
+{"id":"1ddedc307cbca7a9","ts":"2026-08-26T18:08:39.098Z","date":"2026-08-25","source":"houseclerk","ticker":null,"kind":"ptr_filed","value":1,"meta":{"member":"William R. Keating","district":"MA09","url":"https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035293.pdf"}}
+{"id":"fbda08e6e58c371e","ts":"2026-08-26T18:08:39.100Z","date":"2026-08-25","source":"houseclerk","ticker":null,"kind":"ptr_filed","value":1,"meta":{"member":"Kelly Louise Morrison","district":"MN03","url":"https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035244.pdf"}}
+{"id":"e06ae14514e7e0b7","ts":"2026-08-26T18:08:39.100Z","date":"2026-08-25","source":"houseclerk","ticker":null,"kind":"ptr_filed","value":1,"meta":{"member":"Michael Rulli","district":"OH06","url":"https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035309.pdf"}}
+{"id":"b60fc5b9acb5d2d0","ts":"2026-08-26T18:08:39.701Z","date":"2026-08-26","source":"stocktwits","ticker":"GRRR","kind":"attention","value":25570,"meta":{"rank":2,"sector":"TechnologyServices"}}
+{"id":"eb310154a1bcccf5","ts":"2026-08-26T18:08:39.702Z","date":"2026-08-26","source":"stocktwits","ticker":"WYFI","kind":"attention","value":7344,"meta":{"rank":9,"sector":"TechnologyServices"}}
+{"id":"235060f71bfe351a","ts":"2026-08-26T18:08:39.702Z","date":"2026-08-26","source":"stocktwits","ticker":"CHWY","kind":"attention","value":31114,"meta":{"rank":13,"sector":"RetailTrade"}}
+{"id":"614917174dcc83c4","ts":"2026-08-26T18:08:39.703Z","date":"2026-08-26","source":"stocktwits","ticker":"COHR","kind":"attention","value":10479,"meta":{"rank":14,"sector":"ElectronicTechnology"}}
+{"id":"f50888c4182ebed7","ts":"2026-08-26T18:08:39.703Z","date":"2026-08-26","source":"stocktwits","ticker":"AGEN","kind":"attention","value":12749,"meta":{"rank":18,"sector":"HealthTechnology"}}
+{"id":"9d5a7a8bdd59947b","ts":"2026-08-26T18:08:39.703Z","date":"2026-08-26","source":"stocktwits","ticker":"PDYN","kind":"attention","value":8453,"meta":{"rank":19,"sector":"ProducerManufacturing"}}
+{"id":"aaf56e3853db8e0c","ts":"2026-08-26T18:08:39.703Z","date":"2026-08-26","source":"stocktwits","ticker":"MDGL","kind":"attention","value":6935,"meta":{"rank":20,"sector":"HealthTechnology"}}
+{"id":"538c61be9eb2d54e","ts":"2026-08-26T18:08:39.703Z","date":"2026-08-26","source":"stocktwits","ticker":"WFC","kind":"attention","value":54542,"meta":{"rank":21,"sector":"Finance"}}
+{"id":"4d9adbdf80b58b19","ts":"2026-08-26T18:08:39.703Z","date":"2026-08-26","source":"stocktwits","ticker":"NLST","kind":"attention","value":26929,"meta":{"rank":22,"sector":"ElectronicTechnology"}}
+{"id":"4e5c54986c314121","ts":"2026-08-26T18:08:39.703Z","date":"2026-08-26","source":"stocktwits","ticker":"ASST","kind":"attention","value":19741,"meta":{"rank":27,"sector":"Finance"}}
+{"id":"0537484f6a086773","ts":"2026-08-26T18:08:39.703Z","date":"2026-08-26","source":"stocktwits","ticker":"CVNA","kind":"attention","value":41518,"meta":{"rank":28,"sector":"RetailTrade"}}
+{"id":"72ee2dffe9a7c166","ts":"2026-08-26T18:08:39.703Z","date":"2026-08-26","source":"stocktwits","ticker":"AVEX","kind":"attention","value":1708,"meta":{"rank":29,"sector":"ElectronicTechnology"}}
+{"id":"088ce9735cedac1a","ts":"2026-08-26T18:08:41.914Z","date":"2026-08-26","source":"apewisdom","ticker":"ANF","kind":"attention","value":23,"meta":{"rank":30,"upvotes":33,"prev24h":1}}
+{"id":"82097cce3978ba4a","ts":"2026-08-26T18:08:41.914Z","date":"2026-08-26","source":"apewisdom","ticker":"DG","kind":"attention","value":14,"meta":{"rank":43,"upvotes":19,"prev24h":0}}
+{"id":"054da797723159a7","ts":"2026-08-26T18:08:41.914Z","date":"2026-08-26","source":"apewisdom","ticker":"IBKR","kind":"attention","value":12,"meta":{"rank":50,"upvotes":14,"prev24h":10}}
