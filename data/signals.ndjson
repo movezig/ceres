@@ -17780,3 +17780,14 @@
 {"id":"088ce9735cedac1a","ts":"2026-08-26T18:08:41.914Z","date":"2026-08-26","source":"apewisdom","ticker":"ANF","kind":"attention","value":23,"meta":{"rank":30,"upvotes":33,"prev24h":1}}
 {"id":"82097cce3978ba4a","ts":"2026-08-26T18:08:41.914Z","date":"2026-08-26","source":"apewisdom","ticker":"DG","kind":"attention","value":14,"meta":{"rank":43,"upvotes":19,"prev24h":0}}
 {"id":"054da797723159a7","ts":"2026-08-26T18:08:41.914Z","date":"2026-08-26","source":"apewisdom","ticker":"IBKR","kind":"attention","value":12,"meta":{"rank":50,"upvotes":14,"prev24h":10}}
+{"id":"b68e9f3c83d1974f","ts":"2026-08-26T20:17:54.465Z","date":"2026-08-26","source":"stocktwits","ticker":"SRPT","kind":"attention","value":26649,"meta":{"rank":6,"sector":"HealthTechnology"}}
+{"id":"26bf560c3a300be1","ts":"2026-08-26T20:17:54.465Z","date":"2026-08-26","source":"stocktwits","ticker":"OKTA","kind":"attention","value":24461,"meta":{"rank":7,"sector":"TechnologyServices"}}
+{"id":"4efc5b95ce10817d","ts":"2026-08-26T20:17:54.466Z","date":"2026-08-26","source":"stocktwits","ticker":"PENG","kind":"attention","value":3881,"meta":{"rank":16,"sector":"ElectronicTechnology"}}
+{"id":"51947276e051199d","ts":"2026-08-26T20:17:54.466Z","date":"2026-08-26","source":"stocktwits","ticker":"JMIA","kind":"attention","value":38649,"meta":{"rank":19,"sector":"TechnologyServices"}}
+{"id":"42929506199f5c8d","ts":"2026-08-26T20:17:54.466Z","date":"2026-08-26","source":"stocktwits","ticker":"QFIN","kind":"attention","value":2752,"meta":{"rank":21,"sector":"Finance"}}
+{"id":"436600ade29a7ce4","ts":"2026-08-26T20:17:54.466Z","date":"2026-08-26","source":"stocktwits","ticker":"IREN","kind":"attention","value":49008,"meta":{"rank":26,"sector":"TechnologyServices"}}
+{"id":"f99d3391280dc6d5","ts":"2026-08-26T20:17:54.466Z","date":"2026-08-26","source":"stocktwits","ticker":"VERA","kind":"attention","value":1921,"meta":{"rank":27,"sector":"HealthTechnology"}}
+{"id":"ff67026825f21687","ts":"2026-08-26T20:17:54.466Z","date":"2026-08-26","source":"stocktwits","ticker":"CRVS","kind":"attention","value":6769,"meta":{"rank":28,"sector":"HealthTechnology"}}
+{"id":"b1c24904982c2ed5","ts":"2026-08-26T20:17:54.466Z","date":"2026-08-26","source":"stocktwits","ticker":"APLD","kind":"attention","value":45800,"meta":{"rank":29,"sector":"TechnologyServices"}}
+{"id":"7d72b00bfcd455a4","ts":"2026-08-26T20:18:04.616Z","date":"2026-08-26","source":"apewisdom","ticker":"CRWD","kind":"attention","value":27,"meta":{"rank":25,"upvotes":38,"prev24h":4}}
+{"id":"373be866baf6fb2f","ts":"2026-08-26T20:18:04.616Z","date":"2026-08-26","source":"apewisdom","ticker":"ES","kind":"attention","value":14,"meta":{"rank":45,"upvotes":24,"prev24h":9}}
