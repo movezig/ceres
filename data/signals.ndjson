@@ -17719,3 +17719,16 @@
 {"id":"4ece8a61d5d22258","ts":"2026-08-26T10:56:30.432Z","date":"2026-08-26","source":"stocktwits","ticker":"MAAS","kind":"attention","value":1042,"meta":{"rank":30,"sector":"TechnologyServices"}}
 {"id":"d54a33e5b8c5de49","ts":"2026-08-26T10:56:32.454Z","date":"2026-08-26","source":"apewisdom","ticker":"ON","kind":"attention","value":13,"meta":{"rank":48,"upvotes":70,"prev24h":5}}
 {"id":"deffa473494d0969","ts":"2026-08-26T10:56:32.454Z","date":"2026-08-26","source":"apewisdom","ticker":"IREN","kind":"attention","value":12,"meta":{"rank":49,"upvotes":38,"prev24h":10}}
+{"id":"648ea633b24e4f7e","ts":"2026-08-26T11:52:03.233Z","date":"2026-08-26","source":"stocktwits","ticker":"PURR","kind":"attention","value":25989,"meta":{"rank":5,"sector":"Finance"}}
+{"id":"1a41587508c2d839","ts":"2026-08-26T11:52:03.233Z","date":"2026-08-26","source":"stocktwits","ticker":"CURLF","kind":"attention","value":8979,"meta":{"rank":10,"sector":"ProcessIndustries"}}
+{"id":"828a8f31ab0d0d71","ts":"2026-08-26T11:52:03.233Z","date":"2026-08-26","source":"stocktwits","ticker":"BTDR","kind":"attention","value":4028,"meta":{"rank":11,"sector":"TechnologyServices"}}
+{"id":"acbcd71d2eb3adf3","ts":"2026-08-26T11:52:03.233Z","date":"2026-08-26","source":"stocktwits","ticker":"AVGO","kind":"attention","value":72149,"meta":{"rank":13,"sector":"ElectronicTechnology"}}
+{"id":"d6c2621f20c29899","ts":"2026-08-26T11:52:03.234Z","date":"2026-08-26","source":"stocktwits","ticker":"GOOGL","kind":"attention","value":227068,"meta":{"rank":14,"sector":"TechnologyServices"}}
+{"id":"d33f7aedaacb48a9","ts":"2026-08-26T11:52:03.234Z","date":"2026-08-26","source":"stocktwits","ticker":"TTWO","kind":"attention","value":23392,"meta":{"rank":16,"sector":"TechnologyServices"}}
+{"id":"80763d1f8e3b582c","ts":"2026-08-26T11:52:03.234Z","date":"2026-08-26","source":"stocktwits","ticker":"GEO","kind":"attention","value":11469,"meta":{"rank":19,"sector":"CommercialServices"}}
+{"id":"27f7e64f0546321e","ts":"2026-08-26T11:52:03.234Z","date":"2026-08-26","source":"stocktwits","ticker":"SHAZ","kind":"attention","value":1837,"meta":{"rank":20,"sector":"Finance"}}
+{"id":"756d9d6e5666223e","ts":"2026-08-26T11:52:03.234Z","date":"2026-08-26","source":"stocktwits","ticker":"GTBIF","kind":"attention","value":6296,"meta":{"rank":21,"sector":"ProcessIndustries"}}
+{"id":"62050fd5b02da7a8","ts":"2026-08-26T11:52:03.234Z","date":"2026-08-26","source":"stocktwits","ticker":"BCRX","kind":"attention","value":36916,"meta":{"rank":22,"sector":"HealthTechnology"}}
+{"id":"132892c0dc5ad85e","ts":"2026-08-26T11:52:03.234Z","date":"2026-08-26","source":"stocktwits","ticker":"PR","kind":"attention","value":14955,"meta":{"rank":26,"sector":"EnergyMinerals"}}
+{"id":"399ae077e44c32e9","ts":"2026-08-26T11:52:03.234Z","date":"2026-08-26","source":"stocktwits","ticker":"BA","kind":"attention","value":197213,"meta":{"rank":27,"sector":"ElectronicTechnology"}}
+{"id":"0600cf88708f696a","ts":"2026-08-26T11:52:03.234Z","date":"2026-08-26","source":"stocktwits","ticker":"ADBE","kind":"attention","value":50385,"meta":{"rank":30,"sector":"TechnologyServices"}}
