@@ -17732,3 +17732,17 @@
 {"id":"132892c0dc5ad85e","ts":"2026-08-26T11:52:03.234Z","date":"2026-08-26","source":"stocktwits","ticker":"PR","kind":"attention","value":14955,"meta":{"rank":26,"sector":"EnergyMinerals"}}
 {"id":"399ae077e44c32e9","ts":"2026-08-26T11:52:03.234Z","date":"2026-08-26","source":"stocktwits","ticker":"BA","kind":"attention","value":197213,"meta":{"rank":27,"sector":"ElectronicTechnology"}}
 {"id":"0600cf88708f696a","ts":"2026-08-26T11:52:03.234Z","date":"2026-08-26","source":"stocktwits","ticker":"ADBE","kind":"attention","value":50385,"meta":{"rank":30,"sector":"TechnologyServices"}}
+{"id":"0ad4a7937cefcf0f","ts":"2026-08-26T13:30:10.693Z","date":"2026-08-26","source":"stocktwits","ticker":"META","kind":"attention","value":606919,"meta":{"rank":3,"sector":"TechnologyServices"}}
+{"id":"5aa4261eb000cbc4","ts":"2026-08-26T13:30:10.693Z","date":"2026-08-26","source":"stocktwits","ticker":"SMMT","kind":"attention","value":10119,"meta":{"rank":4,"sector":"HealthTechnology"}}
+{"id":"a238c6f38ca037bd","ts":"2026-08-26T13:30:10.694Z","date":"2026-08-26","source":"stocktwits","ticker":"KSS","kind":"attention","value":19484,"meta":{"rank":7,"sector":"RetailTrade"}}
+{"id":"e261cd08b6a7d3f5","ts":"2026-08-26T13:30:10.707Z","date":"2026-08-26","source":"stocktwits","ticker":"SMTC","kind":"attention","value":3195,"meta":{"rank":8,"sector":"ElectronicTechnology"}}
+{"id":"88fb037465ae3739","ts":"2026-08-26T13:30:10.707Z","date":"2026-08-26","source":"stocktwits","ticker":"ZS","kind":"attention","value":23224,"meta":{"rank":12,"sector":"TechnologyServices"}}
+{"id":"48febf166d9e63c4","ts":"2026-08-26T13:30:10.708Z","date":"2026-08-26","source":"stocktwits","ticker":"GT","kind":"attention","value":5926,"meta":{"rank":13,"sector":"ConsumerDurables"}}
+{"id":"88c21ea38a2a4250","ts":"2026-08-26T13:30:10.708Z","date":"2026-08-26","source":"stocktwits","ticker":"CADL","kind":"attention","value":10229,"meta":{"rank":15,"sector":"HealthTechnology"}}
+{"id":"7570b9bbac49fc93","ts":"2026-08-26T13:30:10.708Z","date":"2026-08-26","source":"stocktwits","ticker":"OUST","kind":"attention","value":16778,"meta":{"rank":19,"sector":"ElectronicTechnology"}}
+{"id":"e4539f8612feb686","ts":"2026-08-26T13:30:10.708Z","date":"2026-08-26","source":"stocktwits","ticker":"OXY","kind":"attention","value":43319,"meta":{"rank":20,"sector":"EnergyMinerals"}}
+{"id":"0b69106ca4b9066b","ts":"2026-08-26T13:30:10.708Z","date":"2026-08-26","source":"stocktwits","ticker":"IMMX","kind":"attention","value":4647,"meta":{"rank":23,"sector":"HealthTechnology"}}
+{"id":"8548d687078e247a","ts":"2026-08-26T13:30:10.708Z","date":"2026-08-26","source":"stocktwits","ticker":"TSLA","kind":"attention","value":1062733,"meta":{"rank":24,"sector":"ConsumerDurables"}}
+{"id":"5d420a3d1241e413","ts":"2026-08-26T13:30:10.708Z","date":"2026-08-26","source":"stocktwits","ticker":"AXON","kind":"attention","value":15207,"meta":{"rank":26,"sector":"ElectronicTechnology"}}
+{"id":"660e89fa39c230b9","ts":"2026-08-26T13:30:10.708Z","date":"2026-08-26","source":"stocktwits","ticker":"CLM","kind":"attention","value":4238,"meta":{"rank":28,"sector":"Miscellaneous"}}
+{"id":"e1860af2374303e5","ts":"2026-08-26T13:30:14.667Z","date":"2026-08-26","source":"apewisdom","ticker":"SMTC","kind":"attention","value":14,"meta":{"rank":46,"upvotes":21,"prev24h":0}}
