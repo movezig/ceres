@@ -1968,3 +1968,4 @@
 {"id":"7dc5c98c36f87a8a","ts":"2026-08-28T05:30:28.729Z","rule":"attention_spike","severity":"medium","source":"apewisdom","ticker":"MRVL","trader":"Reddit (Apewisdom)","message":"MRVL Reddit mentions 64 → 577 in 24h (rank #2)","tradeIds":[]}
 {"id":"3db21a7726af3c41","ts":"2026-08-28T05:30:28.730Z","rule":"attention_spike","severity":"medium","source":"apewisdom","ticker":"IREN","trader":"Reddit (Apewisdom)","message":"IREN Reddit mentions 37 → 259 in 24h (rank #4)","tradeIds":[]}
 {"id":"139d9007ac075ec4","ts":"2026-08-28T05:30:28.730Z","rule":"attention_spike","severity":"medium","source":"apewisdom","ticker":"PLTR","trader":"Reddit (Apewisdom)","message":"PLTR Reddit mentions 12 → 100 in 24h (rank #8)","tradeIds":[]}
+{"id":"a93b87e9e0287ddc","ts":"2026-08-28T18:52:37.592Z","rule":"attention_spike","severity":"medium","source":"stocktwits","ticker":"GAP","trader":"Stocktwits","message":"GAP entered Stocktwits trending at #13 (12,198 watchers)","tradeIds":[]}
