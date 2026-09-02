@@ -20097,3 +20097,24 @@
 {"id":"80ddbe458a36b787","ts":"2026-09-02T14:35:10.376Z","date":"2026-09-02","source":"apewisdom","ticker":"DB","kind":"attention","value":13,"meta":{"rank":47,"upvotes":34,"prev24h":1}}
 {"id":"c8cdd4be4803b564","ts":"2026-09-02T14:35:10.376Z","date":"2026-09-02","source":"apewisdom","ticker":"ALL","kind":"attention","value":12,"meta":{"rank":49,"upvotes":49,"prev24h":6}}
 {"id":"1b00d71bdd7914bd","ts":"2026-09-02T14:35:10.376Z","date":"2026-09-02","source":"apewisdom","ticker":"GTLB","kind":"attention","value":12,"meta":{"rank":50,"upvotes":21,"prev24h":2}}
+{"id":"55b25433725dfdc2","ts":"2026-09-02T18:49:23.442Z","date":"2026-09-01","source":"houseclerk","ticker":null,"kind":"ptr_filed","value":1,"meta":{"member":"Steve Cohen","district":"TN09","url":"https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035350.pdf"}}
+{"id":"3276bbf12cca9bdd","ts":"2026-09-02T18:49:23.445Z","date":"2026-09-01","source":"houseclerk","ticker":null,"kind":"ptr_filed","value":1,"meta":{"member":"Kevin Hern","district":"OK01","url":"https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035326.pdf"}}
+{"id":"6acc30426f806a30","ts":"2026-09-02T18:49:24.614Z","date":"2026-09-02","source":"stocktwits","ticker":"CLS","kind":"attention","value":7515,"meta":{"rank":4,"sector":"ElectronicTechnology"}}
+{"id":"c793296c62c64190","ts":"2026-09-02T18:49:24.614Z","date":"2026-09-02","source":"stocktwits","ticker":"IREN","kind":"attention","value":50166,"meta":{"rank":8,"sector":"TechnologyServices"}}
+{"id":"d23f8cce66057f5f","ts":"2026-09-02T18:49:24.615Z","date":"2026-09-02","source":"stocktwits","ticker":"MGNI","kind":"attention","value":12006,"meta":{"rank":10,"sector":"TechnologyServices"}}
+{"id":"2c82ace527b9bbb9","ts":"2026-09-02T18:49:24.615Z","date":"2026-09-02","source":"stocktwits","ticker":"SNOW","kind":"attention","value":58089,"meta":{"rank":12,"sector":"TechnologyServices"}}
+{"id":"90a855eda8d58d18","ts":"2026-09-02T18:49:24.615Z","date":"2026-09-02","source":"stocktwits","ticker":"CIEN","kind":"attention","value":6990,"meta":{"rank":14,"sector":"ElectronicTechnology"}}
+{"id":"10b4d52a7a484214","ts":"2026-09-02T18:49:24.615Z","date":"2026-09-02","source":"stocktwits","ticker":"RUN","kind":"attention","value":22934,"meta":{"rank":15,"sector":"ElectronicTechnology"}}
+{"id":"090b969aebecbfc5","ts":"2026-09-02T18:49:24.615Z","date":"2026-09-02","source":"stocktwits","ticker":"HUT","kind":"attention","value":29756,"meta":{"rank":18,"sector":"TechnologyServices"}}
+{"id":"b0a98d0a492fa07f","ts":"2026-09-02T18:49:24.615Z","date":"2026-09-02","source":"stocktwits","ticker":"NLST","kind":"attention","value":27240,"meta":{"rank":19,"sector":"ElectronicTechnology"}}
+{"id":"48956799abebcb8e","ts":"2026-09-02T18:49:24.615Z","date":"2026-09-02","source":"stocktwits","ticker":"LULU","kind":"attention","value":49381,"meta":{"rank":20,"sector":"ConsumerNonDurables"}}
+{"id":"278423cdcfba2338","ts":"2026-09-02T18:49:24.615Z","date":"2026-09-02","source":"stocktwits","ticker":"SMCI","kind":"attention","value":92673,"meta":{"rank":21,"sector":"ElectronicTechnology"}}
+{"id":"b87dc593f09d48e8","ts":"2026-09-02T18:49:24.616Z","date":"2026-09-02","source":"stocktwits","ticker":"MOS","kind":"attention","value":7432,"meta":{"rank":22,"sector":"ProcessIndustries"}}
+{"id":"e3c31ec7669e8b70","ts":"2026-09-02T18:49:24.616Z","date":"2026-09-02","source":"stocktwits","ticker":"S","kind":"attention","value":31930,"meta":{"rank":23,"sector":"TechnologyServices"}}
+{"id":"4f978e912643d312","ts":"2026-09-02T18:49:24.616Z","date":"2026-09-02","source":"stocktwits","ticker":"NU","kind":"attention","value":16346,"meta":{"rank":24,"sector":"Finance"}}
+{"id":"a9affb3b9f64daa5","ts":"2026-09-02T18:49:24.616Z","date":"2026-09-02","source":"stocktwits","ticker":"TGTX","kind":"attention","value":21673,"meta":{"rank":27,"sector":"HealthTechnology"}}
+{"id":"dfe15c3d35c9ac12","ts":"2026-09-02T18:49:24.616Z","date":"2026-09-02","source":"stocktwits","ticker":"CLSK","kind":"attention","value":56757,"meta":{"rank":28,"sector":"TechnologyServices"}}
+{"id":"4d383a7e0ea8032b","ts":"2026-09-02T18:49:24.616Z","date":"2026-09-02","source":"stocktwits","ticker":"AI","kind":"attention","value":49781,"meta":{"rank":29,"sector":"TechnologyServices"}}
+{"id":"80ead318e216ed91","ts":"2026-09-02T18:49:24.616Z","date":"2026-09-02","source":"stocktwits","ticker":"BKSY","kind":"attention","value":12648,"meta":{"rank":30,"sector":"Finance"}}
+{"id":"5808a220e2c5179b","ts":"2026-09-02T18:49:27.103Z","date":"2026-09-02","source":"apewisdom","ticker":"TTD","kind":"attention","value":15,"meta":{"rank":41,"upvotes":17,"prev24h":6}}
+{"id":"fa7c6f5d8fc3ecee","ts":"2026-09-02T18:49:27.103Z","date":"2026-09-02","source":"apewisdom","ticker":"IREN","kind":"attention","value":12,"meta":{"rank":50,"upvotes":45,"prev24h":11}}
