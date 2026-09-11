@@ -2363,3 +2363,4 @@
 {"id":"25a43cc7ab74659c","ts":"2026-09-11T00:18:59.150Z","rule":"attention_spike","severity":"medium","source":"apewisdom","ticker":"ORCL","trader":"Reddit (Apewisdom)","message":"ORCL Reddit mentions 42 → 248 in 24h (rank #2)","tradeIds":[]}
 {"id":"c492a788e9a1aa93","ts":"2026-09-11T00:18:59.150Z","rule":"attention_spike","severity":"medium","source":"apewisdom","ticker":"USO","trader":"Reddit (Apewisdom)","message":"USO Reddit mentions 40 → 119 in 24h (rank #3)","tradeIds":[]}
 {"id":"8b39c5a8fffc235d","ts":"2026-09-11T04:52:28.832Z","rule":"insider_big_buy","severity":"high","source":"form4","ticker":"ATEC","trader":"Miles Patrick","message":"Miles Patrick (CEO) bought ~$1.0M of ATEC","tradeIds":["89c857aa42bb19d9"]}
+{"id":"c3b37998aca6ebc8","ts":"2026-09-11T14:31:20.679Z","rule":"attention_spike","severity":"medium","source":"stocktwits","ticker":"AENT","trader":"Stocktwits","message":"AENT entered Stocktwits trending at #11 (625 watchers)","tradeIds":[]}
