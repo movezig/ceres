@@ -24330,3 +24330,6 @@
 {"id":"110929a86c6748e8","ts":"2026-09-16T00:32:50.318Z","date":"2026-09-16","source":"apewisdom","ticker":"RDDT","kind":"attention","value":8,"meta":{"rank":48,"upvotes":24,"prev24h":25}}
 {"id":"591eb6fde6f2a07d","ts":"2026-09-16T00:32:50.318Z","date":"2026-09-16","source":"apewisdom","ticker":"BULL","kind":"attention","value":8,"meta":{"rank":49,"upvotes":18,"prev24h":4}}
 {"id":"f77841538a47b9ad","ts":"2026-09-16T00:32:50.318Z","date":"2026-09-16","source":"apewisdom","ticker":"FPS","kind":"attention","value":8,"meta":{"rank":50,"upvotes":14,"prev24h":1}}
+{"id":"c83923422027a482","ts":"2026-09-16T06:11:45.661Z","date":"2026-09-16","source":"apewisdom","ticker":"IBM","kind":"attention","value":10,"meta":{"rank":39,"upvotes":39,"prev24h":5}}
+{"id":"f85aa9f222b40a00","ts":"2026-09-16T06:11:45.661Z","date":"2026-09-16","source":"apewisdom","ticker":"BE","kind":"attention","value":9,"meta":{"rank":44,"upvotes":122,"prev24h":13}}
+{"id":"4463c7d0df74d079","ts":"2026-09-16T06:11:45.661Z","date":"2026-09-16","source":"apewisdom","ticker":"RIG","kind":"attention","value":8,"meta":{"rank":50,"upvotes":11,"prev24h":0}}
