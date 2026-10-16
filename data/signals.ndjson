@@ -34656,3 +34656,25 @@
 {"id":"bb86d7dc957e7bbd","ts":"2026-10-16T12:36:28.654Z","date":"2026-10-16","source":"stocktwits","ticker":"AUR","kind":"attention","value":9661,"meta":{"rank":30,"sector":"TechnologyServices"}}
 {"id":"a5fbb04c6187d19d","ts":"2026-10-16T12:36:30.692Z","date":"2026-10-16","source":"apewisdom","ticker":"APLD","kind":"attention","value":14,"meta":{"rank":47,"upvotes":19,"prev24h":27}}
 {"id":"bfdc5d8210077794","ts":"2026-10-16T12:36:30.693Z","date":"2026-10-16","source":"apewisdom","ticker":"MRNA","kind":"attention","value":14,"meta":{"rank":48,"upvotes":24,"prev24h":9}}
+{"id":"0b21f235a840c77b","ts":"2026-10-16T17:32:41.392Z","date":"2026-10-14","source":"houseclerk","ticker":null,"kind":"ptr_filed","value":1,"meta":{"member":"Michael T. Mccaul","district":"TX10","url":"https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116378.pdf"}}
+{"id":"1a54abd7dbbbcea8","ts":"2026-10-16T17:32:41.394Z","date":"2026-10-15","source":"houseclerk","ticker":null,"kind":"ptr_filed","value":1,"meta":{"member":"Scott H. Peters","district":"CA50","url":"https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035637.pdf"}}
+{"id":"34f506258f2d4062","ts":"2026-10-16T17:32:41.395Z","date":"2026-10-15","source":"houseclerk","ticker":null,"kind":"ptr_filed","value":1,"meta":{"member":"David J. Taylor","district":"OH02","url":"https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035660.pdf"}}
+{"id":"8f3a2d5c47c415ef","ts":"2026-10-16T17:32:42.183Z","date":"2026-10-16","source":"stocktwits","ticker":"SMCI","kind":"attention","value":93269,"meta":{"rank":5,"sector":"ElectronicTechnology"}}
+{"id":"0be23026abe96361","ts":"2026-10-16T17:32:42.183Z","date":"2026-10-16","source":"stocktwits","ticker":"SPY","kind":"attention","value":638734,"meta":{"rank":6,"sector":"Miscellaneous"}}
+{"id":"bc3a47e353e34536","ts":"2026-10-16T17:32:42.183Z","date":"2026-10-16","source":"stocktwits","ticker":"SLS","kind":"attention","value":62387,"meta":{"rank":8,"sector":"HealthTechnology"}}
+{"id":"e6a55e9828543a22","ts":"2026-10-16T17:32:42.183Z","date":"2026-10-16","source":"stocktwits","ticker":"MSTR","kind":"attention","value":83460,"meta":{"rank":9,"sector":"Finance"}}
+{"id":"5cf48208e942a2e4","ts":"2026-10-16T17:32:42.184Z","date":"2026-10-16","source":"stocktwits","ticker":"USO","kind":"attention","value":75519,"meta":{"rank":12,"sector":"Miscellaneous"}}
+{"id":"dab973cf3dc9c312","ts":"2026-10-16T17:32:42.184Z","date":"2026-10-16","source":"stocktwits","ticker":"BCRX","kind":"attention","value":36984,"meta":{"rank":13,"sector":"HealthTechnology"}}
+{"id":"95686bc8539e9dda","ts":"2026-10-16T17:32:42.184Z","date":"2026-10-16","source":"stocktwits","ticker":"UVIX","kind":"attention","value":7204,"meta":{"rank":14,"sector":"Miscellaneous"}}
+{"id":"b54ba850bb2d8420","ts":"2026-10-16T17:32:42.184Z","date":"2026-10-16","source":"stocktwits","ticker":"AUPH","kind":"attention","value":46395,"meta":{"rank":15,"sector":"HealthTechnology"}}
+{"id":"a8a8ea5837491e6f","ts":"2026-10-16T17:32:42.184Z","date":"2026-10-16","source":"stocktwits","ticker":"APLD","kind":"attention","value":47932,"meta":{"rank":17,"sector":"TechnologyServices"}}
+{"id":"1015c07f86d46b24","ts":"2026-10-16T17:32:42.184Z","date":"2026-10-16","source":"stocktwits","ticker":"CBRS","kind":"attention","value":14819,"meta":{"rank":20,"sector":"TechnologyServices"}}
+{"id":"4af5c4e97d589f75","ts":"2026-10-16T17:32:42.185Z","date":"2026-10-16","source":"stocktwits","ticker":"CDNL","kind":"attention","value":183,"meta":{"rank":23,"sector":"IndustrialServices"}}
+{"id":"94b78be0a7140d38","ts":"2026-10-16T17:32:42.185Z","date":"2026-10-16","source":"stocktwits","ticker":"ABCL","kind":"attention","value":9693,"meta":{"rank":26,"sector":"HealthTechnology"}}
+{"id":"2152a1feba9f4d42","ts":"2026-10-16T17:32:42.186Z","date":"2026-10-16","source":"stocktwits","ticker":"IBRX","kind":"attention","value":31388,"meta":{"rank":27,"sector":"HealthTechnology"}}
+{"id":"8e93f6ab9cef4a5c","ts":"2026-10-16T17:32:42.186Z","date":"2026-10-16","source":"stocktwits","ticker":"UMAC","kind":"attention","value":12590,"meta":{"rank":28,"sector":"ElectronicTechnology"}}
+{"id":"cd9cc8a339dd187e","ts":"2026-10-16T17:32:42.186Z","date":"2026-10-16","source":"stocktwits","ticker":"CMPS","kind":"attention","value":9986,"meta":{"rank":30,"sector":"HealthTechnology"}}
+{"id":"55fac62b21a59249","ts":"2026-10-16T17:32:44.059Z","date":"2026-10-16","source":"apewisdom","ticker":"XLAB","kind":"attention","value":20,"meta":{"rank":37,"upvotes":24,"prev24h":0}}
+{"id":"a73f75f8530c489f","ts":"2026-10-16T17:32:44.059Z","date":"2026-10-16","source":"apewisdom","ticker":"ALL","kind":"attention","value":18,"meta":{"rank":38,"upvotes":-33,"prev24h":10}}
+{"id":"fc4209ef0f37809e","ts":"2026-10-16T17:32:44.059Z","date":"2026-10-16","source":"apewisdom","ticker":"MCD","kind":"attention","value":14,"meta":{"rank":49,"upvotes":6,"prev24h":13}}
+{"id":"77589c9481c0de68","ts":"2026-10-16T17:32:44.059Z","date":"2026-10-16","source":"apewisdom","ticker":"ON","kind":"attention","value":14,"meta":{"rank":50,"upvotes":42,"prev24h":4}}
