@@ -39210,3 +39210,15 @@
 {"id":"400a030a3d85526a","ts":"2026-10-30T08:46:55.443Z","date":"2026-10-30","source":"apewisdom","ticker":"BYD","kind":"attention","value":10,"meta":{"rank":46,"upvotes":12,"prev24h":1}}
 {"id":"be348fcbedb84f48","ts":"2026-10-30T08:46:55.443Z","date":"2026-10-30","source":"apewisdom","ticker":"IQ","kind":"attention","value":9,"meta":{"rank":48,"upvotes":28,"prev24h":7}}
 {"id":"a9b5552a3040e147","ts":"2026-10-30T08:46:55.443Z","date":"2026-10-30","source":"apewisdom","ticker":"USO","kind":"attention","value":9,"meta":{"rank":50,"upvotes":18,"prev24h":2}}
+{"id":"ac1805967b4f1da1","ts":"2026-10-30T16:02:32.740Z","date":"2026-10-30","source":"stocktwits","ticker":"TGTX","kind":"attention","value":21768,"meta":{"rank":5,"sector":"HealthTechnology"}}
+{"id":"47c1a71619df1981","ts":"2026-10-30T16:02:32.740Z","date":"2026-10-30","source":"stocktwits","ticker":"AUPH","kind":"attention","value":46395,"meta":{"rank":12,"sector":"HealthTechnology"}}
+{"id":"99b5038ecc050bdb","ts":"2026-10-30T16:02:32.741Z","date":"2026-10-30","source":"stocktwits","ticker":"SPY","kind":"attention","value":639298,"meta":{"rank":16,"sector":"Miscellaneous"}}
+{"id":"b3153249ceddebee","ts":"2026-10-30T16:02:32.741Z","date":"2026-10-30","source":"stocktwits","ticker":"NET","kind":"attention","value":35502,"meta":{"rank":19,"sector":"TechnologyServices"}}
+{"id":"75133e62bd4f6dd1","ts":"2026-10-30T16:02:32.741Z","date":"2026-10-30","source":"stocktwits","ticker":"IBIT","kind":"attention","value":20552,"meta":{"rank":21,"sector":"Miscellaneous"}}
+{"id":"b8caf3dbc9af6394","ts":"2026-10-30T16:02:32.741Z","date":"2026-10-30","source":"stocktwits","ticker":"COHR","kind":"attention","value":11450,"meta":{"rank":22,"sector":"ElectronicTechnology"}}
+{"id":"0e1cbe634f14f281","ts":"2026-10-30T16:02:32.741Z","date":"2026-10-30","source":"stocktwits","ticker":"AAOI","kind":"attention","value":26925,"meta":{"rank":23,"sector":"ElectronicTechnology"}}
+{"id":"46568d3fea16c28e","ts":"2026-10-30T16:02:32.741Z","date":"2026-10-30","source":"stocktwits","ticker":"QCOM","kind":"attention","value":78066,"meta":{"rank":24,"sector":"ElectronicTechnology"}}
+{"id":"2c97bb4a55b85d69","ts":"2026-10-30T16:02:35.265Z","date":"2026-10-30","source":"apewisdom","ticker":"KO","kind":"attention","value":16,"meta":{"rank":33,"upvotes":4037,"prev24h":1}}
+{"id":"c64ff273b5a6fe22","ts":"2026-10-30T16:02:35.265Z","date":"2026-10-30","source":"apewisdom","ticker":"RKLB","kind":"attention","value":11,"meta":{"rank":46,"upvotes":59,"prev24h":4}}
+{"id":"28c893e95923c137","ts":"2026-10-30T16:02:35.265Z","date":"2026-10-30","source":"apewisdom","ticker":"SMCI","kind":"attention","value":10,"meta":{"rank":49,"upvotes":16,"prev24h":1}}
+{"id":"ad145d175c0c940d","ts":"2026-10-30T16:02:35.265Z","date":"2026-10-30","source":"apewisdom","ticker":"ON","kind":"attention","value":10,"meta":{"rank":50,"upvotes":22,"prev24h":1}}
