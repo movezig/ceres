@@ -43127,3 +43127,30 @@
 {"id":"e629dbe944f1f0f5","ts":"2026-11-12T12:59:10.560Z","date":"2026-11-12","source":"apewisdom","ticker":"IQ","kind":"attention","value":18,"meta":{"rank":44,"upvotes":34,"prev24h":15}}
 {"id":"ea97dbe6f2d2384f","ts":"2026-11-12T12:59:10.560Z","date":"2026-11-12","source":"apewisdom","ticker":"API","kind":"attention","value":16,"meta":{"rank":49,"upvotes":235,"prev24h":15}}
 {"id":"88e1876ac73efc50","ts":"2026-11-12T12:59:10.560Z","date":"2026-11-12","source":"apewisdom","ticker":"SMCI","kind":"attention","value":15,"meta":{"rank":50,"upvotes":66,"prev24h":19}}
+{"id":"e75a5bb2c23d0988","ts":"2026-11-12T20:58:15.070Z","date":"2026-11-11","source":"houseclerk","ticker":null,"kind":"ptr_filed","value":1,"meta":{"member":"Richard W. Allen","district":"GA12","url":"https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035821.pdf"}}
+{"id":"e2b9966aef673df5","ts":"2026-11-12T20:58:15.072Z","date":"2026-11-11","source":"houseclerk","ticker":null,"kind":"ptr_filed","value":1,"meta":{"member":"Lloyd Doggett","district":"TX37","url":"https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035826.pdf"}}
+{"id":"61e35f6a441e2307","ts":"2026-11-12T20:58:15.520Z","date":"2026-11-12","source":"stocktwits","ticker":"TSLA","kind":"attention","value":1073288,"meta":{"rank":2,"sector":"ConsumerDurables"}}
+{"id":"3e7aa7eb4d148726","ts":"2026-11-12T20:58:15.521Z","date":"2026-11-12","source":"stocktwits","ticker":"NVAX","kind":"attention","value":108202,"meta":{"rank":7,"sector":"HealthTechnology"}}
+{"id":"2d08abeb0a8ea55f","ts":"2026-11-12T20:58:15.521Z","date":"2026-11-12","source":"stocktwits","ticker":"CBRS","kind":"attention","value":15853,"meta":{"rank":8,"sector":"TechnologyServices"}}
+{"id":"459dae6da892ad36","ts":"2026-11-12T20:58:15.521Z","date":"2026-11-12","source":"stocktwits","ticker":"NU","kind":"attention","value":17343,"meta":{"rank":11,"sector":"Finance"}}
+{"id":"196acf5be30ad224","ts":"2026-11-12T20:58:15.521Z","date":"2026-11-12","source":"stocktwits","ticker":"ZM","kind":"attention","value":64601,"meta":{"rank":12,"sector":"TechnologyServices"}}
+{"id":"733c7462d285fcf9","ts":"2026-11-12T20:58:15.521Z","date":"2026-11-12","source":"stocktwits","ticker":"FLO","kind":"attention","value":1605,"meta":{"rank":15,"sector":"ConsumerNonDurables"}}
+{"id":"eac1661194d1abba","ts":"2026-11-12T20:58:15.521Z","date":"2026-11-12","source":"stocktwits","ticker":"AGNC","kind":"attention","value":13097,"meta":{"rank":18,"sector":"Finance"}}
+{"id":"07c3cd4ff4e7ce7f","ts":"2026-11-12T20:58:15.521Z","date":"2026-11-12","source":"stocktwits","ticker":"CRSP","kind":"attention","value":41755,"meta":{"rank":19,"sector":"HealthTechnology"}}
+{"id":"950f3d4e02cd767a","ts":"2026-11-12T20:58:15.521Z","date":"2026-11-12","source":"stocktwits","ticker":"IBRX","kind":"attention","value":31479,"meta":{"rank":21,"sector":"HealthTechnology"}}
+{"id":"8f89d13164383d75","ts":"2026-11-12T20:58:15.521Z","date":"2026-11-12","source":"stocktwits","ticker":"UPST","kind":"attention","value":47520,"meta":{"rank":22,"sector":"Finance"}}
+{"id":"58b2929fe3f0aea5","ts":"2026-11-12T20:58:15.521Z","date":"2026-11-12","source":"stocktwits","ticker":"ARCT","kind":"attention","value":5607,"meta":{"rank":24,"sector":"HealthTechnology"}}
+{"id":"50d52838912473d6","ts":"2026-11-12T20:58:15.521Z","date":"2026-11-12","source":"stocktwits","ticker":"SMMT","kind":"attention","value":10704,"meta":{"rank":25,"sector":"HealthTechnology"}}
+{"id":"401920b0ac765090","ts":"2026-11-12T20:58:15.521Z","date":"2026-11-12","source":"stocktwits","ticker":"SRPT","kind":"attention","value":26673,"meta":{"rank":26,"sector":"HealthTechnology"}}
+{"id":"9d955c489f2895ec","ts":"2026-11-12T20:58:15.521Z","date":"2026-11-12","source":"stocktwits","ticker":"BA","kind":"attention","value":198233,"meta":{"rank":27,"sector":"ElectronicTechnology"}}
+{"id":"7c4227adb23dfa00","ts":"2026-11-12T20:58:15.522Z","date":"2026-11-12","source":"stocktwits","ticker":"PENG","kind":"attention","value":4727,"meta":{"rank":28,"sector":"ElectronicTechnology"}}
+{"id":"22e050fe516225fb","ts":"2026-11-12T20:58:15.522Z","date":"2026-11-12","source":"stocktwits","ticker":"DAL","kind":"attention","value":83882,"meta":{"rank":29,"sector":"Transportation"}}
+{"id":"40d2e14ed7fffd4e","ts":"2026-11-12T20:58:15.522Z","date":"2026-11-12","source":"stocktwits","ticker":"GTBIF","kind":"attention","value":6364,"meta":{"rank":30,"sector":"ProcessIndustries"}}
+{"id":"57584513b83e2f06","ts":"2026-11-12T20:58:19.587Z","date":"2026-11-12","source":"apewisdom","ticker":"CBRS","kind":"attention","value":27,"meta":{"rank":33,"upvotes":38,"prev24h":3}}
+{"id":"9ed990b323c3fc69","ts":"2026-11-12T20:58:19.587Z","date":"2026-11-12","source":"apewisdom","ticker":"LUNR","kind":"attention","value":25,"meta":{"rank":35,"upvotes":38,"prev24h":6}}
+{"id":"6bacc51a52ffb0c1","ts":"2026-11-12T20:58:19.587Z","date":"2026-11-12","source":"apewisdom","ticker":"FOR","kind":"attention","value":23,"meta":{"rank":38,"upvotes":81,"prev24h":5}}
+{"id":"dd01a64efe05f827","ts":"2026-11-12T20:58:19.587Z","date":"2026-11-12","source":"apewisdom","ticker":"GLD","kind":"attention","value":21,"meta":{"rank":42,"upvotes":27,"prev24h":8}}
+{"id":"26e5b8a11f65bf82","ts":"2026-11-12T20:58:19.587Z","date":"2026-11-12","source":"apewisdom","ticker":"FCF","kind":"attention","value":20,"meta":{"rank":43,"upvotes":67,"prev24h":13}}
+{"id":"69ad470abcb39ed6","ts":"2026-11-12T20:58:19.587Z","date":"2026-11-12","source":"apewisdom","ticker":"CTO","kind":"attention","value":20,"meta":{"rank":44,"upvotes":306,"prev24h":1}}
+{"id":"6f579cdcb7508566","ts":"2026-11-12T20:58:19.587Z","date":"2026-11-12","source":"apewisdom","ticker":"OR","kind":"attention","value":19,"meta":{"rank":45,"upvotes":62,"prev24h":5}}
+{"id":"10ef6ea6a61e77d3","ts":"2026-11-12T20:58:19.587Z","date":"2026-11-12","source":"apewisdom","ticker":"AMAT","kind":"attention","value":17,"meta":{"rank":49,"upvotes":22,"prev24h":5}}
